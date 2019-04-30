@@ -1,0 +1,999 @@
+n a z i o n e +NOUN +Gender=Fem +Number=Sing
+d i p e n d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+s a l t o +NOUN +Gender=Masc +Number=Plur	s a l t a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	s a l t a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	s a l t a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	s a l t a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	s a l t a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+r i s p e t t a r e +VERB +VerbForm=Inf
+s u i c i d a +NOUN +Gender=Masc +Number=Sing	s u i c i d a +NOUN +Gender=Fem +Number=Sing
+o r d i n a t o +ADJ +Gender=Masc +Number=Sing	o r d i n a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+s c o n v o l t o +ADJ +Gender=Fem +Number=Sing	s c o n v o l g e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+c a p a n n a +NOUN +Gender=Fem +Number=Sing
+p a t t o +NOUN +Gender=Masc +Number=Plur
+l e g g e r o +ADJ +Gender=Masc +Number=Sing
+i n n u m e r e v o l e +ADJ +Gender=Masc,Fem +Number=Plur
+d i s p o n i b i l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+f u o c o +NOUN +Gender=Masc +Number=Sing
+p e n s a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	p e n s a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+a v a n z a t o +ADJ +Gender=Fem +Number=Sing	a v a n z a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+c h i e s e t t a +NOUN +Gender=Fem +Number=Sing
+p r e c e d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+s u o n o +NOUN +Gender=Masc +Number=Sing	s u o n a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+s e r i o +NOUN +Gender=Fem +Number=Sing	s e r i o +ADJ +Gender=Fem +Number=Sing
+m e n z i o n a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+v a s t o +ADJ +Gender=Masc +Number=Plur
+b a t t e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	b a t t u t o +ADJ +Gender=Fem +Number=Sing	b a t t u t a +NOUN +Gender=Fem +Number=Sing
+i n d u r r e +VERB +VerbForm=Inf
+r o b o t +NOUN +Gender=Masc +Number=Sing,Plur
+s o p p r e s s o +NOUN +Gender=Masc +Number=Sing	s o p p r e s s o +ADJ +Gender=Masc +Number=Sing	s o p p r i m e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+v i s t a +NOUN +Gender=Fem +Number=Plur	v e d e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+d i a g n o s i +NOUN +Gender=Fem +Number=Sing,Plur
+s c r i v e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	s c r i t t a +NOUN +Gender=Fem +Number=Plur	s c r i t t o +ADJ +Gender=Fem +Number=Plur
+c o n t a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n t a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	c o n t a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	c o n t a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n t o +NOUN +Gender=Masc +Number=Plur	c o n t a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n t e +NOUN +Gender=Masc +Number=Plur
+i n d a g i n e +NOUN +Gender=Fem +Number=Plur
+s e r p e n t e +NOUN +Gender=Masc +Number=Plur
+s u c c e d e r e +VERB +VerbForm=Ger
+r u o t a +NOUN +Gender=Fem +Number=Sing	r u o t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	r u o t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+u s a r e +VERB +VerbForm=Ger
+m e n z i o n e +NOUN +Gender=Fem +Number=Sing
+c o l l a b o r a z i o n e +NOUN +Gender=Fem +Number=Sing
+a r t i s t i c o +ADJ +Gender=Fem +Number=Plur
+r e s p o n s a b i l e +ADJ +Gender=Masc,Fem +Number=Sing	r e s p o n s a b i l e +NOUN +Gender=Masc,Fem +Number=Sing
+m a s c h i l e +ADJ +Gender=Masc,Fem +Number=Sing
+s v o l g i m e n t o +NOUN +Gender=Masc +Number=Sing
+v e n i r e +VERB +VerbForm=Ger
+c a m p i o n a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c a m p i o n e +NOUN +Gender=Masc +Number=Plur	c a m p i o n a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c a m p i o n a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	c a m p i o n a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c a m p i o n a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c u o c e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	c o t t o +ADJ +Gender=Masc +Number=Sing	c o t t o +NOUN +Gender=Masc +Number=Sing
+p r o t e t t o r e +NOUN +Gender=Masc +Number=Sing
+a c c e n d e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	a c c e s o +ADJ +Gender=Masc +Number=Sing
+g i r o n e +NOUN +Gender=Masc +Number=Sing
+a p p a r i r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+i s c r i t t o +NOUN +Gender=Masc +Number=Sing	i s c r i t t o +ADJ +Gender=Masc +Number=Sing	i s c r i v e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c o m p r e n d e r e +VERB +VerbForm=Inf
+m a r z o +NOUN +Gender=Masc +Number=Sing
+v i t t i m a +NOUN +Gender=Fem +Number=Sing
+c a n o n e +NOUN +Gender=Masc +Number=Sing
+n o t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	n o t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	n o t a +NOUN +Gender=Fem +Number=Sing	n o t o +ADJ +Gender=Fem +Number=Sing
+s e g u i r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s i t u a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+d e l i t t o +NOUN +Gender=Masc +Number=Plur
+t a n t o +ADJ +Gender=Fem +Number=Plur
+g i r a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	g i r a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	g i r o +NOUN +Gender=Masc +Number=Plur	g i r a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	g i r a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	g i r a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+c o m m i s s a r i o +NOUN +Gender=Masc,Fem +Number=Sing
+n o r m a l e +ADJ +Gender=Masc,Fem +Number=Plur
+n a t i v o +ADJ +Gender=Masc +Number=Plur	n a t i v o +NOUN +Gender=Masc +Number=Plur
+r a c c o n t a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+o p p o r t u n o +ADJ +Gender=Masc +Number=Sing
+r e p u b b l i c a n o +ADJ +Gender=Masc +Number=Plur	r e p u b b l i c a n o +NOUN +Gender=Masc +Number=Plur
+n o z z e +NOUN +Gender=Fem +Number=Plur
+n o r m a +NOUN +Gender=Fem +Number=Plur
+n o r m a n n o +ADJ +Gender=Masc +Number=Plur	n o r m a n n o +NOUN +Gender=Masc +Number=Plur
+n e g o z i o +NOUN +Gender=Masc +Number=Sing	n e g o z i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+p a r c o +NOUN +Gender=Masc +Number=Plur	p a r c o +ADJ +Gender=Masc +Number=Plur
+m e s t i e r e +NOUN +Gender=Masc +Number=Sing
+r o m p e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+s t u c c a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	s t u c c o +NOUN +Gender=Masc +Number=Sing
+c a s a l i n g a +NOUN +Gender=Fem +Number=Plur
+a u m e n t a t o +ADJ +Gender=Masc +Number=Sing	a u m e n t a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c o n t r o l l a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	c o n t r o l l a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n t r o l l a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n t r o l l a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n t r o l l o +NOUN +Gender=Masc +Number=Plur	c o n t r o l l a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c h i l o m e t r o +NOUN +Gender=Masc +Number=Sing
+d e c o r a z i o n e +NOUN +Gender=Fem +Number=Sing
+i n i z i a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	i n i z i a t o +ADJ +Gender=Masc +Number=Sing
+l i n e a r e +ADJ +Gender=Masc,Fem +Number=Sing	l i n e a r e +NOUN +Gender=Masc +Number=Sing
+c a u s a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	c a u s a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin	c a u s a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+t e m p o r a n e o +ADJ +Gender=Masc +Number=Sing
+p i x e l +NOUN +Gender=Masc +Number=Sing,Plur
+p r o p r i o +ADJ +Gender=Fem +Number=Sing
+d r a g o +NOUN +Gender=Masc +Number=Sing
+c o n t e n e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	c o n t e n u t o +ADJ +Gender=Fem +Number=Sing
+s o l u z i o n e +NOUN +Gender=Fem +Number=Plur
+r e g g e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	r e t t o +NOUN +Gender=Masc +Number=Sing	r e t t o +ADJ +Gender=Masc +Number=Sing
+a r c a t a +NOUN +Gender=Fem +Number=Plur
+b l o c c a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+s o r p r e s a +NOUN +Gender=Fem +Number=Sing	s o r p r e s o +ADJ +Gender=Fem +Number=Sing	s o r p r e n d e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+p e r s o n a l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+s p i n a +NOUN +Gender=Fem +Number=Plur	s p i n o +ADJ +Gender=Fem +Number=Plur
+e s p o r r e +VERB +VerbForm=Inf
+c e c o +NOUN +Gender=Masc +Number=Sing	c e c o +ADJ +Gender=Masc +Number=Sing
+i l l u s t r a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	i l l u s t r a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	i l l u s t r a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	i l l u s t r a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	i l l u s t r a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	i l l u s t r e +ADJ +Gender=Masc,Fem +Number=Plur
+s e r v i r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+r e n d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+r i e n t r a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	r i e n t r o +NOUN +Gender=Masc +Number=Sing
+m u l i n o +NOUN +Gender=Masc +Number=Sing
+c o n s i s t e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+i n t e g r a n t e +ADJ +Gender=Masc,Fem +Number=Sing	i n t e g r a n t e +NOUN +Gender=Masc,Fem +Number=Sing
+v i n c e r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+b o o m +NOUN +Gender=Masc +Number=Sing,Plur
+c o n s i d e r a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+a m m e t t e r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part	a m m e s s o +NOUN +Gender=Masc +Number=Plur
+v o g a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	v o g a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+v u o t o +ADJ +Gender=Fem +Number=Sing	v u o t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	v u o t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+n u m e r a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	n u m e r a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	n u m e r o +NOUN +Gender=Masc +Number=Plur	n u m e r a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	n u m e r a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	n u m e r a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+s f i d a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	s f i d a +NOUN +Gender=Fem +Number=Sing	s f i d a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+s p o r t i v o +NOUN +Gender=Masc +Number=Plur	s p o r t i v o +ADJ +Gender=Masc +Number=Plur
+v e r d e +ADJ +Gender=Masc,Fem +Number=Sing	v e r d e +NOUN +Gender=Masc,Fem +Number=Sing
+m o d e r n o +ADJ +Gender=Fem +Number=Plur
+a m b a s c i a t a +NOUN +Gender=Fem +Number=Sing
+c o r t o m e t r a g g i o +NOUN +Gender=Masc +Number=Plur
+b e t a +NOUN +Gender=Masc +Number=Sing,Plur
+r u m e n o +NOUN +Gender=Fem +Number=Sing	r u m e n o +ADJ +Gender=Fem +Number=Sing
+s e c o n d o +NOUN +Gender=Masc +Number=Plur	s e c o n d o +ADJ +Gender=Masc +NumType=Ord +Number=Plur
+a r c h i t e t t o +NOUN +Gender=Masc +Number=Sing
+b i e n n i o +NOUN +Gender=Masc +Number=Sing
+l i b e r o +ADJ +Gender=Masc +Number=Sing	l i b e r a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+p a r t e c i p a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+c o n s o l a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n s o l a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	c o n s o l a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n s o l a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	c o n s o l a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n s o l e +NOUN +Gender=Masc +Number=Plur
+n o t e v o l e +ADJ +Gender=Masc,Fem +Number=Plur
+p r e o c c u p a z i o n e +NOUN +Gender=Fem +Number=Plur
+i n t r o d u r r e +VERB +VerbForm=Ger
+r i v a l e +NOUN +Gender=Masc,Fem +Number=Plur	r i v a l e +ADJ +Gender=Masc,Fem +Number=Plur
+p r e s e n t a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+f a t t o r e +NOUN +Gender=Masc +Number=Sing
+c o r r e t t o +ADJ +Gender=Fem +Number=Sing	c o r r e g g e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+f i g u r a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+s t a b i l i r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+d i s t i n g u e r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+s e t a +NOUN +Gender=Fem +Number=Sing
+s p u n t o +NOUN +Gender=Masc +Number=Sing	s p u n t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+r e s p o n s a b i l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+p e r c e z i o n e +NOUN +Gender=Fem +Number=Sing
+f a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+i n c e n d i o +NOUN +Gender=Masc +Number=Plur	i n c e n d i a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	i n c e n d i a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	i n c e n d i a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	i n c e n d i a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	i n c e n d i a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+b u l g a r o +ADJ +Gender=Fem +Number=Sing	b u l g a r o +NOUN +Gender=Fem +Number=Sing
+l i b e r o +ADJ +Gender=Fem +Number=Plur
+a r c i v e s c o v i l e +ADJ +Gender=Masc,Fem +Number=Sing
+s e g n a l a z i o n e +NOUN +Gender=Fem +Number=Sing
+i n t e r p r e t a z i o n e +NOUN +Gender=Fem +Number=Plur
+c o n t a d i n o +NOUN +Gender=Masc +Number=Plur	c o n t a d i n o +ADJ +Gender=Masc +Number=Plur
+p r o t o t i p o +ADJ +Gender=Masc +Number=Plur	p r o t o t i p o +NOUN +Gender=Masc +Number=Plur
+n a p o l e o n i c o +ADJ +Gender=Fem +Number=Sing
+d i s t i n z i o n e +NOUN +Gender=Fem +Number=Sing
+a p p r e n d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+p u b b l i c a r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+c l i e n t e +NOUN +Gender=Masc,Fem +Number=Plur
+r i p o r t a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+f e s t e g g i a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	f e s t e g g i a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c i r c o l a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c i r c o l o +NOUN +Gender=Masc +Number=Sing
+t o t a l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+s o b b o r g o +NOUN +Gender=Masc +Number=Sing
+r i f e r i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+u l t r a +ADJ +Gender=Masc,Fem +Number=Sing,Plur	u l t r a +NOUN +Gender=Fem +Number=Sing,Plur
+s t r a n o +ADJ +Gender=Masc +Number=Plur	s t r a n o +NOUN +Gender=Masc +Number=Plur
+v i s i t a +NOUN +Gender=Fem +Number=Plur
+c a l d o +ADJ +Gender=Fem +Number=Plur
+p r e s e n t e +NOUN +Gender=Masc,Fem +Number=Sing	p r e s e n t e +NOUN +Gender=Masc +Number=Sing	p r e s e n t e +ADJ +Gender=Masc,Fem +Number=Sing
+a f f i d a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+g i o v a n e +ADJ +Degree=Sup +Gender=Masc +Number=Sing
+s o f f i t t o +NOUN +Gender=Masc +Number=Sing
+c l a s s i f i c a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	c l a s s i f i c a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin	c l a s s i f i c a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+r a c c o n t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	r a c c o n t o +NOUN +Gender=Masc +Number=Sing
+l i q u i d a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	l i q u i d o +NOUN +Gender=Masc +Number=Plur	l i q u i d o +ADJ +Gender=Masc +Number=Plur	l i q u i d a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	l i q u i d a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	l i q u i d a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	l i q u i d a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+b l u +ADJ +Gender=Masc,Fem +Number=Sing,Plur
+n o r m a t i v o +ADJ +Gender=Fem +Number=Plur	n o r m a t i v a +NOUN +Gender=Fem +Number=Plur
+s o r e l l a +NOUN +Gender=Fem +Number=Plur
+m o r i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	m o r t o +NOUN +Gender=Masc +Number=Sing	m o r t o +ADJ +Gender=Masc +Number=Sing
+a b b a n d o n a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	a b b a n d o n a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+l a v o r a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	l a v o r a t o +ADJ +Gender=Masc +Number=Sing
+d i a l o g o +NOUN +Gender=Masc +Number=Plur	d i a l o g a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	d i a l o g a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	d i a l o g a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	d i a l o g a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	d i a l o g a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+c i c l o +NOUN +Gender=Masc +Number=Plur
+r a g g i u n g e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+i n t a n t o +ADV +_
+c o m u n e m e n t e +ADV +_
+l a t i n o +NOUN +Gender=Masc +Number=Plur	l a t i n o +ADJ +Gender=Masc +Number=Plur
+l i b r a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	l i b r a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	l i b r a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	l i b r a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	l i b r a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	l i b r o +NOUN +Gender=Masc +Number=Plur
+c o n t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n t o +NOUN +Gender=Masc +Number=Sing
+f e l i c e +ADJ +Gender=Masc,Fem +Number=Sing
+m a i s +NOUN +Gender=Masc +Number=Sing,Plur
+s t a g i o n e +NOUN +Gender=Fem +Number=Plur
+m a s s o n e r i a +NOUN +Gender=Fem +Number=Sing
+f e d e l t à +NOUN +Gender=Fem +Number=Sing,Plur
+p r e p a r a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	p r e p a r a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c o n s e n t i t o +ADJ +Gender=Fem +Number=Sing	c o n s e n t i r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+m o n d i a l e +ADJ +Gender=Masc,Fem +Number=Sing	m o n d i a l e +NOUN +Gender=Masc +Number=Sing
+a b i t a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	a b i t a t o +ADJ +Gender=Fem +Number=Sing
+c o l l o q u i o +NOUN +Gender=Masc +Number=Sing	c o l l o q u i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+i b e r i c o +ADJ +Gender=Fem +Number=Sing
+c o n c e p i r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+r a p p r e s e n t a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	r a p p r e s e n t a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	r a p p r e s e n t a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin
+s e n i o r +NOUN +Gender=Masc,Fem +Number=Sing	s e n i o r +ADJ +Gender=Masc,Fem +Number=Sing
+c a r t o n e +NOUN +Gender=Masc +Number=Sing
+u c c e l l o +NOUN +Gender=Masc +Number=Plur
+l i v e +ADJ +Gender=Masc,Fem +Number=Sing,Plur	l i v e +NOUN +Gender=Masc +Number=Sing,Plur
+c o m p l i c e +NOUN +Gender=Masc,Fem +Number=Sing
+s o t t o m a r i n o +ADJ +Gender=Masc +Number=Sing	s o t t o m a r i n o +NOUN +Gender=Masc +Number=Sing
+i n s e g n a m e n t o +NOUN +Gender=Masc +Number=Sing
+t e r r e n o +ADJ +Gender=Masc +Number=Sing	t e r r e n o +NOUN +Gender=Masc +Number=Sing
+s v o l g e r e +VERB +VerbForm=Ger
+a n g e l o +NOUN +Gender=Masc +Number=Plur
+p r o m e t t e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	p r o m e s s o +ADJ +Gender=Masc +Number=Sing
+r i t e n e r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+m i t e +ADJ +Gender=Masc,Fem +Number=Plur	m i t o +NOUN +Gender=Masc +Number=Plur
+i m p a r a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s p i a +NOUN +Gender=Fem +Number=Sing	s p i a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	s p i a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+i n c l i n a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	i n c l i n a t o +ADJ +Gender=Fem +Number=Sing
+c r e s c i t a +NOUN +Gender=Fem +Number=Sing
+a l l o n t a n a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c o s t e l l a z i o n e +NOUN +Gender=Fem +Number=Sing
+d i p l o m a t i c o +NOUN +Gender=Fem +Number=Plur	d i p l o m a t i c o +ADJ +Gender=Fem +Number=Plur
+r i v e s t i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	r i v e s t i t o +ADJ +Gender=Masc +Number=Sing
+m u n i t o +ADJ +Gender=Masc +Number=Sing	m u n i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+p i e t r a +NOUN +Gender=Fem +Number=Plur
+e l e t t o +ADJ +Gender=Masc +Number=Sing	e l e t t o +NOUN +Gender=Masc +Number=Sing	e l e g g e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+t r a s f o r m a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s u b s t r a t o +NOUN +Gender=Masc +Number=Sing
+p r o t e s t a n t e +ADJ +Gender=Masc,Fem +Number=Sing	p r o t e s t a n t e +NOUN +Gender=Masc,Fem +Number=Sing
+a c c e d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+p a r t i c o l a r i t à +NOUN +Gender=Fem +Number=Sing,Plur
+c o s t r i n g e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+r i s a l e n t e +ADJ +Gender=Masc,Fem +Number=Plur
+c h i m i c o +ADJ +Gender=Masc +Number=Plur	c h i m i c o +NOUN +Gender=Masc +Number=Plur
+l a n t e r n a +NOUN +Gender=Fem +Number=Sing
+q u a l i f i c a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	q u a l i f i c a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin	q u a l i f i c a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	q u a l i f i c a t o +ADJ +Gender=Fem +Number=Plur
+t e r a p i a +NOUN +Gender=Fem +Number=Sing
+s e c o n d a r i o +ADJ +Gender=Masc +Number=Plur
+f o n d a t o r e +ADJ +Gender=Masc +Number=Plur	f o n d a t o r e +NOUN +Gender=Masc +Number=Plur
+t u t o r e +NOUN +Gender=Masc +Number=Sing
+s i g n i f i c a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	s i g n i f i c a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+r o m a n o +NOUN +Gender=Fem +Number=Sing	r o m a n o +ADJ +Gender=Fem +Number=Sing
+l e g i s l a t i v o +ADJ +Gender=Masc +Number=Sing
+s o s t a n z a +NOUN +Gender=Fem +Number=Plur
+f o r t i f i c a z i o n e +NOUN +Gender=Fem +Number=Plur
+a l l e s t i m e n t o +NOUN +Gender=Masc +Number=Sing
+k i t +NOUN +Gender=Masc +Number=Sing,Plur
+i n q u i s i z i o n e +NOUN +Gender=Fem +Number=Sing
+f e l i c i t à +NOUN +Gender=Fem +Number=Sing,Plur
+m u n i c i p a l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+g i u r i d i c o +ADJ +Gender=Masc +Number=Plur
+m a l e +NOUN +Gender=Masc +Number=Sing	m a l e +ADV +_	m a l o +ADJ +Gender=Fem +Number=Plur
+a t t u a l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+m u s c o l a r e +ADJ +Gender=Masc,Fem +Number=Sing
+s t a r e +VERB +Aspect=Imp +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+s p e c i e +NOUN +Gender=Fem +Number=Sing,Plur	s p e c i e +ADV +_
+p a e s a g g i o +NOUN +Gender=Masc +Number=Sing
+r i c o r d a r e +VERB +VerbForm=Inf
+v a l i d i t à +NOUN +Gender=Fem +Number=Sing,Plur
+c o p e r t o +ADJ +Gender=Masc +Number=Plur	c o p e r t o +NOUN +Gender=Masc +Number=Plur	c o p r i r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part
+m o r t a l e +NOUN +Gender=Masc,Fem +Number=Sing	m o r t a l e +ADJ +Gender=Masc,Fem +Number=Sing
+a s s i s t e r e +VERB +VerbForm=Inf
+s i n t e s i +NOUN +Gender=Fem +Number=Sing,Plur
+f o r m a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+c o l l e z i o n i s t a +NOUN +Gender=Masc +Number=Sing	c o l l e z i o n i s t a +NOUN +Gender=Fem +Number=Sing
+s c h e r m o +NOUN +Gender=Masc +Number=Plur
+s c o p o +NOUN +Gender=Masc +Number=Sing
+o s s i d o +NOUN +Gender=Masc +Number=Sing
+v e c c h i o +ADJ +Gender=Fem +Number=Sing	v e c c h i a +NOUN +Gender=Fem +Number=Sing
+c o m b a t t e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+a i d s +NOUN +Gender=Fem +Number=Sing,Plur
+p a t o l o g i a +NOUN +Gender=Fem +Number=Sing
+s c e g l i e r e +VERB +VerbForm=Inf
+m o n g o l o +ADJ +Gender=Masc +Number=Plur	m o n g o l o +NOUN +Gender=Masc +Number=Plur
+s e c e s s i o n e +NOUN +Gender=Fem +Number=Sing
+m a t r i m o n i o +NOUN +Gender=Masc +Number=Sing
+s e n t i t o +ADJ +Gender=Masc +Number=Sing	s e n t i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c l u b +NOUN +Gender=Masc +Number=Sing
+a c c e s s o +NOUN +Gender=Masc +Number=Plur
+n e m i c o +NOUN +Gender=Masc +Number=Sing	n e m i c o +ADJ +Gender=Masc +Number=Sing
+s e r v o +NOUN +Gender=Fem +Number=Plur	s e r v i r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+b o r g h e s e +NOUN +Gender=Masc,Fem +Number=Sing	b o r g h e s e +ADJ +Gender=Masc,Fem +Number=Sing
+v e s t i r e +VERB +VerbForm=Inf
+p e r s i a n o +NOUN +Gender=Masc +Number=Plur	p e r s i a n o +ADJ +Gender=Masc +Number=Plur
+v i n c i t o r e +ADJ +Gender=Masc +Number=Sing	v i n c i t o r e +NOUN +Gender=Masc +Number=Sing
+f a r e +VERB +VerbForm=Inf
+a m o r e +NOUN +Gender=Masc +Number=Sing
+v o t a z i o n e +NOUN +Gender=Fem +Number=Sing
+p r o l u n g a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	p r o l u n g a t o +ADJ +Gender=Fem +Number=Sing
+e s p e r t o +NOUN +Gender=Masc +Number=Sing	e s p e r t o +ADJ +Gender=Masc +Number=Sing
+e t e r n o +NOUN +Gender=Masc +Number=Sing	e t e r n a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	e t e r n o +ADJ +Gender=Masc +Number=Sing
+f i g u r a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	f i g u r a +NOUN +Gender=Fem +Number=Sing	f i g u r a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c r e d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+d i m o s t r a r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+e c c l e s i a s t i c o +ADJ +Gender=Masc +Number=Plur	e c c l e s i a s t i c o +NOUN +Gender=Masc +Number=Plur
+m a g i a +NOUN +Gender=Fem +Number=Sing
+s e s t o +NOUN +Gender=Masc +Number=Sing	s e s t o +ADJ +Gender=Masc +NumType=Ord +Number=Sing
+b i g l i e t t o +NOUN +Gender=Masc +Number=Sing
+o t t o m a n o +NOUN +Gender=Masc +Number=Sing	o t t o m a n o +ADJ +Gender=Masc +Number=Sing
+s o l i t a r i o +ADJ +Gender=Fem +Number=Sing
+d o p p i o +NOUN +Gender=Masc +Number=Plur	d o p p i o +ADJ +Gender=Masc +Number=Plur
+m e c c a n i c o +ADJ +Gender=Fem +Number=Sing	m e c c a n i c a +NOUN +Gender=Fem +Number=Sing
+a n n u o +ADJ +Gender=Fem +Number=Sing
+r i s a l e n t e +ADJ +Gender=Masc,Fem +Number=Sing
+l a v o r a t o r e +NOUN +Gender=Masc +Number=Sing
+o r d i n a z i o n e +NOUN +Gender=Fem +Number=Sing
+c o n s e n s o +NOUN +Gender=Masc +Number=Sing
+l e t t e r a +NOUN +Gender=Fem +Number=Sing
+p r o v e n i r e +VERB +Aspect=Imp +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+g i n n a s t i c a +NOUN +Gender=Fem +Number=Sing	g i n n a s t i c o +ADJ +Gender=Fem +Number=Sing
+a t t r a v e r s a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+a c q u i s t a r e +VERB +VerbForm=Inf
+e s t e r o +ADJ +Gender=Fem +Number=Plur
+d i s p e t t o +NOUN +Gender=Masc +Number=Sing
+d i f e n s o r e +ADJ +Gender=Masc +Number=Plur	d i f e n s o r e +NOUN +Gender=Masc +Number=Plur
+p u b b l i c o +ADJ +Gender=Fem +Number=Plur
+v o l a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	v o l o +NOUN +Gender=Masc +Number=Sing
+s i g l a +NOUN +Gender=Fem +Number=Plur
+e p i d e m i a +NOUN +Gender=Fem +Number=Sing
+a f r o a m e r i c a n o +ADJ +Gender=Masc +Number=Plur	a f r o a m e r i c a n o +NOUN +Gender=Masc +Number=Plur
+i n t e r n o +ADJ +Gender=Masc +Number=Sing	i n t e r n a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+c o n s e n t i r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s o g g e t t o +ADJ +Gender=Masc +Number=Sing	s o g g e t t o +NOUN +Gender=Masc +Number=Sing
+d i f e n s i v o +ADJ +Gender=Masc +Number=Sing
+p e r m a n e n t e +ADJ +Gender=Masc,Fem +Number=Sing
+e r o e +NOUN +Gender=Masc +Number=Sing
+c r e a t u r a +NOUN +Gender=Fem +Number=Sing
+c a p o l a v o r o +NOUN +Gender=Masc +Number=Plur
+o s t i l e +ADJ +Gender=Masc,Fem +Number=Sing
+s t i m o l o +NOUN +Gender=Masc +Number=Sing	s t i m o l a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+r i m a n e r e +VERB +VerbForm=Inf
+e s e m p l a r e +NOUN +Gender=Masc +Number=Sing	e s e m p l a r e +ADJ +Gender=Masc,Fem +Number=Sing
+p r o d u t t o r e +NOUN +Gender=Fem +Number=Sing	p r o d u t t o r e +ADJ +Gender=Fem +Number=Sing
+c o s t o s o +ADJ +Gender=Masc +Number=Sing
+a u t o m o b i l i s t i c o +ADJ +Gender=Masc +Number=Sing
+p e n e t r a r e +VERB +VerbForm=Inf
+c i t a r e +VERB +VerbForm=Inf
+s c a m b i o +NOUN +Gender=Masc +Number=Sing	s c a m b i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+s t u d i a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s u d d e t t o +ADJ +Gender=Masc +Number=Sing
+p a r t e c i p a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s t r i s c i a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	s t r i s c i a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	s t r i s c i a +NOUN +Gender=Fem +Number=Sing
+g r a v i t à +NOUN +Gender=Fem +Number=Sing,Plur
+i n s t a l l a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	i n s t a l l a t o +ADJ +Gender=Fem +Number=Sing
+r u b a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	r u b a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+r i c e z i o n e +NOUN +Gender=Fem +Number=Sing
+p u l i z i a +NOUN +Gender=Fem +Number=Sing
+p a s t o r e +NOUN +Gender=Masc +Number=Sing
+r i t r o v a m e n t o +NOUN +Gender=Masc +Number=Plur
+e v i d e n t e m e n t e +ADV +_
+e s c l u d e r e +VERB +VerbForm=Inf
+o t t i m o +ADJ +Gender=Fem +Number=Sing
+s i n i s t r o +NOUN +Gender=Masc +Number=Sing	s i n i s t r o +ADJ +Gender=Masc +Number=Sing
+g o d e r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+m e z z o +ADJ +Gender=Masc +Number=Plur	m e z z o +NOUN +Gender=Masc +Number=Plur
+a r r i v a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	a r r i v a t o +ADJ +Gender=Fem +Number=Sing
+m o n i t o r a g g i o +NOUN +Gender=Masc +Number=Sing
+r i d u r r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	r i d o t t o +ADJ +Gender=Fem +Number=Plur
+t e r r o r i s t a +ADJ +Gender=Masc +Number=Plur	t e r r o r i s t a +NOUN +Gender=Masc +Number=Plur
+i n p u t +NOUN +Gender=Masc +Number=Sing,Plur
+p r e z z o +NOUN +Gender=Masc +Number=Plur
+i m m e r s i o n e +NOUN +Gender=Fem +Number=Sing
+o d o r e +NOUN +Gender=Masc +Number=Sing
+a r t i f i c i a l e +ADJ +Gender=Masc,Fem +Number=Plur
+t o l t o +ADJ +Gender=Masc +Number=Sing	t o g l i e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c o s i d d e t t o +ADJ +Gender=Masc +Number=Plur
+s e l e z i o n a t o +ADJ +Gender=Masc +Number=Sing	s e l e z i o n a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+p o c o +ADJ +Definite=Ind +Degree=Sup +Gender=Masc +Number=Plur
+m a e s t r o +ADJ +Gender=Fem +Number=Sing	m a e s t r o +NOUN +Gender=Fem +Number=Sing
+i n f l a z i o n e +NOUN +Gender=Fem +Number=Sing
+c o n t i n e n t a l e +ADJ +Gender=Masc,Fem +Number=Sing
+t e l e v i s i v o +ADJ +Gender=Masc +Number=Sing
+b a r b a r o +ADJ +Gender=Masc +Number=Plur	b a r b a r o +NOUN +Gender=Masc +Number=Plur
+r a c c o g l i e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+i n t i t o l a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+a f r i c a n o +ADJ +Gender=Masc +Number=Sing	a f r i c a n o +NOUN +Gender=Masc +Number=Sing
+r a g g i u n g e r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part
+e s t r a r r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	e s t r a t t o +NOUN +Gender=Masc +Number=Sing	e s t r a t t o +ADJ +Gender=Masc +Number=Sing
+d e c i d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+n u t r i r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+p o s i z i o n a t o +ADJ +Gender=Masc +Number=Sing	p o s i z i o n a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+e u r o p e o +ADJ +Gender=Masc +Number=Sing	e u r o p e o +NOUN +Gender=Masc +Number=Sing
+i n c a r i c o +NOUN +Gender=Masc +Number=Plur	i n c a r i c a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	i n c a r i c a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	i n c a r i c a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	i n c a r i c a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	i n c a r i c a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin
+i n t r o d o t t o +ADJ +Gender=Fem +Number=Sing	i n t r o d u r r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+r e c e n t e m e n t e +ADV +_
+p e r c o r s o +ADJ +Gender=Masc +Number=Sing	p e r c o r r e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	p e r c o r s o +NOUN +Gender=Masc +Number=Sing
+d i f e n d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+i m p r o v v i s o +ADJ +Gender=Masc +Number=Sing	i m p r o v v i s a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+l e g i o n a r i o +ADJ +Gender=Masc +Number=Plur
+c o n c l u s i o n e +NOUN +Gender=Fem +Number=Plur
+p r o t e g g e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	p r o t e t t a +NOUN +Gender=Fem +Number=Plur	p r o t e t t o +ADJ +Gender=Fem +Number=Plur
+r i c e r c a t o r e +NOUN +Gender=Masc +Number=Plur
+s v o l g e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+m o d i f i c a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	m o d i f i c a t o +ADJ +Gender=Masc +Number=Sing
+c h i e s a +NOUN +Gender=Fem +Number=Sing
+r o t o n d a +NOUN +Gender=Fem +Number=Sing	r o t o n d o +ADJ +Gender=Fem +Number=Sing
+t e n e r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+d e s t i n a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	d e s t i n o +NOUN +Gender=Masc +Number=Sing
+c o n t e s t o +NOUN +Gender=Masc +Number=Sing	c o n t e s t o +ADJ +Gender=Masc +Number=Sing	c o n t e s t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+c o n c r e t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n c r e t o +ADJ +Gender=Masc +Number=Sing
+p e n s a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+m i s t o +NOUN +Gender=Masc +Number=Sing	m i s t o +ADJ +Gender=Masc +Number=Sing
+o p e r a t o r e +ADJ +Gender=Masc +Number=Sing	o p e r a t o r e +NOUN +Gender=Masc +Number=Sing
+s p e c i a l i z z a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	s p e c i a l i z z a t o +ADJ +Gender=Fem +Number=Sing
+m e d i e v a l e +NOUN +Gender=Masc +Number=Plur	m e d i e v a l e +ADJ +Gender=Masc,Fem +Number=Plur
+a g g r e s s i v o +ADJ +Gender=Masc +Number=Sing
+s o t t e r r a n e o +ADJ +Gender=Masc +Number=Sing	s o t t e r r a n e o +NOUN +Gender=Masc +Number=Sing
+s o s t e n i t o r e +NOUN +Gender=Masc +Number=Sing
+i n g a g g i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+s e r v i r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	s e r v o +NOUN +Gender=Masc +Number=Plur	s e r v i r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+s p i n t o +ADJ +Gender=Fem +Number=Sing	s p i n g e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+l a s c i a r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+c o m m e t t e r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part	c o m m e s s o +NOUN +Gender=Masc +Number=Plur
+s a n i t à +NOUN +Gender=Fem +Number=Sing,Plur
+i r a +NOUN +Gender=Fem +Number=Sing
+g r a f i c a +NOUN +Gender=Fem +Number=Sing	g r a f i c o +ADJ +Gender=Fem +Number=Sing
+t e r m i n a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+e g i z i a n o +NOUN +Gender=Masc +Number=Sing	e g i z i a n o +ADJ +Gender=Masc +Number=Sing
+s u c c e s s i v o +ADJ +Gender=Masc +Number=Sing
+f r a s e +NOUN +Gender=Fem +Number=Sing
+v a n t a g g i o +NOUN +Gender=Masc +Number=Plur
+n e o l i t i c o +NOUN +Gender=Masc +Number=Sing	n e o l i t i c o +ADJ +Gender=Masc +Number=Sing
+p u b b l i c a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+v i n c i t o r e +NOUN +Gender=Fem +Number=Sing	v i n c i t o r e +ADJ +Gender=Fem +Number=Sing
+m a r c h i o +NOUN +Gender=Masc +Number=Sing
+s u b i t o +ADV +_	s u b i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	s u b i t o +ADJ +Gender=Masc +Number=Sing
+e n e r g e t i c o +ADJ +Gender=Fem +Number=Sing
+t e r r a +NOUN +Gender=Fem +Number=Plur
+d i n a m i c a +NOUN +Gender=Fem +Number=Sing	d i n a m i c o +ADJ +Gender=Fem +Number=Sing
+c o n t r o p a r t e +NOUN +Gender=Fem +Number=Sing
+r i f i u t a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	r i f i u t a t o +ADJ +Gender=Masc +Number=Sing
+i n v e s t i g a t o r e +NOUN +Gender=Masc +Number=Sing
+f o n d a m e n t a l e +ADJ +Gender=Masc,Fem +Number=Sing
+a d o l e s c e n t e +ADJ +Gender=Masc,Fem +Number=Sing	a d o l e s c e n t e +NOUN +Gender=Masc,Fem +Number=Sing
+c a v a l l e r i a +NOUN +Gender=Fem +Number=Sing
+d o p p i e t t a +NOUN +Gender=Fem +Number=Sing
+p a r a c a d u t i s t a +NOUN +Gender=Masc +Number=Plur
+a c c a d u t o +NOUN +Gender=Masc +Number=Sing	a c c a d e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	a c c a d u t o +ADJ +Gender=Masc +Number=Sing
+v e d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+r e a l i z z a r e +VERB +VerbForm=Ger
+r i c h i e d e r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+i n t e r m e d i o +NOUN +Gender=Masc +Number=Plur	i n t e r m e d i o +ADJ +Gender=Masc +Number=Plur
+g a b b i a +NOUN +Gender=Fem +Number=Sing
+c o n c e d e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	c o n c e s s o +ADJ +Gender=Masc +Number=Sing
+o p e r a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+v e t t u r a +NOUN +Gender=Fem +Number=Plur
+p e r i o d i c o +ADJ +Gender=Fem +Number=Sing
+s e n s a z i o n e +NOUN +Gender=Fem +Number=Sing
+d i s t r u t t o +ADJ +Gender=Fem +Number=Plur	d i s t r u g g e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+s e s s u a l e +ADJ +Gender=Masc,Fem +Number=Sing
+s i c i l i a n o +NOUN +Gender=Masc +Number=Plur	s i c i l i a n o +ADJ +Gender=Masc +Number=Plur
+l o r d +NOUN +Gender=Masc +Number=Sing
+i n g e g n e r e +NOUN +Gender=Masc,Fem +Number=Sing
+d o g e +NOUN +Gender=Masc +Number=Sing
+c a s a l i n g a +NOUN +Gender=Fem +Number=Sing
+r e p a r t o +NOUN +Gender=Masc +Number=Sing
+m o d i f i c a +NOUN +Gender=Fem +Number=Plur
+c o r a z z a t o +ADJ +Gender=Fem +Number=Sing
+a v v o c a t o +NOUN +Gender=Masc +Number=Plur
+i n s e g n a n t e +NOUN +Gender=Masc,Fem +Number=Sing	i n s e g n a n t e +ADJ +Gender=Masc,Fem +Number=Sing
+p r o s s i m o +ADJ +Gender=Fem +Number=Sing
+p s i c o l o g i a +NOUN +Gender=Fem +Number=Sing
+p o e m a +NOUN +Gender=Masc +Number=Sing
+s c e n e g g i a t o +ADJ +Gender=Masc +Number=Sing	s c e n e g g i a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	s c e n e g g i a t o +NOUN +Gender=Masc +Number=Sing
+c o l t u r a +NOUN +Gender=Fem +Number=Plur
+v i o l o n c e l l o +NOUN +Gender=Masc +Number=Sing
+p o l v e r e +NOUN +Gender=Fem +Number=Sing
+u s c i r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+c o m p o s i z i o n e +NOUN +Gender=Fem +Number=Sing
+c o n c l u d e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	c o n c l u s o +ADJ +Gender=Fem +Number=Sing
+i t a l i a n o +NOUN +Gender=Masc +Number=Sing	i t a l i a n o +ADJ +Gender=Masc +Number=Sing
+b o n i f i c a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	b o n i f i c a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c o m m e r c i a l i z z a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+d e g n o +NOUN +Gender=Masc +Number=Plur	d e g n a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	d e g n o +ADJ +Gender=Masc +Number=Plur	d e g n a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	d e g n a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	d e g n a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	d e g n a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+d i v e n i r e +VERB +VerbForm=Inf
+r i c c h e z z a +NOUN +Gender=Fem +Number=Sing
+c r e s c e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+r a p p r e s e n t a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+m e d i c o +ADJ +Gender=Masc +Number=Sing	m e d i c a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	m e d i c o +NOUN +Gender=Masc +Number=Sing
+f e s t e g g i a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c u r i o s o +NOUN +Gender=Masc +Number=Sing	c u r i o s o +ADJ +Gender=Masc +Number=Sing	c u r i o s a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+r i l e v a n t e +ADJ +Gender=Masc,Fem +Number=Plur
+a c c a d e m i a +NOUN +Gender=Fem +Number=Sing
+i n t e r p r e t a z i o n e +NOUN +Gender=Fem +Number=Sing
+b i r r a +NOUN +Gender=Fem +Number=Sing
+c o m p r e s o +ADJ +Gender=Masc +Number=Sing	c o m p r e n d e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+p a n o r a m a +NOUN +Gender=Masc +Number=Sing
+o p p o r r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	o p p o s t o +ADJ +Gender=Masc +Number=Sing	o p p o s t o +NOUN +Gender=Masc +Number=Sing
+f a t t u r a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	f a t t u r a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	f a t t u r a +NOUN +Gender=Fem +Number=Sing
+v i c i n o +NOUN +Gender=Fem +Number=Plur	v i c i n o +ADJ +Gender=Fem +Number=Plur
+f o n d a t o +ADJ +Gender=Masc +Number=Sing	f o n d a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+v e d e r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	v e d e r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	v e d e r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	v e d e r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+a t m o s f e r a +NOUN +Gender=Fem +Number=Sing
+g l o r i a +NOUN +Gender=Fem +Number=Sing
+t r a d o t t o +ADJ +Gender=Masc +Number=Plur	t r a d u r r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part
+s c h e d a +NOUN +Gender=Fem +Number=Plur
+c o n s e r v a z i o n e +NOUN +Gender=Fem +Number=Sing
+m i t r a g l i a t o r e +NOUN +Gender=Fem +Number=Plur
+t o r r e n t e +NOUN +Gender=Masc +Number=Sing
+d e b i t o +ADJ +Gender=Masc +Number=Plur	d e b i t o +NOUN +Gender=Masc +Number=Plur
+p r e v i s i o n e +NOUN +Gender=Fem +Number=Sing
+u m i d o +ADJ +Gender=Masc +Number=Sing	u m i d o +NOUN +Gender=Masc +Number=Sing
+a g e v o l m e n t e +ADV +_
+f a v o r i r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+a n t i c o +ADJ +Gender=Fem +Number=Plur
+r i t i r a r e +VERB +VerbForm=Inf
+p r a t i c a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	p r a t i c o +ADJ +Gender=Fem +Number=Sing	p r a t i c a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	p r a t i c a +NOUN +Gender=Fem +Number=Sing
+c o m i c o +ADJ +Gender=Masc +Number=Plur	c o m i c o +NOUN +Gender=Masc +Number=Plur
+i m m i g r a z i o n e +NOUN +Gender=Fem +Number=Sing
+p i c c h i o +NOUN +Gender=Masc +Number=Plur	p i c c h i a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	p i c c o +NOUN +Gender=Masc +Number=Plur	p i c c h i a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	p i c c h i a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	p i c c h i a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	p i c c h i a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin
+p o r t a v o c e +NOUN +Gender=Masc,Fem +Number=Sing,Plur	p o r t a v o c e +NOUN +Gender=Masc,Fem +Number=Sing
+r e g i s t r a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+c o r r e g g e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	c o r r e t t o +ADJ +Gender=Masc +Number=Sing	c o r r e t t o +NOUN +Gender=Masc +Number=Sing
+p i e d e +NOUN +Gender=Masc +Number=Sing
+l a u r e a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+t e n o r e +NOUN +Gender=Masc +Number=Sing
+v i a +NOUN +Gender=Fem +Number=Plur
+a t t e n z i o n e +NOUN +Gender=Fem +Number=Plur
+p a l l a m a n o +NOUN +Gender=Fem +Number=Sing
+s o r p r e n d e n t e +NOUN +Gender=Masc +Number=Sing	s o r p r e n d e n t e +ADJ +Gender=Masc,Fem +Number=Sing
+r e s t a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+p r e v a l e n t e m e n t e +ADV +_
+r i c e t t a +NOUN +Gender=Fem +Number=Sing
+c o n t i n u a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n t i n u a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	c o n t i n u a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n t i n u a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n t i n u o +ADJ +Gender=Masc +Number=Plur	c o n t i n u a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+d i p a r t i m e n t a l e +ADJ +Gender=Masc,Fem +Number=Plur
+l o g o +NOUN +Gender=Masc +Number=Sing
+p r e c i s o +ADJ +Gender=Masc +Number=Sing	p r e c i s a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+r i l e v a n t e +ADJ +Gender=Masc,Fem +Number=Sing
+c l i m a +NOUN +Gender=Masc +Number=Sing
+t r a n v i a +NOUN +Gender=Masc +Number=Sing
+r i c o r d a t o +ADJ +Gender=Fem +Number=Sing	r i c o r d a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+c a p o c a n n o n i e r e +NOUN +Gender=Masc +Number=Sing
+l i v e l l o +NOUN +Gender=Masc +Number=Plur	l i v e l l a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	l i v e l l a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	l i v e l l a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	l i v e l l a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	l i v e l l a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+g i a p p o n e s e +ADJ +Gender=Masc,Fem +Number=Sing	g i a p p o n e s e +NOUN +Gender=Masc,Fem +Number=Sing
+p u n t a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	p u n t a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin	p u n t a t o +ADJ +Gender=Fem +Number=Plur	p u n t a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+g i o r n a l i s t a +NOUN +Gender=Fem +Number=Sing	g i o r n a l i s t a +NOUN +Gender=Masc +Number=Sing
+t e r r o r i s m o +NOUN +Gender=Masc +Number=Sing
+a p p u n t a m e n t o +NOUN +Gender=Masc +Number=Sing
+o t t i c o +ADJ +Gender=Fem +Number=Sing
+m e d i a n o +NOUN +Gender=Masc +Number=Sing	m e d i a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin	m e d i a n o +ADJ +Gender=Masc +Number=Sing
+c a u s a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+c e r t e z z a +NOUN +Gender=Fem +Number=Sing
+e f f e t t u a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	e f f e t t u a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	e f f e t t u a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin
+p r e v a l e r e +VERB +VerbForm=Inf
+l u n g h e z z a +NOUN +Gender=Fem +Number=Sing
+m a n o s c r i t t o +NOUN +Gender=Masc +Number=Sing	m a n o s c r i t t o +ADJ +Gender=Masc +Number=Sing
+l a r g o +ADJ +Gender=Fem +Number=Plur
+c h i u d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+r i n v e n i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+t r a v e +NOUN +Gender=Fem +Number=Sing
+s e n s i b i l e +ADJ +Gender=Masc,Fem +Number=Sing
+p i e v e +NOUN +Gender=Masc +Number=Sing
+f u n z i o n e +NOUN +Gender=Fem +Number=Sing
+b a s a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	b a s a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+d e b u t t a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s o l a m e n t e +ADV +_
+i n d o m a n i +ADV +_
+n o t t e +NOUN +Gender=Fem +Number=Sing
+g h i a c c i a i o +NOUN +Gender=Masc +Number=Plur	g h i a c c i a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=1 +Tense=Past +VerbForm=Fin
+p r o p o s t a +NOUN +Gender=Fem +Number=Plur	p r o p o r r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+b a t t e r i a +NOUN +Gender=Fem +Number=Sing
+a s t r o n o m o +NOUN +Gender=Masc +Number=Plur
+l i n g u i s t i c o +ADJ +Gender=Fem +Number=Sing	l i n g u i s t i c a +NOUN +Gender=Fem +Number=Sing
+v i s i b i l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+m i g l i o +NOUN +Gender=Fem +Number=Plur
+c a d a v e r e +NOUN +Gender=Masc +Number=Sing
+v i c e +ADJ +Gender=Masc,Fem +Number=Sing,Plur	v i c e +NOUN +Gender=Masc +Number=Sing,Plur
+e r b a +NOUN +Gender=Fem +Number=Plur
+a d o t t a r e +VERB +VerbForm=Inf
+u c c i s o +ADJ +Gender=Masc +Number=Sing	u c c i s o +NOUN +Gender=Masc +Number=Sing	u c c i d e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+d e p r e s s i o n e +NOUN +Gender=Fem +Number=Sing
+g e s t i t o +ADJ +Gender=Fem +Number=Sing	g e s t i r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+f i n a n z i a r i o +ADJ +Gender=Fem +Number=Sing
+s i n t e t i c o +ADJ +Gender=Masc +Number=Sing
+p r e n d e r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+c u p o l a +NOUN +Gender=Fem +Number=Sing
+g i o c a r e +VERB +VerbForm=Inf
+p r o b l e m a +NOUN +Gender=Masc +Number=Plur
+t e r r i t o r i o +NOUN +Gender=Masc +Number=Plur
+c o n t i n u a r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+i n g l e s e +NOUN +Gender=Masc,Fem +Number=Sing	i n g l e s e +ADJ +Gender=Masc,Fem +Number=Sing
+v o l t a +NOUN +Gender=Fem +Number=Sing	v o l t o +ADJ +Gender=Fem +Number=Sing	v o l t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	v o l t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+a r r a n g i a m e n t o +NOUN +Gender=Masc +Number=Plur
+a f r i c a n o +NOUN +Gender=Fem +Number=Plur	a f r i c a n o +ADJ +Gender=Fem +Number=Plur
+r i t r a t t o +ADJ +Gender=Masc +Number=Sing	r i t r a r r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	r i t r a t t o +NOUN +Gender=Masc +Number=Sing
+a g r i c o l o +ADJ +Gender=Fem +Number=Sing
+p a r c h e g g i o +NOUN +Gender=Masc +Number=Sing	p a r c h e g g i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+v i t a +NOUN +Gender=Fem +Number=Sing
+e t à +NOUN +Gender=Fem +Number=Sing,Plur
+i n s e d i a m e n t o +NOUN +Gender=Masc +Number=Sing
+s f o n d o +NOUN +Gender=Masc +Number=Sing
+p o r t a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+v e c c h i o +ADJ +Gender=Masc +Number=Sing
+p r o v e n i e n z a +NOUN +Gender=Fem +Number=Sing
+f a r m a c i a +NOUN +Gender=Fem +Number=Sing
+a u t o m o b i l i s t i c o +ADJ +Gender=Fem +Number=Plur
+t e s o r o +NOUN +Gender=Masc +Number=Sing
+b a s s i s t a +NOUN +Gender=Masc +Number=Sing	b a s s i s t a +NOUN +Gender=Fem +Number=Sing
+g a r a n t i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	g a r a n t i t o +ADJ +Gender=Masc +Number=Sing
+c l a s s i f i c a +NOUN +Gender=Fem +Number=Plur
+p e s c e +NOUN +Gender=Masc +Number=Sing
+v i s i v o +ADJ +Gender=Fem +Number=Sing
+e q u i p a g g i o +NOUN +Gender=Masc +Number=Plur	e q u i p a g g i a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	e q u i p a g g i a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	e q u i p a g g i a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	e q u i p a g g i a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	e q u i p a g g i a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+i m p o r t a n z a +NOUN +Gender=Fem +Number=Sing
+c i r c o n d a r i o +NOUN +Gender=Masc +Number=Sing
+f a v o r e v o l e +ADJ +Gender=Masc,Fem +Number=Sing
+r e a l e +ADJ +Gender=Masc,Fem +Number=Plur
+n o t t e +NOUN +Gender=Fem +Number=Plur
+c i t t a d i n o +ADJ +Gender=Fem +Number=Sing	c i t t a d i n o +NOUN +Gender=Fem +Number=Sing
+r i c h i e d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+t o c c a r e +VERB +VerbForm=Inf
+s i c i l i a n o +NOUN +Gender=Masc +Number=Sing	s i c i l i a n o +ADJ +Gender=Masc +Number=Sing
+s e d e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+c h i e d e r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+r i s p o s t a +NOUN +Gender=Fem +Number=Plur	r i s p o n d e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	r i s p o s t o +ADJ +Gender=Fem +Number=Plur
+a g r i c o l t u r a +NOUN +Gender=Fem +Number=Sing
+g i u r i a +NOUN +Gender=Fem +Number=Sing
+s o l i t o +NOUN +Gender=Masc +Number=Plur	s o l i t o +ADJ +Gender=Masc +Number=Plur
+i n f a n z i a +NOUN +Gender=Fem +Number=Sing
+s t e l e +NOUN +Gender=Fem +Number=Sing
+c o n t e s t a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	c o n t e s t a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n t e s t a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n t e s t a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	c o n t e s t o +ADJ +Gender=Masc +Number=Plur	c o n t e s t o +NOUN +Gender=Masc +Number=Plur	c o n t e s t a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+m a m m i f e r o +NOUN +Gender=Masc +Number=Plur	m a m m i f e r o +ADJ +Gender=Masc +Number=Plur
+f o r t u n a +NOUN +Gender=Fem +Number=Plur
+f i g l i o +NOUN +Gender=Fem +Number=Plur
+p e r d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+t e m e r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	t e m e r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	t e m a +NOUN +Gender=Masc +Number=Sing	t e m e r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	t e m e r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin
+o r +ADV +_
+g r i g l i a +NOUN +Gender=Fem +Number=Sing
+a i u t a r e +VERB +VerbForm=Inf
+i n c i d e n t e +NOUN +Gender=Masc +Number=Plur	i n c i d e n t e +ADJ +Gender=Masc,Fem +Number=Plur
+d e f i n i z i o n e +NOUN +Gender=Fem +Number=Sing
+c o s t r i n g e r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part
+i n v i a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	i n v i a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+g e n i t o r e +NOUN +Gender=Masc +Number=Plur
+e s p e r t o +NOUN +Gender=Masc +Number=Plur	e s p e r t o +ADJ +Gender=Masc +Number=Plur
+q u a l i f i c a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+c o m p r e n d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+p r e f e r i r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+b a r o n e +NOUN +Gender=Masc +Number=Plur
+o c c u p a r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+r i c o s t r u i r e +VERB +VerbForm=Inf
+o s s o +NOUN +Gender=Masc +Number=Sing
+p r e c e d e n t e m e n t e +ADV +_
+m a r e +NOUN +Gender=Masc +Number=Sing
+m i l i a r d o +NOUN +Gender=Masc +Number=Plur
+f e r i t o +NOUN +Gender=Masc +Number=Plur	f e r i r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part	f e r i t o +ADJ +Gender=Masc +Number=Plur
+c o s t a n t e +ADJ +Gender=Masc,Fem +Number=Plur	c o s t a n t e +NOUN +Gender=Fem +Number=Plur
+p a s s a g g i o +NOUN +Gender=Masc +Number=Sing
+a u s t r i a c o +NOUN +Gender=Fem +Number=Sing	a u s t r i a c o +ADJ +Gender=Fem +Number=Sing
+c o m p o r t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	c o m p o r t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+r i s o l v e r e +VERB +VerbForm=Inf
+t e a t r o +NOUN +Gender=Masc +Number=Sing
+e t n i c o +ADJ +Gender=Masc +Number=Sing
+i n t e g r a t o +ADJ +Gender=Fem +Number=Sing	i n t e g r a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+r i v o l t o +ADJ +Gender=Fem +Number=Plur	r i v o l t a +NOUN +Gender=Fem +Number=Plur	r i v o l g e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+r i u s c i r e +VERB +VerbForm=Ger
+d i n t o r n i +NOUN +Gender=Masc +Number=Plur	d i n t o r n o +NOUN +Gender=Masc +Number=Plur
+v e n i r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	v e n u t o +ADJ +Gender=Fem +Number=Sing
+a r c h i t e t t o n i c o +ADJ +Gender=Masc +Number=Sing
+t r a d u r r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c a u s a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+p i s t o l a +NOUN +Gender=Fem +Number=Plur
+a n n u n c i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	a n n u n c i o +NOUN +Gender=Masc +Number=Sing
+a f f e r m a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+m a g g i o r +ADJ +Gender=Masc,Fem +Number=Sing,Plur	m a g g i o r e +ADJ +Gender=Masc,Fem +Number=Sing
+l i n k +NOUN +Gender=Masc +Number=Sing,Plur
+d o p p i a t o +ADJ +Gender=Masc +Number=Sing
+p u r t r o p p o +ADV +_
+m u o v e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+u b i c a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c o r t i n a +NOUN +Gender=Fem +Number=Sing
+a g g i o r n a m e n t o +NOUN +Gender=Masc +Number=Sing
+p e r f e z i o n e +NOUN +Gender=Fem +Number=Sing
+f r e q u e n t a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+f e d e r a z i o n e +NOUN +Gender=Fem +Number=Plur
+t u f o +NOUN +Gender=Masc +Number=Sing
+r i c o m p e n s a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	r i c o m p e n s a +NOUN +Gender=Fem +Number=Sing	r i c o m p e n s a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+i m p a r a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+f r o n t e g g i a r e +VERB +VerbForm=Inf
+p r e s e n t a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+f o n d a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	f o n d e r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	f o n d a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	f o n d e r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	f o n d e r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	f o n d e r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+t a t t i c o +NOUN +Gender=Masc +Number=Sing	t a t t i c o +ADJ +Gender=Masc +Number=Sing
+g e s t i r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+i n t i m o +ADJ +Gender=Fem +Number=Sing	i n t i m a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	i n t i m a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+t r a g i c o +ADJ +Gender=Fem +Number=Sing
+d i s e g n a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+q u o t i d i a n o +ADJ +Gender=Fem +Number=Sing
+u s c i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+r e g o l a r m e n t e +ADV +_
+a d i a c e n t e +ADJ +Gender=Masc,Fem +Number=Sing
+p r e g e v o l e +ADJ +Gender=Masc,Fem +Number=Sing
+i n d i c a r e +VERB +VerbForm=Inf
+d e m o n e +NOUN +Gender=Masc +Number=Sing
+p u b b l i c a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+d i s t i n g u e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+l e t t e r a r i o +ADJ +Gender=Masc +Number=Sing
+c o r r u z i o n e +NOUN +Gender=Fem +Number=Sing
+v a r i a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	v a r i a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	v a r i o +ADJ +Gender=Fem +Number=Sing
+s t a m p a +NOUN +Gender=Fem +Number=Sing	s t a m p a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	s t a m p a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	s t a m p a +ADJ +Gender=Fem +Number=Sing
+o s s e r v a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	o s s e r v a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+o c c i d e n t a l e +ADJ +Gender=Masc,Fem +Number=Plur
+o s s o +NOUN +Gender=Fem +Number=Plur
+e s p o r t a z i o n e +NOUN +Gender=Fem +Number=Sing
+r e g n a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+e s s e n z i a l m e n t e +ADV +_
+p r e s e n t a r e +VERB +Aspect=Imp +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+b a n d i t o +NOUN +Gender=Masc +Number=Plur	b a n d i t o +ADJ +Gender=Masc +Number=Plur	b a n d i r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part
+c a s s e t t a +NOUN +Gender=Fem +Number=Sing
+i n t r a p r e n d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin	i n t r a p r e n d e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part
+g e r m a n i c o +NOUN +Gender=Masc +Number=Sing	g e r m a n i c o +ADJ +Gender=Masc +Number=Sing
+r e l a z i o n a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	r e l a z i o n a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	r e l a z i o n a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	r e l a z i o n a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	r e l a z i o n a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	r e l a z i o n e +NOUN +Gender=Fem +Number=Plur
+s c h i e r a m e n t o +NOUN +Gender=Masc +Number=Sing
+i s c r i v e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+i m m o b i l e +NOUN +Gender=Masc +Number=Plur	i m m o b i l e +ADJ +Gender=Masc,Fem +Number=Plur
+s v e d e s e +NOUN +Gender=Masc,Fem +Number=Sing	s v e d e s e +ADJ +Gender=Masc,Fem +Number=Sing
+p a l a z z e t t o +NOUN +Gender=Masc +Number=Sing
+c o r t o +ADJ +Gender=Masc +Number=Sing	c o r t o +NOUN +Gender=Masc +Number=Sing
+l a g u n a +NOUN +Gender=Fem +Number=Sing
+f a n t a s y +NOUN +Gender=Masc +Number=Sing,Plur
+r a p +NOUN +Gender=Masc +Number=Sing,Plur	r a p +ADJ +Gender=Masc,Fem +Number=Sing,Plur
+a m b i e n t a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+o f f i c i n a +NOUN +Gender=Fem +Number=Sing
+c o m p l e s s i t à +NOUN +Gender=Fem +Number=Sing,Plur
+c o n t e n e r e +VERB +VerbForm=Inf
+c l a s s e +NOUN +Gender=Fem +Number=Sing
+c a n t a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c a n t a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c a n t a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	c a n t o +NOUN +Gender=Masc +Number=Plur	c a n t a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c a n t a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin
+r a p p e r +NOUN +Gender=Masc,Fem +Number=Sing,Plur
+v i n c i t o r e +NOUN +Gender=Fem +Number=Plur	v i n c i t o r e +ADJ +Gender=Fem +Number=Plur
+s u d - o r i e n t a l e +ADJ +Gender=Masc,Fem +Number=Sing
+s a l v a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	s a l v o +ADJ +Gender=Fem +Number=Sing	s a l v a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+l i m i t a t o +ADJ +Gender=Masc +Number=Sing	l i m i t a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+o p p o r t u n a m e n t e +ADV +_
+a d d e t t o +NOUN +Gender=Masc +Number=Sing	a d d e t t o +ADJ +Gender=Masc +Number=Sing
+r i s a l i r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+s p e s s o r e +NOUN +Gender=Masc +Number=Sing
+r i p o r t a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+c a l c i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c a l c i o +NOUN +Gender=Masc +Number=Sing
+o p p o s i t o r e +NOUN +Gender=Masc +Number=Plur
+t e s t i m o n i a n z a +NOUN +Gender=Fem +Number=Plur
+r a g g i u n g i m e n t o +NOUN +Gender=Masc +Number=Sing
+s t a b i l i t o +ADJ +Gender=Fem +Number=Sing	s t a b i l i r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+n o c e +NOUN +Gender=Fem +Number=Sing
+g i a l l o +NOUN +Gender=Masc +Number=Plur	g i a l l o +ADJ +Gender=Masc +Number=Plur
+m a n o v r a +NOUN +Gender=Fem +Number=Plur
+s c h i e r a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+d i v i d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+p i s t a +NOUN +Gender=Fem +Number=Plur
+a l l e n a t o r e +NOUN +Gender=Masc +Number=Plur
+n o r d - o r i e n t a l e +ADJ +Gender=Masc,Fem +Number=Sing
+a n n a t a +NOUN +Gender=Fem +Number=Sing
+l i b r e t t o +NOUN +Gender=Masc +Number=Sing
+v e n t u r o +NOUN +Gender=Fem +Number=Sing	v e n t u r o +ADJ +Gender=Fem +Number=Sing
+g u i d a +NOUN +Gender=Fem +Number=Plur
+f e d e l e +NOUN +Gender=Masc,Fem +Number=Sing	f e d e l e +ADJ +Gender=Masc,Fem +Number=Sing
+c a p i e n z a +NOUN +Gender=Fem +Number=Sing
+c o r r i s p o n d e n t e +ADJ +Gender=Masc,Fem +Number=Sing	c o r r i s p o n d e n t e +NOUN +Gender=Masc +Number=Sing
+b a n c o n o t a +NOUN +Gender=Fem +Number=Plur
+p r o g e t t a r e +VERB +VerbForm=Inf
+o b b i e t t i v o +NOUN +Gender=Masc +Number=Sing
+d i m o s t r a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+r e g i s t r a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	r e g i s t r o +NOUN +Gender=Masc +Number=Sing
+d i v e n i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c e p p o +NOUN +Gender=Masc +Number=Sing
+p o t e n t e +NOUN +Gender=Masc +Number=Sing	p o t e n t e +ADJ +Gender=Masc,Fem +Number=Sing
+b e n e f i c i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	b e n e f i c i o +NOUN +Gender=Masc +Number=Sing
+d c +NOUN +Gender=Fem +Number=Sing,Plur
+r a d i a z i o n e +NOUN +Gender=Fem +Number=Plur
+p i a z z a m e n t o +NOUN +Gender=Masc +Number=Plur
+c r a t e r e +NOUN +Gender=Masc +Number=Plur
+l a v o r a r e +VERB +VerbForm=Inf
+a u s t r a l i a n o +NOUN +Gender=Masc +Number=Sing	a u s t r a l i a n o +ADJ +Gender=Masc +Number=Sing
+o s t i l e +ADJ +Gender=Masc,Fem +Number=Plur
+p r o c e d e r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c h i a r o +NOUN +Gender=Masc +Number=Sing	c h i a r o +ADJ +Gender=Masc +Number=Sing	c h i a r o +ADV +_
+r a g g i u n g e r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+a n a l e +ADJ +Gender=Masc,Fem +Number=Sing
+v i c i n o +ADJ +Gender=Masc +Number=Plur	v i c i n o +NOUN +Gender=Masc +Number=Plur
+l e t t o r e +ADJ +Gender=Masc +Number=Plur	l e t t o r e +NOUN +Gender=Masc +Number=Plur
+u n i t o +ADJ +Gender=Masc +Number=Sing	u n i r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+e s t e n d e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	e s t e s o +ADJ +Gender=Fem +Number=Sing
+l a i c o +ADJ +Gender=Masc +Number=Plur	l a i c o +NOUN +Gender=Masc +Number=Plur
+p r o g r a m m a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	p r o g r a m m a t o +ADJ +Gender=Masc +Number=Sing
+c a r n e v a l e +NOUN +Gender=Masc +Number=Sing
+v i n c e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	v i n t o +ADJ +Gender=Fem +Number=Sing
+r i v a +NOUN +Gender=Fem +Number=Sing
+a r r i v a r e +VERB +VerbForm=Ger
+d e c i s i o n e +NOUN +Gender=Fem +Number=Plur
+s i t o +ADJ +Gender=Fem +Number=Sing
+d i m e t t e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+c o n t i n u a m e n t e +ADV +_
+f a r i n a +NOUN +Gender=Fem +Number=Sing
+c l a s s i f i c a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+g o v e r n a t i v o +ADJ +Gender=Fem +Number=Plur
+c r e m o n e s e +NOUN +Gender=Masc,Fem +Number=Sing	c r e m o n e s e +ADJ +Gender=Masc,Fem +Number=Sing
+u n i f i c a z i o n e +NOUN +Gender=Fem +Number=Sing
+o p p o r r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+f o n d a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin	f o n d a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	f o n d a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	f o n d a t o +ADJ +Gender=Fem +Number=Plur
+v e n i r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+l i k e +NOUN +Gender=Masc +Number=Sing,Plur
+s c e l t o +ADJ +Gender=Masc +Number=Sing	s c e g l i e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+d u c a l e +ADJ +Gender=Masc,Fem +Number=Sing
+g r a d o +NOUN +Gender=Masc +Number=Sing
+a p p o g g i o +NOUN +Gender=Masc +Number=Sing	a p p o g g i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+c o n t r o l l a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	c o n t r o l l a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin	c o n t r o l l a t o +ADJ +Gender=Fem +Number=Plur	c o n t r o l l a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin
+i n i z i a r e +VERB +VerbForm=Ger
+f a c i l i t à +NOUN +Gender=Fem +Number=Sing,Plur
+s t a t u a +NOUN +Gender=Fem +Number=Plur
+d i m o s t r a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+r i f i u t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	r i f i u t o +NOUN +Gender=Masc +Number=Sing
+m a n t e n e r e +VERB +VerbForm=Inf
+c o m p l e t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	c o m p l e t o +ADJ +Gender=Fem +Number=Sing	c o m p l e t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+d i v e n t a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+a d d o s s a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+c r i s t i a n o +ADJ +Gender=Masc +Number=Plur	c r i s t i a n o +NOUN +Gender=Masc +Number=Plur
+r o m p e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	r o t t a +NOUN +Gender=Fem +Number=Sing	r o t t o +ADJ +Gender=Fem +Number=Sing
+d i f f e r e n z i a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	d i f f e r e n z i a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+e q u i p a g g i a m e n t o +NOUN +Gender=Masc +Number=Sing
+s o s p e s o +ADJ +Gender=Masc +Number=Sing	s o s p e s o +NOUN +Gender=Masc +Number=Sing	s o s p e n d e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+i n v i t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	i n v i t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+s e g r e t o +ADJ +Gender=Fem +Number=Plur
+v i v e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	v i s s u t o +NOUN +Gender=Masc +Number=Sing	v i s s u t o +ADJ +Gender=Masc +Number=Sing
+l e t t u r a +NOUN +Gender=Fem +Number=Sing
+s t i p u l a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+f o s s a t o +NOUN +Gender=Masc +Number=Sing
+b e l l o +ADJ +Gender=Fem +Number=Plur
+c a r t e l l o +NOUN +Gender=Masc +Number=Sing
+l e z i o n e +NOUN +Gender=Fem +Number=Plur
+g i o c o +NOUN +Gender=Masc +Number=Sing	g i o c a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+e f f i c i e n z a +NOUN +Gender=Fem +Number=Sing
+e t t a r o +NOUN +Gender=Masc +Number=Plur
+r i m p i a z z a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+c o n f r o n t a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o n f r o n t a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	c o n f r o n t a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	c o n f r o n t a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	c o n f r o n t o +NOUN +Gender=Masc +Number=Plur	c o n f r o n t a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin
+p r e f e r e n z a +NOUN +Gender=Fem +Number=Plur
+v i r u s +NOUN +Gender=Masc +Number=Sing,Plur
+c o m p a t t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	c o m p a t t o +ADJ +Gender=Masc +Number=Sing	c o m p a t t o +NOUN +Gender=Masc +Number=Sing
+c i t y +NOUN +Gender=Fem +Number=Sing,Plur
+p r o b l e m a t i c o +ADJ +Gender=Fem +Number=Plur
+i m b a r c a z i o n e +NOUN +Gender=Fem +Number=Plur
+a s s a l t o +NOUN +Gender=Masc +Number=Sing	a s s a l t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+r a f f i g u r a n t e +ADJ +Gender=Masc,Fem +Number=Sing	r a f f i g u r a n t e +NOUN +Gender=Masc,Fem +Number=Sing
+s p i e g a r e +VERB +VerbForm=Inf
+m o s t r a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	m o s t r o +NOUN +Gender=Masc +Number=Sing
+u l t i m o +ADJ +Gender=Masc +Number=Sing	u l t i m a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	u l t i m o +NOUN +Gender=Masc +Number=Sing
+v i s c o n t e +NOUN +Gender=Masc +Number=Sing
+o s c u r a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	o s c u r o +ADJ +Gender=Masc +Number=Sing
+r e g o l a m e n t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	r e g o l a m e n t o +NOUN +Gender=Masc +Number=Sing
+o t t a v o +ADJ +Gender=Fem +NumType=Ord +Number=Sing
+r i e d i z i o n e +NOUN +Gender=Fem +Number=Sing
+c r e a r e +VERB +VerbForm=Inf
+e m e r g e r e +VERB +VerbForm=Inf
+l i g u r e +ADJ +Gender=Masc,Fem +Number=Plur	l i g u r e +NOUN +Gender=Masc,Fem +Number=Plur
+a n a t o m i a +NOUN +Gender=Fem +Number=Sing
+a l b a n e s e +NOUN +Gender=Masc,Fem +Number=Plur	a l b a n e s e +ADJ +Gender=Masc,Fem +Number=Plur
+a n i m a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	a n i m a +NOUN +Gender=Fem +Number=Sing	a n i m a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+c a m p i o n e +NOUN +Gender=Masc +Number=Sing
+m a g o +NOUN +Gender=Masc +Number=Plur
+a m i c o +NOUN +Gender=Fem +Number=Sing	a m i c o +ADJ +Gender=Fem +Number=Sing
+a n t e p r i m a +NOUN +Gender=Fem +Number=Sing
+m i s t e r o +NOUN +Gender=Masc +Number=Sing
+c o r e a n o +ADJ +Gender=Masc +Number=Sing	c o r e a n o +NOUN +Gender=Masc +Number=Sing
+p r o v e n i r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+v e n i r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s o n o r i t à +NOUN +Gender=Fem +Number=Sing,Plur
+a c q u i s t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	a c q u i s t o +NOUN +Gender=Masc +Number=Sing
+s a r a c e n o +NOUN +Gender=Masc +Number=Plur	s a r a c e n o +ADJ +Gender=Masc +Number=Plur
+v a s s a l l o +NOUN +Gender=Masc +Number=Sing	v a s s a l l o +ADJ +Gender=Masc +Number=Sing
+s p o s t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	s p o s t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+a d a t t a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	a d a t t o +ADJ +Gender=Masc +Number=Sing
+a u g u s t o +ADJ +Gender=Fem +Number=Plur
+d e c i d e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	d e c i s o +ADJ +Gender=Fem +Number=Sing
+s o l i s t a +ADJ +Gender=Masc +Number=Sing	s o l i s t a +NOUN +Gender=Masc +Number=Sing	s o l i s t a +NOUN +Gender=Fem +Number=Sing	s o l i s t a +ADJ +Gender=Fem +Number=Sing
+r i f l e s s i o n e +NOUN +Gender=Fem +Number=Sing
+v a l l o n e +NOUN +Gender=Masc +Number=Sing
+v a l u t a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+i n c o n t r a r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+p a g a m e n t o +NOUN +Gender=Masc +Number=Sing
+s o f f e r e n z a +NOUN +Gender=Fem +Number=Plur
+b r i g a n t e +NOUN +Gender=Masc +Number=Plur
+d e c i m o +ADJ +Gender=Fem +NumType=Ord +Number=Sing	d e c i m a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	d e c i m a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+s u p p o r r e +VERB +VerbForm=Inf
+a s i a t i c o +ADJ +Gender=Masc +Number=Sing
+i n t e r p r e t a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+c r o c e +NOUN +Gender=Fem +Number=Plur
+r i c o r d a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+l a g o +NOUN +Gender=Masc +Number=Sing
+v i s u a l e +ADJ +Gender=Masc,Fem +Number=Sing	v i s u a l e +NOUN +Gender=Fem +Number=Sing
+m i n i e r a +NOUN +Gender=Fem +Number=Plur
+o c c u p a t o +ADJ +Gender=Masc +Number=Sing	o c c u p a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+o c c a s i o n e +NOUN +Gender=Fem +Number=Sing
+v a r i a r e +VERB +VerbForm=Inf
+c e s s a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+c r e a r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+a s s i s t e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s a r d o +NOUN +Gender=Fem +Number=Sing	s a r d o +ADJ +Gender=Fem +Number=Sing
+s e t +NOUN +Gender=Masc +Number=Sing,Plur
+o r g a n i z z a t o +ADJ +Gender=Fem +Number=Sing	o r g a n i z z a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+p r e n d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Plur +Person=3 +Tense=Past +VerbForm=Fin
+c o m p o r r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part	c o m p o s t o +NOUN +Gender=Masc +Number=Plur	c o m p o s t o +ADJ +Gender=Masc +Number=Plur
+f a v o r e v o l e +ADJ +Gender=Masc,Fem +Number=Plur
+s o s t e n u t o +ADJ +Gender=Fem +Number=Sing	s o s t e n e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+v e l o c e +ADJ +Gender=Masc,Fem +Number=Sing
+i n c e n d i o +NOUN +Gender=Masc +Number=Sing	i n c e n d i a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+p r o t e t t o +ADJ +Gender=Masc +Number=Sing	p r o t e t t o +NOUN +Gender=Masc +Number=Sing	p r o t e g g e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+l o d o +NOUN +Gender=Masc +Number=Plur
+e v i d e n z i a r e +VERB +VerbForm=Inf
+a n t e n a t o +ADJ +Gender=Masc +Number=Plur	a n t e n a t o +NOUN +Gender=Masc +Number=Plur
+p r o b a b i l m e n t e +ADV +_
+c o m b a t t e n t e +NOUN +Gender=Masc,Fem +Number=Plur	c o m b a t t e n t e +ADJ +Gender=Masc,Fem +Number=Plur
+s c i o g l i m e n t o +NOUN +Gender=Masc +Number=Sing
+s p e z i a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin	s p e z i a +NOUN +Gender=Fem +Number=Sing	s p e z i a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin
+i n d i c a r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+d o t a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part	d o t a t o +ADJ +Gender=Fem +Number=Sing
+a d o t t a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	a d o t t a t o +ADJ +Gender=Masc +Number=Sing
+s e g r e t o +ADJ +Gender=Masc +Number=Sing	s e g r e t o +NOUN +Gender=Masc +Number=Sing
+e m o z i o n a r e +VERB +Mood=Ind +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	e m o z i o n a r e +VERB +Mood=Sub +Number=Sing +Person=2 +Tense=Pres +VerbForm=Fin	e m o z i o n a r e +VERB +Mood=Sub +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	e m o z i o n a r e +VERB +Mood=Imp +Number=Sing +Person=3 +VerbForm=Fin	e m o z i o n a r e +VERB +Mood=Sub +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	e m o z i o n e +NOUN +Gender=Fem +Number=Plur
+m a g l i a +NOUN +Gender=Fem +Number=Sing
+a t r i o +NOUN +Gender=Masc +Number=Sing
+g i u s t i z i a r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part	g i u s t i z i a t o +NOUN +Gender=Masc +Number=Sing	g i u s t i z i a t o +ADJ +Gender=Masc +Number=Sing
+i n f l u e n z a +NOUN +Gender=Fem +Number=Plur
+s p i a g g i a +NOUN +Gender=Fem +Number=Plur
+r e c i t a r e +VERB +VerbForm=Inf
+l o n g o b a r d o +NOUN +Gender=Fem +Number=Sing	l o n g o b a r d o +ADJ +Gender=Fem +Number=Sing
+a t t r a v e r s a r e +VERB +VerbForm=Inf
+r i v e l a t o +ADJ +Gender=Fem +Number=Sing	r i v e l a r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+l e g i t t i m o +ADJ +Gender=Masc +Number=Sing	l e g i t t i m a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+e m e t t e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+a m m i n i s t r a t o r e +NOUN +Gender=Masc +Number=Sing
+g e n e r a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	g e n e r a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+a s s a i +ADV +_
+b u o n o +ADJ +Gender=Masc +Number=Plur	b u o n o +NOUN +Gender=Masc +Number=Plur
+o c c h i o +NOUN +Gender=Masc +Number=Plur
+g e n n a i o +NOUN +Gender=Masc +Number=Sing
+d i v i n o +ADJ +Gender=Fem +Number=Sing
+s p i c c a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin
+d e f i n i t o +ADJ +Gender=Masc +Number=Plur	d e f i n i r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part
+s o l i t a m e n t e +ADV +_
+r a p i t o +ADJ +Gender=Masc +Number=Sing
+r i t r o v a r e +VERB +VerbForm=Inf
+g u a d a g n a r e +VERB +VerbForm=Ger
+f a l l i r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+r i n g +NOUN +Gender=Masc +Number=Sing,Plur
+e s i s t e r e +VERB +Aspect=Imp +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+f o g l i a +NOUN +Gender=Fem +Number=Plur
+i n t e r a z i o n e +NOUN +Gender=Fem +Number=Sing
+d e m o g r a f i c o +ADJ +Gender=Fem +Number=Sing
+u n i t a m e n t e +ADV +_
+c r i s t i a n o +NOUN +Gender=Fem +Number=Sing	c r i s t i a n o +ADJ +Gender=Fem +Number=Sing
+c o n s e g u e n z a +NOUN +Gender=Fem +Number=Plur
+e s t e n d e r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	e s t e s o +ADJ +Gender=Fem +Number=Plur	e s t e n d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+s t a g i o n a l e +ADJ +Gender=Masc,Fem +Number=Plur	s t a g i o n a l e +NOUN +Gender=Masc +Number=Plur
+l e g a m e +NOUN +Gender=Masc +Number=Sing
+t o r n a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Fut +VerbForm=Fin
+s u p e r g i g a n t e +ADJ +Gender=Masc,Fem +Number=Sing	s u p e r g i g a n t e +NOUN +Gender=Masc,Fem +Number=Sing
+d i s p e r s o +ADJ +Gender=Masc +Number=Plur	d i s p e r g e r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part	d i s p e r g e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=1 +Tense=Past +VerbForm=Fin	d i s p e r d e r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=1 +Tense=Past +VerbForm=Fin	d i s p e r s o +NOUN +Gender=Masc +Number=Plur
+i n s e r i r e +VERB +Aspect=Perf +Mood=Ind +Number=Sing +Person=3 +Tense=Past +VerbForm=Fin
+e s c l u s i v o +ADJ +Gender=Masc +Number=Sing
+d i s c r i m i n a z i o n e +NOUN +Gender=Fem +Number=Sing
+p e l l i c o l a +NOUN +Gender=Fem +Number=Plur
+c o r a z z a t o +ADJ +Gender=Fem +Number=Plur
+p r e v e d e r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part	p r e v i s t o +ADJ +Gender=Masc +Number=Plur
+s o m i g l i a n z a +NOUN +Gender=Fem +Number=Sing
+t e o l o g i c o +ADJ +Gender=Fem +Number=Sing
+a r c h i t e t t o n i c o +ADJ +Gender=Masc +Number=Plur
+t a s s a r e +VERB +Mood=Ind +Number=Sing +Person=1 +Tense=Pres +VerbForm=Fin	t a s s o +NOUN +Gender=Masc +Number=Sing
+m a c c h i n a r i o +NOUN +Gender=Masc +Number=Plur
+t a l m e n t e +ADV +_
+s c u d e r i a +NOUN +Gender=Fem +Number=Sing
+c o l t o +ADJ +Gender=Masc +Number=Sing	c o l t o +NOUN +Gender=Masc +Number=Sing	c o g l i e r e +VERB +Gender=Masc +Number=Sing +Tense=Past +VerbForm=Part
+r i g o r e +NOUN +Gender=Masc +Number=Plur
+s e p a r a t a m e n t e +ADV +_
+e d i t o +ADJ +Gender=Masc +Number=Sing
+d e c a d i m e n t o +NOUN +Gender=Masc +Number=Sing
+p e n u l t i m o +ADJ +Gender=Masc +Number=Sing	p e n u l t i m o +NOUN +Gender=Masc +Number=Sing
+n u t r i r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+s u d d i v i d e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+m e t a l l i c o +ADJ +Gender=Masc +Number=Plur
+s u p e r f i c i e +NOUN +Gender=Fem +Number=Plur
+t r o v a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Fut +VerbForm=Fin
+r e c l u s i o n e +NOUN +Gender=Fem +Number=Sing
+f e m m i n a +NOUN +Gender=Fem +Number=Plur
+e s t e r o +ADJ +Gender=Fem +Number=Sing
+g a m b a +NOUN +Gender=Fem +Number=Plur
+n i p o t e +NOUN +Gender=Masc,Fem +Number=Sing
+i n t e r n e t +NOUN +Gender=Masc +Number=Sing,Plur
+a r a l d i c o +ADJ +Gender=Fem +Number=Sing
+p o n t i f i c i o +ADJ +Gender=Masc +Number=Sing
+e l e m e n t o +NOUN +Gender=Masc +Number=Sing
+p l a y o f f +NOUN +Gender=Masc +Number=Sing,Plur
+s v o l t a +NOUN +Gender=Fem +Number=Sing	s v o l t o +ADJ +Gender=Fem +Number=Sing	s v o l g e r e +VERB +Gender=Fem +Number=Sing +Tense=Past +VerbForm=Part
+a d o t t a r e +VERB +Mood=Ind +Number=Plur +Person=2 +Tense=Pres +VerbForm=Fin	a d o t t a r e +VERB +Gender=Fem +Number=Plur +Tense=Past +VerbForm=Part	a d o t t a r e +VERB +Mood=Imp +Number=Plur +Person=2 +VerbForm=Fin	a d o t t a t o +ADJ +Gender=Fem +Number=Plur
+r e a t o +NOUN +Gender=Masc +Number=Sing
+f u l m i n e +NOUN +Gender=Masc +Number=Sing
+m a g g i o +NOUN +Gender=Masc +Number=Sing
+r i l i e v o +NOUN +Gender=Masc +Number=Plur
+m a n i f e s t a z i o n e +NOUN +Gender=Fem +Number=Plur
+i n t e g r a l m e n t e +ADV +_
+i n c l u d e r e +VERB +Mood=Ind +Number=Plur +Person=3 +Tense=Pres +VerbForm=Fin
+r i f i u t a r e +VERB +Mood=Ind +Number=Sing +Person=3 +Tense=Pres +VerbForm=Fin	r i f i u t a r e +VERB +Mood=Imp +Number=Sing +Person=2 +VerbForm=Fin
+o r t o +NOUN +Gender=Masc +Number=Sing
+m a l a t t i a +NOUN +Gender=Fem +Number=Plur
+t e m a t i c o +ADJ +Gender=Fem +Number=Plur
+s c u l t o r e +NOUN +Gender=Masc +Number=Sing
+c a n a l e +NOUN +Gender=Masc +Number=Plur
+m a r k e t i n g +NOUN +Gender=Masc +Number=Sing,Plur
+c o m p i e r e +VERB +Gender=Masc +Number=Plur +Tense=Past +VerbForm=Part	c o m p i u t o +ADJ +Gender=Masc +Number=Plur
+e r e d e +NOUN +Gender=Masc,Fem +Number=Sing
+g u a r d i a +NOUN +Gender=Masc +Number=Sing,Plur	g u a r d i a +NOUN +Gender=Fem +Number=Sing

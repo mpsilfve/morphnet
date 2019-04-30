@@ -1,0 +1,1000 @@
+к а н а л +NOUN +Case=Nom
+а у ы л +NOUN +Case=Loc
+п р о ц е н т +NOUN +Case=Nom
+н ө к т ә +NOUN +Case=Dat
+я т +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	я т +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	я т а +NOUN +Case=Nom	я т +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	я т +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv
+ә ҙ е р л ә н +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	ә ҙ е р л ә н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	ә ҙ е р л ә н +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	ә ҙ е р л ә н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	ә ҙ е р л ә +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	ә ҙ е р л ә +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass
+һ а ҡ +NOUN +Case=Nom	һ а ҡ +ADJ +_
+е р +NOUN +Case=Abl
+б а ш л а +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=2
+ш и ғ р и ә т +NOUN +Case=Nom
+к ө с ә й +VERB +Aspect=Perf +Valency=1 +VerbForm=Conv	к ө с ә й +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv +Voice=Pass
+т ә р ж е м ә +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ө ҫ +NOUN +Case=Acc
+т о ҡ +NOUN +Case=Nom
+һ о р а +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun	һ о р а у +NOUN +Case=Nom
+к ү р һ ә т +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin
+э й ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+м а ш и н а +NOUN +Case=Nom
+с е к у н д +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+б у й +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+р е а к ц и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+г е о г р а ф и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+х ә ү е ф +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3	х ә ү е ф е +NOUN +Case=Nom
+д о к т о р л ы ҡ +ADJ +_
+а р а +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+т е о р и я +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+у л т ы р ы ш +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+ә й л ә н д е р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	ә й л ә н д е р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+т у п л а н м а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+м о л е к у л я р +ADJ +_
+к о н т р а к т +NOUN +Case=Nom
+и х т и р а м +NOUN +Case=Nom
+я н а +VERB +Tense=Past +Valency=1 +VerbForm=Part	я н а +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	я н а +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	я н а +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	я н а +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	я н а +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin
+э с +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+т у ҡ т а т +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+ф и р м а +NOUN +Case=Nom
+ҡ а р а +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun	ҡ а р а +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	ҡ а р а +VERB +Tense=Past +Valency=2 +VerbForm=Part
+м е т о д и к а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б а й т а ҡ +ADJ +_	б а й т а ҡ +ADV +_
+т ө ҫ +NOUN +Case=Nom
+б ө г ө н +ADV +_	б ө к +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+я р а т +VERB +Mood=Pot +Valency=2 +VerbForm=Part	я р а т ы у с ы +NOUN +Case=Nom
+м и л л ә т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3	м и л л ә т е +NOUN +Case=Nom
+я р а ш л ы +ADJ +_
+ү р м ә к с е +NOUN +Case=Nom
+т ә б и ғ ә т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+у й н а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	у й н а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+т и к ш е р е ү с е +NOUN +Case=Nom	т и к ш е р +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+х р и с т и а н л ы ҡ +NOUN +Case=Dat
+с ц е н а р и й +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+я н д ы р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	я н д ы р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+д и н и +ADJ +_
+б а ҫ м а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ш а һ и т +NOUN +Case=Nom
+к о р п о р а т и в +ADJ +_
+а в и а ц и я +NOUN +Case=Nom
+с а р м а т +NOUN +Case=Gen +Number=Plur
+ф р о н т +NOUN +Case=Nom
+ф и г у р а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т и ф +NOUN +Case=Nom
+и к е н с е л +ADJ +_
+т ө ҙ ө л ө ш +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+а р х и т е к т у р а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к и л е ш +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	к и л е ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	к и л +VERB +Aspect=Imp +Deriv=Coop +Valency=1 +VerbForm=Conv	к и л +VERB +Deriv=Coop +Number=Sing +Person=3 +Tense=Pres +Valency=1	к и л е ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	к и л е ш +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv
+а п - а ҡ +ADJ +_
+и с е м +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б е л д е р +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+ф и р ҡ ә +NOUN +Case=Nom +Number=Plur
+ҡ а л +VERB +Aspect=Imp +Deriv=Coop +Valency=1 +VerbForm=Conv	ҡ а л +VERB +Deriv=Coop +Number=Sing +Person=3 +Tense=Pres +Valency=1
+к у р д +NOUN +Case=Nom +Number=Plur
+с ы с ҡ а н +NOUN +Case=Nom +Number=Plur
+ҡ ы ҙ ы ҡ һ ы н д ы р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	ҡ ы ҙ ы ҡ һ ы н д ы р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+т е х н о л о г и я +NOUN +Case=Nom +Number=Plur	т е х н о л о г и я л а р +NOUN +Case=Nom
+и ҫ к ә р м ә +NOUN +Case=Nom +Number=Plur
+к а р а п +NOUN +Case=Nom +Number=Plur
+ҡ ы й ы н л ы ҡ +NOUN +Case=Nom +Number=Plur
+м а т д ә +NOUN +Case=Nom
+я з а +NOUN +Case=Dat +Number=Plur
+к р и з и с +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б а ш ҡ а р ы л +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	б а ш ҡ а р ы л +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	б а ш ҡ а р ы л а +NOUN +Case=Nom	б а ш ҡ а р ы л +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	б а ш ҡ а р ы л +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv
+у й һ ы у л ы ҡ +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+п а р л а м е н т +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+о ҙ а т +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	о ҙ а т +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	о ҙ а т +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+ү ҙ е н с ә л е к +NOUN +Case=Dat +Number=Plur
+с и н т е т и к +ADJ +_
+й о ҡ о +NOUN +Case=Dat
+и х т и л а л +NOUN +Case=Acc
+һ ө ҙ ө м т ә +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+й ы р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а т ы н - ҡ ы ҙ +NOUN +Case=Acc
+к о м п л е к с +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+т ү г +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin +Voice=Pass	т ү г е л +ADV +_
+ғ а ш и ҡ +ADJ +_
+ж у р н а л +NOUN +Case=Loc +Number=Plur
+ф у н к ц и я +NOUN +Case=Gen +Number=Plur
+к ү р +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	к ү р +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun	к ү р +VERB +Tense=Past +Valency=2 +VerbForm=Part
+һ ы ҙ а т +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ о р о л м а +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ц и к л +NOUN +Case=Nom
+э к с к у р с и я +NOUN +Case=Nom
+ф а у н а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+м ә ғ р и ф ә т с е +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ү л т е р +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun	ү л т е р +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	ү л т е р +VERB +Tense=Past +Valency=2 +VerbForm=Part
+ү ҫ е м л е к +NOUN +Case=Acc +Number=Plur
+т а т а р +NOUN +Case=Gen +Number=Plur
+ә ҫ ә р +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+т а м +NOUN +Case=Nom
+т и ҫ т ә л ә +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	т и ҫ т ә л ә +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun	т и ҫ т ә л ә +VERB +Tense=Past +Valency=2 +VerbForm=Part
+б и о с ф е р а +NOUN +Case=Nom
+д ә р ә ж ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ш а й б а +NOUN +Case=Nom
+а й +NOUN +Case=Dat
+х е ҙ м ә т +NOUN +Case=Loc
+т е л д ә р +ADJ +_	т е л +NOUN +Case=Nom +Number=Plur
+х о ҡ у ҡ +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+э л ә г +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	э л ә г +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	э л ә г +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	э л ә г +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	э л ә г +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	э л ә г +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1
+а ҫ а б а л ы ҡ +NOUN +Case=Nom
+т и т у л +NOUN +Case=Nom
+и ҫ е р е к +ADJ +_
+п ь е с а +NOUN +Case=Nom
+к и ҫ к е н +ADJ +_
+р е г и о н +NOUN +Case=Loc
+д о г о в о р +NOUN +Case=Nom
+м ә с е т +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+к ө с +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+к а м и л л а ш т ы р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	к а м и л л а ш т ы р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+к ө с +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ ы ҫ ҡ а +ADJ +Degree=Comp
+ә й б е р +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а ғ и ҙ ә +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+з а м а н а +NOUN +Case=Nom
+т и ҙ л е к +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+э т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б а р +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	б а р +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б а р +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	б а р +VERB +Tense=Past +Valency=1 +VerbForm=Part	б а р +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	б а р +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	б а р +VERB +Tense=Past +Valency=2 +VerbForm=Part	б а р +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	б а р +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun
+ф а р м а ц е в т и к а +NOUN +Case=Nom
+а ҡ с а +NOUN +Case=Nom +Number=Plur
+а р а +NOUN +Case=Nom +Number[psor]=Sing +Person[psor]=1
+а к т р и с а +NOUN +Case=Gen
+ө л к ә +NOUN +Case=Loc +Number=Plur
+я у л а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	я у л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass
+к ү р е н е ш +NOUN +Case=Nom	к ү р е н +VERB +Deriv=Coop +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin	к ү р е н +VERB +Deriv=Coop +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin
+р о л ь +NOUN +Case=Nom
+т е а т р +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т а у ы ш +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+к ө р ә н һ ы у +ADJ +_
+т ә ғ ә л ә +NOUN +Case=Gen
+в е т е р и н а р и я +NOUN +Case=Nom
+б а ш а ҡ +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+в а з и ф а +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ү ҙ ә н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+я т +VERB +Aspect=Perf +Valency=1 +VerbForm=Conv	я т +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv +Voice=Pass
+һ а й л а +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+ә л и ф б а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ә й т е м +NOUN +Case=Nom
+б а я р +NOUN +Case=Nom
+н и к а х +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+у ң а й һ ы ҙ +ADJ +_
+ж у р н а л +NOUN +Case=Nom
+о н о т +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	о н о т +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	о н о т +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+т ә ү +ADJ +_
+я ң ы р т +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+ө л ө ш +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+м а й ҙ а н +NOUN +Case=Nom	м а й +NOUN +Case=Abl
+т а к т и к а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ғ а и л ә +NOUN +Case=Nom +Number=Plur
+р а д и к а л ь +ADJ +_
+г ә з и т +NOUN +Case=Gen
+м а м ы ҡ +NOUN +Case=Nom
+к у л ь т у р а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т ө ҫ +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ө й р ә т +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+т о р м о ш +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а т +NOUN +Case=Gen
+р е в о л ю ц и я +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+в у л к а н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ф а р а з +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+н о р м а л ь +ADJ +_
+с ө г ө л д ө р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а р ш ы л ы ҡ +NOUN +Case=Nom
+к л у б +NOUN +Case=Nom
+ҡ а т ы н +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+с а ҡ ы р +VERB +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3 +Valency=2 +VerbForm=Vnoun	с а ҡ ы р ы у +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+һ а ҙ л ы ҡ +NOUN +Case=Nom +Number=Plur
+т о т о н +VERB +Tense=Past +Valency=1 +VerbForm=Part	т о т о н +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	т о т о н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	т о т о н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	т о т о н +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	т о т о н +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+б а ҫ т ы р ы л +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	б а ҫ т ы р ы л +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	б а ҫ т ы р ы л +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	б а ҫ т ы р ы л +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+я п р а ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+м о с о л м а н +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+п с и х и к +ADJ +_
+а р м и я +NOUN +Case=Nom +Number=Plur
+ә й б е р +NOUN +Case=Acc +Number=Plur
+м ө м к и н л е к +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+з а к о н +NOUN +Case=Nom
+б и т +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+и д е я +NOUN +Case=Nom +Number=Plur
+ғ ә р ә п +NOUN +Case=Nom
+я л +NOUN +Case=Dat	я л ғ а +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin
+о т +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	о т +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+ф о т о с и н т е з +NOUN +Case=Nom
+д а ғ с т а н +ADJ +_
+ү ҫ е н т е +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+я р ы м +NOUN +Case=Nom	я р ы +NOUN +Case=Nom +Number[psor]=Sing +Person[psor]=1	я р +NOUN +Case=Nom +Number[psor]=Sing +Person[psor]=1
+с о в е т +NOUN +Case=Dat +Number=Plur
+в а ҡ и ғ а +NOUN +Case=Acc
+т а м а м л а +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+р у м ы н +NOUN +Case=Nom
+н ы ғ ы т +VERB +Case=Dat +Valency=2 +VerbForm=Vnoun	н ы ғ ы т ы у ғ а +NOUN +Case=Nom
+б о й о р о ҡ +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ф а б р и к а +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+с о ю з +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+у г л е р о д +NOUN +Case=Nom
+о р г а н и з м +NOUN +Case=Acc
+т у т а ш +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+м о х т а ж л ы ҡ +NOUN +Case=Nom
+к в а р т а л +NOUN +Case=Nom
+ө л к ә +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+т ө р к ө м +NOUN +Case=Dat +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ч е м п и о н а т +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+с а ғ ы л д ы р +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+р а й о н +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+о ҙ а т +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	о ҙ а т +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+п а р т и я +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+к р е м л ь +NOUN +Case=Nom
+э ш л ә +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	э ш л ә +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	э ш л ә +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+ҡ ы ҙ +NOUN +Case=Gen	ҡ ы ҙ +VERB +Aspect=Perf +Number=Sing +Person=2 +Tense=Past +Valency=1 +VerbForm=Fin	ҡ ы ҙ +VERB +Aspect=Perf +Number=Sing +Person=2 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+к о н с е р в а т о р и я +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+г а л е р е я +NOUN +Case=Nom
+б а ш л а н +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	б а ш л а н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	б а ш л а н +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	б а ш л а н +VERB +Tense=Past +Valency=1 +VerbForm=Part	б а ш л а н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б а ш л а н +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	б а ш л а +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	б а ш л а +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б а ш л а +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+у к а з +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+р а ҫ л а +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+к и л е ш е ү +NOUN +Case=Nom	к и л е ш +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun	к и л е ш +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass	к и л +VERB +Case=Nom +Deriv=Coop +Valency=1 +VerbForm=Vnoun
+т а м а м л а +VERB +Valency=2 +VerbForm=Conv
+с т и л и с т и к +ADJ +_
+ю л б а р ы ҫ +NOUN +Case=Nom
+о к р у г +NOUN +Case=Gen
+б у р ы с +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т ә п ә ш +ADJ +_
+б и р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	б и р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+а э р о п о р т +NOUN +Case=Nom
+т и р ә +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+а ҙ а ғ ы р а ҡ +ADJ +_
+п л а н е т а +NOUN +Case=Nom +Number=Plur
+а т +VERB +Aspect=Imp +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3 +Tense=Fut +Valency=2 +VerbForm=Vnoun	а т +VERB +Aspect=Imp +Tense=Fut +Valency=2 +VerbForm=Vnoun	а т +VERB +Mood=Vol +Number=Sing +Person=3 +Valency=2 +VerbForm=Conv	а т а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т ө р +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+п а р т и з а н +NOUN +Case=Nom
+э с +VERB +Tense=Aor +Valency=2 +VerbForm=Part	э с е р +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin	э с +VERB +Number=Sing +Person=3 +Tense=Aor +Valency=2 +VerbForm=Fin	э с е р +NOUN +Case=Nom
+и н ж е н е р +NOUN +Case=Nom
+с ы ғ ы н т ы +NOUN +Case=Nom +Number=Plur
+т ә ж р и б ә +NOUN +Case=Nom +Number=Plur
+п р и н ц е с с а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б ү л е к +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+и м п е р и я +NOUN +Case=Nom
+у т +NOUN +Case=Dat
+ҡ у ш ы л д ы ҡ +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+о с р а ҡ +NOUN +Case=Loc +Number=Plur
+с п о р т с ы +NOUN +Case=Gen +Number=Plur
+д ы м +NOUN +Case=Nom
+а л л а +NOUN +Case=Nom +Number=Plur
+я р ы м у т р а у +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+и т +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	и т +NOUN +Case=Acc
+и р т ә +ADJ +_	и р т ә +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin	и р т ә +NOUN +Case=Nom
+ш а р +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+б у л +VERB +Mood=Opt +Number=Sing +Person=3 +Polarity=Neg +Valency=1 +VerbForm=Fin	б у л +VERB +Mood=Opt +Number=Sing +Person=3 +Polarity=Neg +Valency=2 +VerbForm=Fin +Voice=Pass
+б у й +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+й ө ҙ +VERB +Aspect=Perf +Valency=1 +VerbForm=Conv	й ө ҙ +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv +Voice=Pass
+о л и м п и я +ADJ +_
+ө й ә ҙ +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+и т +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin	и т +NOUN +Case=Nom
+о с о р +NOUN +Case=Dat
+я б а л а ҡ +NOUN +Case=Nom
+б а ш л а +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б а ш л а н +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	б а ш л а н +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+п е н с и я +NOUN +Case=Dat
+б а й л ы ҡ +NOUN +Case=Nom +Number=Plur
+а с +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun	а с ы у +NOUN +Case=Nom	а с ы +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+м и н и с т р л ы ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+с а р а +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+в е д о м о с т и +NOUN +Case=Nom
+т а р м а ҡ +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+к ү л ә м +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+р ә т т ә +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin	р ә т +NOUN +Case=Loc
+т е а т р +NOUN +Case=Nom +Number=Plur
+э ҙ ә р л е к л ә ү +NOUN +Case=Nom
+һ а н а +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+с т а р т +NOUN +Case=Nom
+г и б р а л т а р +NOUN +Case=Nom
+м а р т +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+һ и к е р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	һ и к е р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	һ и к е р +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	һ и к е р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+к ү т ә р +VERB +Case=Dat +Valency=2 +VerbForm=Vnoun
+т ө ҙ ө л ө ш +NOUN +Case=Acc
+й ә ш +ADJ +_	й ә ш +NOUN +Case=Nom
+х а л ы ҡ +NOUN +Case=Loc +Number=Plur
+с п р и н т +NOUN +Case=Nom
+ҙ у р л ы ҡ +NOUN +Case=Nom
+я ң ы л ы ҡ +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+с т а р ш и н а +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т а п +VERB +Number=Plur +Person=1 +Tense=Pres +Valency=2
+у р ы н л а ш +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	у р ы н л а ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	у р ы н л а ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	у р ы н л а ш +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+т е л +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin	т е л +NOUN +Case=Nom
+э ҙ +NOUN +Case=Nom
+ҡ о й р о ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ғ а и л ә +NOUN +Case=Nom
+к ө ҙ +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+т ө л к ө +NOUN +Case=Nom
+ү т +VERB +Mood=Cond +Number=Sing +Person=3 +Valency=2 +VerbForm=Conv
+ф о р у м +NOUN +Case=Nom
+б о т а н и к +NOUN +Case=Nom
+б у д д и з м +NOUN +Case=Nom
+м ө х б и р +NOUN +Case=Nom
+с т а т ь я +NOUN +Case=Nom
+б е р л е к +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+к ү п л е к +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+я н +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+у р ы н +NOUN +Case=Abl
+я ҡ л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	я ҡ л а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+к ү р е н +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	к ү р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	к ү р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	к ү р е н +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	к ү р е н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	к ү р е н +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	к ү р е н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	к ү р е н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+м а т д ә л ә р +NOUN +Case=Gen	м а т д ә +NOUN +Case=Gen +Number=Plur
+а м е р и к а +ADJ +_
+ҡ ы р ғ ы ҙ +NOUN +Case=Nom +Number=Plur
+м ө л к ә т е +NOUN +Case=Nom	м ө л к ә т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к ө с +NOUN +Case=Acc +Number=Plur
+б ә ш м ә к +NOUN +Case=Nom
+т е л м ә р +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а т н а ш +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	ҡ а т н а ш +VERB +Tense=Past +Valency=1 +VerbForm=Part	ҡ а т н а ш +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	ҡ а т н а ш +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	ҡ а т н а ш +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	ҡ а т н а ш +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin
+м ө н ә с ә б ә т +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+с а у ҙ а г ә р ҙ ә р +NOUN +Case=Nom
+д и н а с т и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+э к с п л у а т а ц и я л а у +NOUN +Case=Nom
+у й ы н +NOUN +Case=Nom	у й +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а л +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	ҡ а л +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	ҡ а л +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	ҡ а л ғ а н +NOUN +Case=Nom	ҡ а л +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	ҡ а л +VERB +Tense=Past +Valency=1 +VerbForm=Part	ҡ а л +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun
+с ы ғ а н а ҡ +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+к ү б е һ е н с ә +ADV +_
+о к т я б р ь +NOUN +Case=Nom
+т ө р ө к +NOUN +Case=Nom +Number=Plur
+ғ ә ҙ ә т +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+у й н а у с ы +NOUN +Case=Nom	у й н а +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+с ә х н ә +NOUN +Case=Loc
+я т ҡ ы л ы ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т а л а у +NOUN +Case=Nom	т а л а +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+п л а н +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т а м ы р +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+а х ы р +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+э ш с ә н л е к +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+е н +NOUN +Case=Loc
+б а ҫ ҡ ы с +NOUN +Case=Nom +Number=Plur
+т о р о ш +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+р ә й е с +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+м е т а л л +NOUN +Case=Nom
+и л +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3	и л е +NOUN +Case=Nom
+к ө с ө р г ә н е ш +NOUN +Case=Nom
+ү т к ә р г е с +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+д ә р т л ә н д е р +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+т ә ь ҫ и р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+й ы л +NOUN +Case=Dat +Number=Plur
+т а р м а ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+р е й т и н г +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а л д ы ҡ +NOUN +Case=Nom +Number=Plur
+ҡ ы й ы ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+а л ы ш т а +VERB +Number=Sing +Person=3 +Tense=Aor +Valency=2 +VerbForm=Fin	а л ы ш т а +VERB +Tense=Aor +Valency=2 +VerbForm=Part
+т а м с ы +NOUN +Case=Nom
+с ы у а ш +NOUN +Case=Nom +Number=Plur
+п а р т и я +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+д е к а +NOUN +Case=Acc	д е к а н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+н у р л а н +VERB +Deriv=Coop +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin	н у р л а н ы ш +NOUN +Case=Nom
+о р г а н и з м +NOUN +Case=Dat
+э ш +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+б ә р е л е ш +NOUN +Case=Nom +Number=Plur
+с е к т о р +NOUN +Case=Nom
+п о л и т е х н и к +ADJ +_
+ә ҙ ә м +NOUN +Case=Nom
+д и с с е р т а ц и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+х о ҡ у ҡ +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ө н +NOUN +Case=Nom +Number=Plur	ө н д ә +VERB +Tense=Aor +Valency=1 +VerbForm=Part	ө н д ә +VERB +Number=Sing +Person=3 +Tense=Aor +Valency=1 +VerbForm=Fin
+ҡ а л а +NOUN +Case=Acc	ҡ а л а +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin
+в а ҡ ы т +NOUN +Case=Nom
+т ө р к ө м +NOUN +Case=Gen
+о ҫ т а л ы ҡ +NOUN +Case=Nom
+я н +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv +Voice=Pass	я н +VERB +Aspect=Perf +Valency=1 +VerbForm=Conv
+и х т и м а л л ы ҡ +NOUN +Case=Nom
+б е л е м +NOUN +Case=Acc
+т и г е ҙ л е к +NOUN +Case=Nom
+р а й о н +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т у р ғ а й +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к а н ц е л я р и я +NOUN +Case=Nom
+д и а г н о з +NOUN +Case=Nom
+т о ғ р о л о ҡ +NOUN +Case=Nom
+я р ы ш +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+у н и в е р с и т е т +NOUN +Case=Nom +Number=Plur
+ҡ о р т +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+т о ҙ л о л о ғ о +NOUN +Case=Nom
+ғ а и л ә +NOUN +Case=Gen
+м а й ҙ а н +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+к и т а п х а н а +NOUN +Case=Gen
+һ и р ә к +ADJ +Degree=Comp
+б е л +VERB +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Part	б е л +VERB +Case=Nom +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Vnoun	б е л м ә г ә н +ADJ +_	б е л +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Fin
+т е х н и к а +NOUN +Case=Acc
+з а м а н д а ш +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ә й л ә н е ш +NOUN +Case=Nom	ә й л ә н +VERB +Deriv=Coop +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin
+о с о р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+а т а н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3	а т а +NOUN +Case=Acc	а т а +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin
+к о н г р е с с +NOUN +Case=Nom
+с ы ғ а р +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+т о м +NOUN +Case=Nom
+м ө х ә р р и р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а ғ ы ҙ +NOUN +Case=Nom
+б ү л +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	б ү л +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	б ү л е н +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	б ү л е н +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun	б ү л е н +VERB +Tense=Past +Valency=2 +VerbForm=Part	б ү л е н +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	б ү л е н +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	б ү л е н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	б ү л е н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б ү л е н +VERB +Tense=Past +Valency=1 +VerbForm=Part	б ү л е н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	б ү л +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+т у ҡ л а н +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	т у ҡ л а н +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	т у ҡ л а н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	т у ҡ л а н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1
+т о р +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	т о р +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=1
+е т е ш т е р е ү с е +NOUN +Case=Nom	е т е ш т е р +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+э р е +ADJ +Degree=Comp
+ҡ ә б и л ә +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+я р т ы +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+к е ш е л е к +NOUN +Case=Nom
+ы с ы н б а р л ы ҡ +NOUN +Case=Nom
+ө й ә ҙ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+и л +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3	и л е н ә +NOUN +Case=Nom
+к и т а п х а н а +NOUN +Case=Nom +Number=Plur
+г е н е т и к +ADJ +_
+к о м м у н и с т +NOUN +Case=Nom
+т ө ҙ ө л ө ш +NOUN +Case=Dat
+к а д е т +NOUN +Case=Nom
+э с +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+н е ф т +NOUN +Case=Acc
+б ү л к ә т +NOUN +Case=Nom
+х е ҙ м ә т +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+т ә н +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+т ә ү л е к +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ө л ө ш л ә т ә +ADJ +_
+й ә ш е р е н +VERB +Aspect=Perf +Valency=1 +VerbForm=Conv	й ә ш е р е н +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv +Voice=Pass	й ә ш е р +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv +Voice=Pass
+т е л +NOUN +Case=Loc
+м а й +NOUN +Case=Dat
+с о р т +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+у л +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+м а й ҙ а н +NOUN +Case=Acc
+п л я ж +NOUN +Case=Nom
+м е м о р и а л ь +ADJ +_
+п р а к т и к +ADJ +_
+а я т +NOUN +Case=Abl
+и т +VERB +Mood=Pot +Tense=Pres +Valency=2 +VerbForm=Part
+г е р о й +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+к и с л о т а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+э ш к ә р т +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	э ш к ә р т +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+т е к ә +ADJ +_	т е к ә +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin	т е к ә +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin +Voice=Pass
+р е з о л ю ц и я +NOUN +Case=Nom
+а р х и п е л а г +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+у р ы н +NOUN +Case=Loc +Number=Plur
+ҡ а л +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	ҡ а л а +NOUN +Case=Nom	ҡ а л +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	ҡ а л +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	ҡ а л +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	ҡ а л а +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin
+а у ы л +NOUN +Case=Gen
+й ө р ә к +NOUN +Case=Nom
+б у л +VERB +Tense=Fut +Valency=1 +VerbForm=Part	б у л +VERB +Tense=Fut +Valency=2 +VerbForm=Part +Voice=Pass	б у л +VERB +Number=Sing +Person=3 +Tense=Fut +Valency=2 +VerbForm=Fin +Voice=Pass	б у л +VERB +Number=Sing +Person=3 +Tense=Fut +Valency=1 +VerbForm=Fin
+м а т д ә +NOUN +Case=Gen
+т ө ш ө н с ә +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+б ү л е н +VERB +Aspect=Perf +Number=Plur +Person=1 +Tense=Past +Valency=1 +VerbForm=Fin	б ү л е н д е к +NOUN +Case=Nom	б ү л +VERB +Aspect=Perf +Number=Plur +Person=1 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б ү л е н +VERB +Aspect=Perf +Number=Plur +Person=1 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б ү л е н +VERB +Aspect=Perf +Number=Plur +Person=1 +Tense=Past +Valency=2 +VerbForm=Fin
+т а ғ а н +NOUN +Case=Nom
+й ә ш к е л т +ADJ +_
+б е л +VERB +Valency=2 +VerbForm=Conv
+т у л ҡ ы н +NOUN +Case=Nom +Number=Plur
+п р о т е с т а н т +NOUN +Case=Nom +Number=Plur
+ҡ а р а +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+н и к а х +NOUN +Case=Nom
+с а р а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+и р - а т +NOUN +Case=Nom
+а у л а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	а у +NOUN +Case=Sim	а у л а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	а у л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	а у л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	а у л а +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	а у +NOUN +Case=Nom +Case=Sim	а у л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1
+т ә с б и х +NOUN +Case=Nom
+д и у а р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+я у а п л ы л ы ҡ +NOUN +Case=Nom
+һ у ғ +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	һ у ғ +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	һ у ғ +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+о р г а н и з м +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т а р ҡ а л +VERB +Valency=2 +VerbForm=Conv +Voice=Pass	т а р ҡ а л +VERB +Valency=1 +VerbForm=Conv
+п р и н ц и п +NOUN +Case=Nom
+м а я ҡ +NOUN +Case=Nom
+к и м ә л +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+й о м ғ а ҡ +NOUN +Case=Nom
+л и г а +NOUN +Case=Dat
+з а р а р +NOUN +Case=Nom
+и т ә к +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+т а ҡ +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv	т а ғ ы +VERB +Aspect=Perf +Valency=1 +VerbForm=Conv	т а ғ ы +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv +Voice=Pass
+м а т е р и я +NOUN +Case=Nom
+м ә й е т +NOUN +Case=Acc
+р а с а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+х р и с т и а н +NOUN +Case=Gen +Number=Plur
+о т е л ь +NOUN +Case=Nom
+п р о г р а м м а +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+а к т е р л ы ҡ +NOUN +Case=Nom
+л а т ы ш +NOUN +Case=Nom
+к л а с с и к а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б а һ а л а +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+я ҙ м а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+и м е ҙ +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+с ә й ә с ә т +NOUN +Case=Nom
+м и н у т +NOUN +Case=Loc
+х е ҙ м ә т +NOUN +Case=Gen
+к и с л о р о д +NOUN +Case=Nom
+с ә с +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+ҡ о р о л м а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б а ш ҡ о р т +NOUN +Case=Dat +Number=Plur
+р ә с с а м +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+у й н а +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	у й н а +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	у й н а +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass
+а з и я +NOUN +Case=Nom
+к ө й +NOUN +Case=Dat
+у р т а ҡ +ADJ +_
+б и о х и м и я +NOUN +Case=Nom
+б а б а й +NOUN +Case=Nom
+а й ы р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	а й ы р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+т и е р л е к +ADV +_
+к и т а п х а н а +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+һ ө ж ү м +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ф о р м а +NOUN +Case=Nom
+б ы у а +NOUN +Case=Nom
+ҡ а п +NOUN +Case=Nom
+ҡ а т л а у л ы +ADJ +_
+б о с т о н +NOUN +Case=Nom
+к ә ң ә ш +NOUN +Case=Nom
+а в т о м а т и к +ADJ +_
+т ы й +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	т ы й +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	т ы й +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+я р +NOUN +Case=Dat
+т ө б ә к +NOUN +Case=Nom +Number=Plur
+х а р +NOUN +Case=Nom
+к о м м у н а +NOUN +Case=Nom
+м и ш ә р +NOUN +Case=Nom
+у ҡ ы +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	у ҡ ы +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+т ы ш +NOUN +Case=Abl
+т е л +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+ә к р е н +ADV +_	ә к р е н +ADJ +_
+ш ө ғ ө л л ә н +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun	ш ө ғ ө л л ә н +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass
+ғ ә с к ә р +NOUN +Case=Abl +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а т л а м +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+и х л а с +ADJ +_
+ҡ у н а ҡ +NOUN +Case=Loc
+о ҙ о н л о ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3	о ҙ о н л о ғ о +NOUN +Case=Nom
+у р ы н б а ҫ а р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+х е ҙ м ә т +NOUN +Case=Nom +Number=Plur
+а л м а ш т ы р +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun	а л м а ш т ы р +VERB +Tense=Past +Valency=2 +VerbForm=Part	а л м а ш т ы р +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin
+һ ы ғ ы м т а +NOUN +Case=Nom
+к о м а н д а +NOUN +Case=Dat
+ҡ а й т +VERB +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3 +Valency=2 +VerbForm=Vnoun +Voice=Pass	ҡ а й т +VERB +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3 +Valency=1 +VerbForm=Vnoun
+т а м а м л а +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	т а м а м л а +VERB +Tense=Past +Valency=2 +VerbForm=Part	т а м а м л а +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun
+т ө р к и +ADJ +_	т ө р к и +NOUN +Case=Nom
+ф е д е р а ц и я +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+й о н д о ҙ л о ҡ +NOUN +Case=Nom
+ғ ә р +NOUN +Case=Nom
+б а ҡ с а +NOUN +Case=Nom +Number=Plur
+т ә б и ғ ә т +NOUN +Case=Loc
+ҡ ы с ҡ ы р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	ҡ ы с ҡ ы р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+ҡ ә т ғ и +ADJ +_
+э н ц и к л о п е д и я +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а п л а у +NOUN +Case=Nom	ҡ а п л а +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+с ә й ә с ә т +NOUN +Case=Dat
+з ә й т ү н +NOUN +Case=Nom
+а р к а +NOUN +Case=Nom
+б у л +VERB +Aspect=Imp +Deriv=Coop +Valency=1 +VerbForm=Conv	б у л +VERB +Deriv=Coop +Number=Sing +Person=3 +Tense=Pres +Valency=1	б у л ы ш +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	б у л ы ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	б у л ы ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	б у л ы ш +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv
+а ҡ л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	а ҡ л а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+һ а т +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+ү л е м +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+х о ҡ у ҡ +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+р е в о л ю ц и я +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+е с е м +NOUN +Case=Nom
+т о р о у с ы +NOUN +Case=Nom	т о р +VERB +Mood=Pot +Valency=2 +VerbForm=Part +Voice=Pass	т о р +VERB +Mood=Pot +Valency=1 +VerbForm=Part
+р а д и о а к т и в +ADJ +_
+н ө к т ә +NOUN +Case=Nom +Number=Plur
+с а н и т а р +NOUN +Case=Nom
+я ҙ +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	я ҙ +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	я ҙ +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+һ а н +NOUN +Case=Nom +Number=Plur
+к л и м а т +NOUN +Case=Nom
+т ә ү б ә +NOUN +Case=Nom
+с ә б ә п +NOUN +Case=Nom +Number=Plur
+к ү л +NOUN +Case=Gen +Number=Plur
+х ө к ү м ә т +NOUN +Case=Gen
+х ө к ү м ә т +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+д а и р ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+һ а ҡ л а н +VERB +Mood=Pot +Valency=1 +VerbForm=Part	һ а ҡ л а +VERB +Mood=Pot +Valency=2 +VerbForm=Part +Voice=Pass	һ а ҡ л а н +VERB +Mood=Pot +Valency=2 +VerbForm=Part +Voice=Pass
+т ө р к ө м +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+а в т о р +NOUN +Case=Gen +Number=Plur
+б е р ҙ ә м л е к +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+к а м п а н и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+с а г а +NOUN +Case=Nom
+в ә к и л +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+в е г е т а т и в +ADJ +_
+т ә ң к ә +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+д у м а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+а у ы л +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ү т к е р +ADJ +_
+һ ы р т +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+б и л д ә л ә ү +NOUN +Case=Nom	б и л д ә л ә +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+ҡ а л +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	ҡ а л +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+һ ө й л ә +VERB +Mood=Pot +Valency=1 +VerbForm=Part	һ ө й л ә +VERB +Mood=Pot +Valency=2 +VerbForm=Part	һ ө й л ә +VERB +Mood=Pot +Valency=2 +VerbForm=Part +Voice=Pass
+л и т р +NOUN +Case=Nom
+д е п у т а т +NOUN +Case=Nom +Number=Plur
+д е р ж а в а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+х а л ы ҡ +NOUN +Case=Acc
+т и ш е к +NOUN +Case=Nom +Number=Plur
+м а й ҙ а н +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+о с р а +VERB +Case=Nom +Deriv=Coop +Valency=2 +VerbForm=Vnoun	о с р а ш ы у +NOUN +Case=Nom	о с р а ш +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun	о с р а ш +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass	о с р а +VERB +Case=Nom +Deriv=Coop +Valency=1 +VerbForm=Vnoun
+г е о л о г и к +ADJ +_
+ү р +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+у ң ы ш һ ы ҙ +ADJ +_
+ҡ о я ш +NOUN +Case=Nom
+у й ғ ы р +NOUN +Case=Nom
+ы с у л +NOUN +Case=Nom +Number=Plur
+к о м п о з и т о р +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ү ҫ е ш +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+н и г е ҙ л ә +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	н и г е ҙ л ә +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass
+к о л л е г а +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ч е м п и о н +NOUN +Case=Nom +Number=Plur
+с к р и п к а +NOUN +Case=Nom
+й ы л +NOUN +Case=Dat +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+б е р л ә ш +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun	б е р л ә ш е ү +NOUN +Case=Nom	б е р л ә ш +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass
+б у р ы с +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+т у ҙ +VERB +Tense=Past +Valency=1 +VerbForm=Part	т у ҙ +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	т у ҙ +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	т у ҙ +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	т у ҙ +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	т у ҙ +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin
+л и г а +NOUN +Case=Loc
+һ ы л т а у +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+в а ҡ ы т +NOUN +Case=Gen
+м а х с у с л а ш ҡ а н +ADJ +_	м а х с у с л а ш ҡ а н +NOUN +Case=Nom
+т о т +VERB +Case=Dat +Valency=2 +VerbForm=Vnoun
+п а л е о з о й +NOUN +Case=Nom
+ҡ а н а т +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+й о р т +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+т у ҡ ы м а +NOUN +Case=Dat
+с т у д и я +NOUN +Case=Nom
+т о к а р ь +NOUN +Case=Nom
+а р е н а +NOUN +Case=Nom
+ф а ш и с т +NOUN +Case=Nom
+м ә ғ ә н ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+г а н д б о л +NOUN +Case=Nom
+б ә л е ш +NOUN +Case=Nom
+м ә ғ л ү м ә т +NOUN +Case=Dat +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+э м и г р а ц и я +NOUN +Case=Nom
+т а р т +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass
+һ ө й л ә ш +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=1	һ ө й л ә +VERB +Deriv=Coop +Number=Plur +Person=3 +Tense=Pres +Valency=2	һ ө й л ә +VERB +Deriv=Coop +Number=Plur +Person=3 +Tense=Pres +Valency=1	һ ө й л ә ш +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=2 +Voice=Pass
+б ү л ә к л ә н +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	б ү л ә к л ә +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	б ү л ә к л ә н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	б ү л ә к л ә н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	б ү л ә к л ә +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	б ү л ә к л ә н +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+м и л л и о н л ы +ADJ +_
+к ү п с е л е к +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+я у л а +VERB +Aspect=Perf +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin
+б ө л г ө н л ө к +NOUN +Case=Dat
+ү ҫ е м л е к +NOUN +Case=Nom +Number=Plur
+о ҙ а ҡ +ADJ +_
+м е м б р а н а +NOUN +Case=Nom
+а т а +NOUN +Case=Dat +Number[psor]=Sing +Person[psor]=1	а т а +VERB +Mood=Imp +Number=Sing +Person=2 +Polarity=Neg +Valency=2 +VerbForm=Fin	а т а м а +NOUN +Case=Nom
+ф и р ғ ә ү е н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+с е р и я +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+ә й т е м +NOUN +Case=Nom +Number=Plur
+т ә х е т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т и г е ҙ л ә +VERB +Aspect=Perf +Number=Sing +Person=3 +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Fin
+и н с т и т у т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+я р ҙ а м с ы +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+м а т ч +NOUN +Case=Loc
+э с +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	э с +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+ө л ө ш +NOUN +Case=Abl
+ғ ә ж ә п +ADV +_	ғ ә ж ә п +ADJ +_
+ҡ у н а ҡ +NOUN +Case=Nom
+н и г е ҙ ҙ ә +VERB +Tense=Aor +Valency=2 +VerbForm=Part	н и г е ҙ ҙ ә +VERB +Number=Sing +Person=3 +Tense=Aor +Valency=2 +VerbForm=Fin	н и г е ҙ +NOUN +Case=Nom +Number=Plur
+м ә к т ә п +NOUN +Case=Abl
+с у б ъ е к т и в +ADJ +_
+б и а т л о н +NOUN +Case=Nom
+т а б ы ш +NOUN +Case=Acc	т а п +VERB +Aspect=Perf +Deriv=Coop +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin
+и н в е с т о р +NOUN +Case=Nom +Number=Plur
+ҡ а п л а н +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	ҡ а п л а н +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	ҡ а п л а н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	ҡ а п л а н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	ҡ а п л а +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	ҡ а п л а н +VERB +Tense=Past +Valency=1 +VerbForm=Part	ҡ а п л а +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	ҡ а п л а +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	ҡ а п л а н +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+п р е д м е т +NOUN +Case=Nom
+с е н а т +NOUN +Case=Nom
+т ө р +NOUN +Case=Gen +Number=Plur
+с а т ы р +NOUN +Case=Nom
+э л е м е н т а р +ADJ +_
+ҡ а р а +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Fin	ҡ а р а +VERB +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Part	ҡ а р а +VERB +Case=Nom +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Vnoun
+б е р ҙ ә м л е к +NOUN +Case=Nom
+к о н с т и т у ц и я +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ю л +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+к и л ә с ә к +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+р е г и о н а л ь +ADJ +_
+б а н к +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т а л ғ ы н +ADJ +_
+м а л а й +NOUN +Case=Acc
+б а ҫ ы м +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+а л г е б р а и к +ADJ +_
+п р е м и я +NOUN +Case=Nom +Number=Plur
+о к р у г +NOUN +Case=Nom
+һ ө ҙ ө м т ә +NOUN +Case=Dat
+п р и н ц и п +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+п р и з м а +NOUN +Case=Nom
+а р а м е й +NOUN +Case=Nom
+һ у ҙ +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+һ ы й ҙ ы р ы ш л ы +NOUN +Case=Nom
+и н с т и т у т +NOUN +Case=Loc
+ҡ ә н ә ғ ә т л ә н д е р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	ҡ ә н ә ғ ә т л ә н д е р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+т и м е р л е к +NOUN +Case=Nom
+х у ш л а ш +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun	х у ш л а ш +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass
+д е п у т а т +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+б ү л е н +VERB +Deriv=Coop +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin	б ү л е н е ш +NOUN +Case=Nom	б ү л е н +VERB +Deriv=Coop +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin
+м а л с ы л ы ҡ +NOUN +Case=Nom
+к ү п с е л е к +NOUN +Case=Loc
+и ғ т и б а р +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+л а у р е а т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ю р и с п р у д е н ц и я +NOUN +Case=Nom
+б ә й л ә н е ш +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+б у й +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+д а л а +NOUN +Case=Nom
+м а й +NOUN +Case=Nom
+к и л т е р +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+у й н а +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+т и р м ә +NOUN +Case=Nom
+ү л +VERB +Number=Sing +Person=3 +Tense=Aor +Valency=1 +VerbForm=Fin	ү л +VERB +Tense=Aor +Valency=1 +VerbForm=Part
+б а т ш а б и к ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+а л ы н +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	а л ы н +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	а л +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	а л ы н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin	а л ы н +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	а л ы н +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	а л ы н +VERB +Tense=Past +Valency=1 +VerbForm=Part	а л +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	а л +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+б ө ж ә к +NOUN +Case=Acc +Number=Plur
+х ә р е ф +NOUN +Case=Abl
+с а р м а т +NOUN +Case=Nom
+м ә с ь ә л ә +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+а й +NOUN +Case=Abl
+һ ы л ы у +ADJ +_
+т и ҙ л е к +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+п р е м и я +NOUN +Case=Nom
+т о ҡ о м +NOUN +Case=Nom +Number=Plur
+м ө х и т +NOUN +Case=Loc
+с т и л +NOUN +Case=Loc	с т и л ь +NOUN +Case=Loc
+ф у т б о л +NOUN +Case=Nom
+х л о р +NOUN +Case=Nom
+т у ҡ л а н +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	т у ҡ л а н +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=1
+б ү л е к +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ф а н т а с т и к +ADJ +_
+а й ы р +VERB +Mood=Imp +Number=Sing +Person=2 +Polarity=Neg +Valency=2 +VerbForm=Fin	а й ы р м а +NOUN +Case=Nom
+с о с т а в +NOUN +Case=Nom
+с и к +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+б а т ш а +NOUN +Case=Nom +Number=Plur
+с т а т и с т и к +ADJ +_
+к е ш е +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+н ө к т ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+г ә з и т +NOUN +Case=Nom +Number=Plur
+т у р н и р +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+р о м а н т и з м +NOUN +Case=Nom
+с т у д е н т +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3	с т у д е н т т а р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б о р о н ғ о +ADJ +Degree=Comp
+а в т о м о б и л +NOUN +Case=Nom +Number=Plur	а в т о м о б и л ь +NOUN +Case=Nom +Number=Plur
+о р к е с т р +NOUN +Case=Nom
+г ә з и т +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+м о н г о л +NOUN +Case=Nom +Number=Plur
+о б ъ е к т +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+о п е р а +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+с и р е к +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+м у з ы к а н т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к е й е м +NOUN +Case=Nom
+у ч а с т к а +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+х ә л +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+ф а с а д +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+у й ы н +NOUN +Case=Acc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+һ а р а й +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+а р т ҡ ы +ADJ +_
+һ у ҙ +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	һ у ҙ +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	һ у ҙ +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass
+а в а р +NOUN +Case=Nom
+к о м и с с и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+э ш к ә р т +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+а ҙ н а +NOUN +Case=Abl
+э к с п е р т +NOUN +Case=Nom
+к ү п с е л е к +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+а у ы ҙ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+у к а з +NOUN +Case=Dat
+ж а н р +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т у ҡ т а +VERB +Aspect=Perf +Polarity=Neg +Valency=2 +VerbForm=Conv	т у ҡ т а +VERB +Aspect=Imp +Polarity=Neg +Valency=1 +VerbForm=Conv	т у ҡ т а +VERB +Aspect=Imp +Polarity=Neg +Valency=2 +VerbForm=Conv	т у ҡ т а +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Pres +Valency=2 +Voice=Pass	т у ҡ т а +VERB +Aspect=Imp +Polarity=Neg +Valency=2 +VerbForm=Conv +Voice=Pass	т у ҡ т а +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Pres +Valency=2	т у ҡ т а +VERB +Aspect=Perf +Polarity=Neg +Valency=2 +VerbForm=Conv +Voice=Pass	т у ҡ т а +VERB +Aspect=Perf +Polarity=Neg +Valency=1 +VerbForm=Conv	т у ҡ т а +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Pres +Valency=1
+б ә р е л е ш +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т а н ы ш ы у +NOUN +Case=Nom	т а н ы +VERB +Case=Nom +Deriv=Coop +Valency=2 +VerbForm=Vnoun
+д ә ғ ү ә +NOUN +Case=Nom
+и к о н а +NOUN +Case=Nom
+э к с п о р т +NOUN +Case=Dat
+ҡ а ҙ а ҡ +NOUN +Case=Nom
+п и р а м и д а +NOUN +Case=Gen
+х а л ы ҡ - а р а +ADJ +_
+к а б и н е т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ а т ы н +NOUN +Case=Loc	ҡ а т +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+р е п р е с с и я +NOUN +Case=Nom +Number=Plur
+б а һ а л а +VERB +Mood=Imp +Number=Sing +Person=2 +Polarity=Neg +Valency=2 +VerbForm=Fin
+р е п е р т у а р +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+ш ә л +NOUN +Case=Nom
+т а р м а ҡ +NOUN +Case=Dat
+л а м а +NOUN +Case=Nom
+п р е з и д и у м +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+д и р е к т о р +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+м о н а с т ы р +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3	м о н а с т ы р ь +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ у л л а н +VERB +Aspect=Perf +Polarity=Neg +Valency=2 +VerbForm=Conv	ҡ у л л а н +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Pres +Valency=2	ҡ у л л а н +VERB +Aspect=Imp +Polarity=Neg +Valency=2 +VerbForm=Conv
+м о р о н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+м и с т и к +ADJ +_
+ш ә ф ҡ ә т +NOUN +Case=Nom
+х а й р а н +ADJ +_
+ҡ и ә ф ә т е +NOUN +Case=Nom	ҡ и ә ф ә т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+э с ә к +NOUN +Case=Nom
+г р а ф и к +ADJ +_	г р а ф и к +NOUN +Case=Nom
+ф и р ҡ ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к ү ҙ ә н ә к +NOUN +Case=Gen +Number=Plur
+ч е м п и о н а т +NOUN +Case=Nom
+т ө ҫ +NOUN +Case=Loc
+у р а м +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+п а р +NOUN +Case=Nom +Number=Plur
+а ш а у с ы +NOUN +Case=Nom	а ш а +VERB +Mood=Pot +Valency=2 +VerbForm=Part
+к ү м ә к +NOUN +Case=Nom	к ү м ә к +ADJ +_
+и ғ т и б а р +NOUN +Case=Dat
+а к а д е м и я +NOUN +Case=Gen
+т а м а ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+й ү н ә л е ш +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ ә ҙ и м г е +ADJ +_
+ҡ ә л ғ ә +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+б и о г р а ф и я +NOUN +Case=Nom
+т е о р и я +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+а к т р и с а +NOUN +Case=Nom
+ҡ а с +VERB +Tense=Past +Valency=1 +VerbForm=Part	ҡ а с +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	ҡ а с +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	ҡ а с +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	ҡ а с +VERB +Case=Nom +Tense=Past +Valency=1 +VerbForm=Vnoun	ҡ а с +VERB +Number=Sing +Person=3 +Tense=Past +Valency=1 +VerbForm=Fin
+т ү б ә +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+б и р +VERB +Case=Dat +Valency=2 +VerbForm=Vnoun
+б и л е т +NOUN +Case=Nom
+т а р а т +VERB +Case=Dat +Valency=2 +VerbForm=Vnoun
+я ң ғ ы р а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	я ң ғ ы р а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	я ң ғ ы р а +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	я ң ғ ы р а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass
+й ы л +NOUN +Case=Abl
+к л у б +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+х е ҙ м ә т к ә р +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ у р с а л а у +NOUN +Case=Nom
+я ҡ +NOUN +Case=Dat +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+а ҙ н а +NOUN +Case=Dat
+к а р т а +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ү ҫ е м л е к +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т ә ң к ә +NOUN +Case=Nom +Number=Plur
+б о л а н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+й ы л а н +NOUN +Case=Nom
+ф о н +NOUN +Case=Loc
+р а к е т а +NOUN +Case=Nom
+н и к а х +NOUN +Case=Abl
+м ә к т ә п +NOUN +Case=Loc
+ҡ у ш +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	ҡ у ш +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	ҡ у ш +VERB +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass
+б а й р а м +NOUN +Case=Nom +Number=Plur
+т ө р ө к +NOUN +Case=Nom
+й о ғ о ш л о +ADJ +_
+к о н т р р е в о л ю ц и о н +ADJ +_	к о н т р р е в о л ю ц и о н +NOUN +Case=Nom
+а у ы л +NOUN +Case=Abl +Number=Plur
+ө й +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+б е й е +NOUN +Case=Nom	б е й +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3	б е й е +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin
+ш ә ж ә р ә +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+о ҫ т а +NOUN +Case=Gen +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+һ а л +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun	һ а л ы у +NOUN +Case=Nom
+м ә ҙ ә н и ә т +NOUN +Case=Loc
+е т к е р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	е т к е р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+б е р л ә ш +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	б е р л ә ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	б е р л ә ш +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	б е р л ә ш +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv
+к о н ц е п ц и я +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+ү ҙ г ә р е ш +NOUN +Case=Nom	ү ҙ г ә р +VERB +Deriv=Coop +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin
+ө й ә н ә к +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+ю л ы н +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	ю л +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3	ю л ы н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	ю л ы н +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	ю л ы н +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass
+у й һ ы у +NOUN +Case=Nom
+о л и м п и а д а +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+у р а +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin +Voice=Pass	у р а н +NOUN +Case=Nom
+к а р т и н а +NOUN +Case=Nom
+х у ж а л ы ҡ +NOUN +Case=Loc
+ж у р н а л +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+к о м и т е т +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+х у ж а +NOUN +Case=Nom +Number=Plur
+й ы л +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+м ү к +NOUN +Case=Nom
+а л ғ ы +ADJ +_
+п о з и ц и я +NOUN +Case=Nom
+ҡ а т л а м +NOUN +Case=Gen
+т а б и б +NOUN +Case=Nom
+о с р а ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ө н д ә +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass	ө н д ә +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	ө н д ә +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	ө н +NOUN +Case=Sim	ө н +NOUN +Case=Nom +Case=Sim	ө н д ә +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv
+ф а р а з +NOUN +Case=Sim	ф а р а з л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	ф а р а з л а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	ф а р а з +NOUN +Case=Nom +Case=Sim
+б ө т +VERB +Case=Nom +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Vnoun +Voice=Pass	б ө т +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Fin	б ө т +VERB +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Part	б ө т +VERB +Case=Nom +Polarity=Neg +Tense=Past +Valency=1 +VerbForm=Vnoun	б ө т +VERB +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Part +Voice=Pass	б ө т +VERB +Case=Nom +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Vnoun	б ө т +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Past +Valency=2 +VerbForm=Fin +Voice=Pass	б ө т +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Past +Valency=1 +VerbForm=Fin	б ө т +VERB +Polarity=Neg +Tense=Past +Valency=1 +VerbForm=Part
+р а й о н +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+б ы у ы н +NOUN +Case=Nom +Number=Plur
+с а ғ ы л д ы р +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	с а ғ ы л д ы р +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+к и т а п +NOUN +Case=Dat +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+б а т ш а +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+э т +NOUN +Case=Nom	э т +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin
+д е п у т а т +NOUN +Case=Abl
+и о н +NOUN +Case=Nom
+т и р ә +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+й ы л ғ ы +ADJ +_
+һ ы ҙ ы ҡ +NOUN +Case=Loc
+с ә н ғ ә т +NOUN +Case=Nom
+м ә с ь ә л ә +NOUN +Case=Nom
+б и л ә м ә +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+с о л т а н л ы ҡ +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к о м а н д а +NOUN +Case=Loc
+ҡ ы ҙ +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+у р м а н +NOUN +Case=Dat
+м и ф о л о г и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к л и м а т и к +ADJ +_
+с е м и т +NOUN +Case=Nom
+а р ы ҫ л а н +NOUN +Case=Nom
+й ә н н ә т +NOUN +Case=Nom
+и м ә н +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin +Voice=Pass	и м ә н +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin	и м ә н +NOUN +Case=Nom
+ғ ү м е р +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+ө л к ә +NOUN +Case=Dat +Number=Plur
+г р а ж д а н л ы ғ ы н +NOUN +Case=Nom	г р а ж д а н л ы ҡ +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+т а п +VERB +Case=Dat +Valency=2 +VerbForm=Vnoun
+а с ы ҡ л а +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun
+п а р л а м е н т +NOUN +Case=Nom
+о й о ш м а +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+н е й т р а л ь +ADJ +_
+т е а т р +NOUN +Case=Loc +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+н у р ы й +NOUN +Case=Nom
+э с +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+й ә ш ә +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=1	й ә ш ә +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	й ә ш ә +VERB +Aspect=Imp +Valency=1 +VerbForm=Conv	й ә ш ә +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass
+л а н д ш а ф т +NOUN +Case=Nom
+м е м о р и а л +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+һ у ғ ы ш +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+ш т а б +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+у ҡ с ы +NOUN +Case=Nom +Number=Plur
+д и н +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+а в а р и я +NOUN +Case=Nom
+р е с п у б л и к а +NOUN +Case=Loc
+һ ы ҙ ы ҡ +NOUN +Case=Dat
+ю б и л е й +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+а й ы р +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+һ ү ҙ +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т ө р +NOUN +Case=Acc
+т ү б ә +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+а ҙ а ҡ +NOUN +Case=Abl +Number[psor]=Sing,Plur +Person[psor]=3
+ч е м п и о н а т +NOUN +Case=Loc
+ф о л ь к л о р +NOUN +Case=Nom
+т у п +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+т е м а +NOUN +Case=Nom
+м а д ь я р +NOUN +Case=Nom
+я р а т +VERB +Number=Sing +Person=3 +Polarity=Neg +Tense=Pres +Valency=2	я р а т +VERB +Aspect=Imp +Polarity=Neg +Valency=2 +VerbForm=Conv	я р а т +VERB +Aspect=Perf +Polarity=Neg +Valency=2 +VerbForm=Conv
+ә с ә +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+ж ю р и +NOUN +Case=Nom
+т о р +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=2 +VerbForm=Fin +Voice=Pass	т о р +VERB +Mood=Imp +Number=Sing +Person=2 +Valency=1 +VerbForm=Fin
+и ҫ ә п л ә +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=2
+ш а х +NOUN +Case=Acc
+е м е р г е с +ADJ +_
+п о л ь +NOUN +Case=Nom
+о п п о з и ц и я +NOUN +Case=Nom
+и ҫ т ә л е к +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+р е з и д е н ц и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ е ү ә т +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+к а н д и д а т +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ ы р ҡ +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2	ҡ ы р ҡ а +ADJ +_	ҡ ы р ҡ +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv
+у р ы н +NOUN +Case=Dat
+ф и з к у л ь т у р а +NOUN +Case=Nom
+ү л т е р +VERB +Aspect=Perf +Valency=2 +VerbForm=Conv
+л и р и к а +NOUN +Case=Nom
+з а т +NOUN +Case=Nom
+т о т +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	т о т +VERB +Tense=Past +Valency=2 +VerbForm=Part	т о т +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun
+б е с ә н л е к +NOUN +Case=Nom +Number=Plur
+х о ҡ у ҡ +NOUN +Case=Nom +Number=Plur
+т ө ҫ һ ө ҙ +ADJ +_
+ф е к е р +NOUN +Case=Nom
+һ а ҡ с ы л +ADJ +_
+м а т е р и а л и з м +NOUN +Case=Nom
+х ә т е р л ә т +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	х ә т е р л ә т +VERB +Tense=Past +Valency=2 +VerbForm=Part	х ә т е р л ә т +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun
+т а у +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+л и г а +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+д у ҫ т а р с а +ADV +_	д у ҫ +NOUN +Case=Equ +Number=Plur
+к о р п у с +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+й ы й ы н т ы ҡ +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+м е б е л ь +NOUN +Case=Nom
+а р т ы ғ ы р а ҡ +ADJ +_	а р т ы ҡ +ADJ +Degree=Comp
+ҡ а т л а м +NOUN +Case=Dat +Number=Plur
+б а с с е й н +NOUN +Case=Nom
+д и н +NOUN +Case=Gen +Number[psor]=Sing,Plur +Person[psor]=3
+о б р а з +NOUN +Case=Nom
+ы с у л +NOUN +Case=Nom
+т ы р ы ш +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass	т ы р ы ш ы у +NOUN +Case=Nom	т ы р ы ш +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun
+ю м о р +NOUN +Case=Nom
+ы с ы н л а п +ADV +_
+г о л +NOUN +Case=Nom
+м а г н и й +NOUN +Case=Nom
+б а т а р е я +NOUN +Case=Nom
+в а ҡ и ғ а +NOUN +Case=Gen
+т а м ы р +NOUN +Case=Nom +Number=Plur
+а ш а +VERB +Number=Plur +Person=3 +Tense=Pres +Valency=2
+э л ә к т е р +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass	э л ә к т е р +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun	э л ә к т е р +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun
+р е з о н а н с +NOUN +Case=Nom
+с ә к ә н +NOUN +Case=Nom
+ө ҙ ө к +NOUN +Case=Nom
+һ ы л т а у +NOUN +Case=Nom
+я й +NOUN +Case=Nom	я й +ADJ +_
+п а р т и з а н +NOUN +Case=Nom +Number=Plur
+к е й е м +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+ҡ о р а л +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+к а ф е +NOUN +Case=Nom
+ҙ у р л ы ҡ +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+ә ҙ е р л ә н +VERB +Case=Nom +Valency=1 +VerbForm=Vnoun	ә ҙ е р л ә +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass	ә ҙ е р л ә н +VERB +Case=Nom +Valency=2 +VerbForm=Vnoun +Voice=Pass
+т и к ш е р +VERB +Number=Sing +Person=3 +Tense=Past +Valency=2 +VerbForm=Fin	т и к ш е р +VERB +Case=Nom +Tense=Past +Valency=2 +VerbForm=Vnoun	т и к ш е р +VERB +Tense=Past +Valency=2 +VerbForm=Part
+а р а у ы ғ ы н д а +NOUN +Case=Nom
+э р г ә +NOUN +Case=Nom
+с и к +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+б е й е +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv	б е й е +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2
+т а р и х +NOUN +Case=Abl
+э м п и р и к +NOUN +Case=Nom
+я ҡ +NOUN +Case=Loc +Number=Plur
+з и н н ә т +NOUN +Case=Nom
+э ф и р +NOUN +Case=Nom
+а с с а м б л е я +NOUN +Case=Nom
+к ү л +NOUN +Case=Nom +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+м и ф о л о г и я +NOUN +Case=Loc +Number[psor]=Sing,Plur +Person[psor]=3
+й ә н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+к ү р +VERB +Aspect=Perf +Number=Sing +Person=1 +Tense=Past +Valency=2 +VerbForm=Fin
+т а б и п +NOUN +Case=Nom +Number=Plur
+б е л е м +NOUN +Case=Acc +Number[psor]=Sing,Plur +Person[psor]=3
+м ә р х ү м +NOUN +Case=Nom
+й ы л ғ а +NOUN +Case=Loc +Number=Plur
+й ә м ә ғ ә т +NOUN +Case=Nom
+д р а м а т у р г и я +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3
+р а й о н +NOUN +Case=Dat +Number=Plur +Number[psor]=Sing,Plur +Person[psor]=3
+т а у ы ҡ +NOUN +Case=Nom
+с о с т а в +NOUN +Case=Dat +Number[psor]=Sing,Plur +Person[psor]=3
+к е ш е л е к +NOUN +Case=Dat
+д ө й ә +NOUN +Case=Nom
+һ а й л а +VERB +Aspect=Imp +Valency=2 +VerbForm=Conv +Voice=Pass	һ а й л а +VERB +Number=Sing +Person=3 +Tense=Pres +Valency=2 +Voice=Pass
+ғ ө м ү м ә н +ADV +_
+и б н +NOUN +Case=Nom +Number[psor]=Sing,Plur +Person[psor]=3

@@ -1,0 +1,1030 @@
+л и н и й +NOUN +Number=Plur +Case=Nom
+с е м ӱ з г а р +NOUN +Number=Sing +Case=Gen
+л о м ы ж +NOUN +Number=Sing +Case=Nom
+п ӱ я +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	п ӱ я +NOUN +Number=Sing +Case=Acc
+п ӱ я +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	п ӱ я +NOUN +Number=Sing +Case=Acc
+к л а с с и ф и к а ц и й +NOUN +Number=Sing +Case=Nom
+а д м и н и с т р а ц и й +NOUN +Number=Sing +Case=Gen
+к о н ф е р а н с ь е +NOUN +Number=Sing +Case=Nom
+ч е к е +NOUN +Number=Sing +Case=Ine	ч е к +NOUN +Number=Sing +Case=Ine
+ч е к е +NOUN +Number=Sing +Case=Ine	ч е к +NOUN +Number=Sing +Case=Ine
+с у а п +NOUN +Number=Sing +Case=Nom
+ш е р е в а +NOUN +Number=Sing +Case=Acc	ш е р е в а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+ш е р е в а +NOUN +Number=Sing +Case=Acc	ш е р е в а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+ф е с т и в а л ь +NOUN +Number=Plur +Case=Nom
+с х е м е +NOUN +Number=Sing +Case=Acc
+м о д е л и р о в а н и й +NOUN +Number=Sing +Case=Nom
+н у л г о +NOUN +Number=Sing +Case=Nom
+п о ч е ш м у т +NOUN +Number=Sing +Case=Nom
+м у р о +NOUN +Number=Sing +Case=Ill	м у р +NOUN +Number=Sing +Case=Ill
+м у р о +NOUN +Number=Sing +Case=Ill	м у р +NOUN +Number=Sing +Case=Ill
+р а й о н +NOUN +Number=Plur +Case=Nom
+п о с ы л к е +NOUN +Number=Sing +Case=Nom
+ш т а т +NOUN +Number=Sing +Case=Ine
+ш е л м е +NOUN +Number=Sing +Case=Nom
+т а й м е н ь +NOUN +Number=Sing +Case=Nom
+я л +NOUN +Number=Plur +Case=Nom
+ю ж +NOUN +Number=Sing +Case=Gen
+ш о м а к +NOUN +Number=Sing +Case=Dat
+л ӱ м е р +NOUN +Number=Sing +Case=Ill
+с к р и п а ч +NOUN +Number=Sing +Case=Nom
+б л о к а д е +NOUN +Number=Sing +Case=Nom
+п о г ы н +NOUN +Number=Sing +Case=Ill
+ш р и ф т +NOUN +Number=Sing +Case=Lat
+с о о р у ж е н и й +NOUN +Number=Sing +Case=Nom
+в о ж +NOUN +Number=Plur +Case=Nom
+р е д а к т о р +NOUN +Number=Sing +Case=Gen
+к о п а +NOUN +Number=Sing +Case=Nom
+й ы л м е +NOUN +Number=Sing +Case=Nom
+с с у д о +NOUN +Number=Sing +Case=Acc
+я л к о р +NOUN +Number=Sing +Case=Acc
+э ҥ е р +NOUN +Number=Sing +Case=Ill
+о б ъ е к т +NOUN +Number=Sing +Case=Acc
+а ч а - а в а +NOUN +Number=Plur +Case=Nom
+т и б е т +NOUN +Number=Sing +Case=Nom
+к у л а к +NOUN +Number=Plur +Case=Dat
+а л ь м а н а х +NOUN +Number=Sing +Case=Lat
+э н ц и к л о п е д и й +NOUN +Number=Sing +Case=Ine
+к а п е л л е +NOUN +Number=Sing +Case=Gen
+в ы н е м +NOUN +Number=Sing +Case=Acc
+н у м а л ш е +NOUN +Number=Sing +Case=Nom
+э т и м о л о г +NOUN +Number=Sing +Case=Nom
+й о д +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+х р а м +NOUN +Number=Sing +Case=Nom
+к ӧ +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	к е м +NOUN +Number=Sing +Case=Nom
+к ӧ +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	к е м +NOUN +Number=Sing +Case=Nom
+т у м а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	т у м а +NOUN +Number=Sing +Case=Acc
+т у м а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	т у м а +NOUN +Number=Sing +Case=Acc
+м о д е л ь +NOUN +Number=Sing +Case=Ill
+к л и м а т +NOUN +Number=Sing +Case=Nom
+м о н о г р а ф и й +NOUN +Number=Plur +Case=Gen
+с ц е н е +NOUN +Number=Sing +Case=Ill
+к у г о +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+п ӱ т ӧ +NOUN +Number=Sing +Case=Acc
+п р а в и т е л ь с т в е +NOUN +Number=Sing +Case=Gen
+к а с а р т ы ш +NOUN +Number=Sing +Case=Nom
+б а л е т +NOUN +Number=Sing +Case=Gen
+с е т к е +NOUN +Number=Sing +Case=Acc
+ш а й +NOUN +Number=Sing +Case=Gen
+ш ы ж ы в у ч +NOUN +Number=Sing +Case=Acc
+ю з о +NOUN +Number=Plur +Case=Nom
+м у ж о +NOUN +Number=Sing +Case=Acc
+т а г а н +NOUN +Number=Sing +Case=Nom	т а г а +NOUN +Number=Sing +Case=Gen
+т а г а н +NOUN +Number=Sing +Case=Nom	т а г а +NOUN +Number=Sing +Case=Gen
+ч и с л а +NOUN +Number=Sing +Case=Ine
+п о э з и й +NOUN +Number=Sing +Case=Gen
+т ӱ т а н +NOUN +Number=Sing +Case=Acc
+а п о с т о л +NOUN +Number=Sing +Case=Nom
+в у з +NOUN +Number=Sing +Case=Gen
+ӱ д ы р +NOUN +Number=Sing +Case=Gen
+р у а ш +NOUN +Number=Sing +Case=Acc
+т а в а л ы ш е +NOUN +Number=Sing +Case=Dat
+о р д е р +NOUN +Number=Sing +Case=Acc
+п а й д а л а н ы ш е +NOUN +Number=Sing +Case=Dat
+х у т о р +NOUN +Number=Sing +Case=Nom
+с и н о н и м +NOUN +Number=Sing +Case=Dat
+в о р +NOUN +Number=Sing +Case=Nom
+д е я т е л ь +NOUN +Number=Sing +Case=Nom
+г е р о й +NOUN +Number=Plur +Case=Acc
+п р о т о н +NOUN +Number=Sing +Case=Gen
+м о г ы р +NOUN +Number=Sing +Case=Acc
+н о т а р и у с +NOUN +Number=Sing +Case=Gen
+о й ы р т е м ы ш +NOUN +Number=Sing +Case=Gen
+с п о р т с м е н +NOUN +Number=Sing +Case=Nom
+с п а м +NOUN +Number=Sing +Case=Nom
+д о л ж н о с т ь +NOUN +Number=Sing +Case=Nom
+и с т о ч н и к +NOUN +Number=Plur +Case=Nom
+у д о с т о в е р е н и й +NOUN +Number=Sing +Case=Nom
+с о л ы к +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2
+п е р в е н с т в е +NOUN +Number=Sing +Case=Nom
+к о ж +NOUN +Number=Sing +Case=Ill
+э р в и й +NOUN +Number=Sing +Case=Nom
+п ы р д ы ж +NOUN +Number=Sing +Case=Dat
+ы ҥ п а л е +NOUN +Number=Plur +Case=Gen
+б а н н е р +NOUN +Number=Sing +Case=Nom
+о р к е с т р +NOUN +Number=Sing +Case=Nom
+в а ш т а л т ы л ш е +NOUN +Number=Sing +Case=Nom
+п о д л е ж а щ и й +NOUN +Number=Sing +Case=Nom
+о с а л ч ы к +NOUN +Number=Sing +Case=Nom
+л а м п е +NOUN +Number=Sing +Case=Nom
+й о л т а ш +NOUN +Number=Plur +Case=Gen
+к у г ы е ҥ +NOUN +Number=Plur +Case=Acc
+о м о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	о м +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+о м о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	о м +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+п а р ы м +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+ч о т р а д а м +NOUN +Number=Sing +Case=Nom
+с о в е щ а н и й +NOUN +Number=Sing +Case=Acc
+э ҥ г е к +NOUN +Number=Sing +Case=Dat
+а в а р и й +NOUN +Number=Sing +Case=Ill
+ш и н ч ы р +NOUN +Number=Sing +Case=Nom
+щ и т +NOUN +Number=Sing +Case=Ine
+з а р я д к е +NOUN +Number=Sing +Case=Acc
+о з ы м +NOUN +Number=Sing +Case=Nom
+к у к у р у з +NOUN +Number=Sing +Case=Acc	к у к у р у з о +NOUN +Number=Sing +Case=Acc
+к у к у р у з +NOUN +Number=Sing +Case=Acc	к у к у р у з о +NOUN +Number=Sing +Case=Acc
+с и н т а к с и с +NOUN +Number=Sing +Case=Nom
+б и з н е с +NOUN +Number=Sing +Case=Nom
+и д е о л о г и й +NOUN +Number=Sing +Case=Nom
+к а ф е д р +NOUN +Number=Plur +Case=Nom
+к о м и с с а р +NOUN +Number=Sing +Case=Nom
+в е р +NOUN +Number=Plur +Case=Ine
+п ӧ р т ӧ н ч ы л +NOUN +Number=Sing +Case=Nom
+у д м у р т +NOUN +Number=Sing +Case=Nom
+ч о ҥ ы м о й ы р т е м +NOUN +Number=Sing +Case=Nom
+п а р и к м а х е р с к и й +NOUN +Number=Sing +Case=Ine
+л у м ш о +NOUN +Number=Sing +Case=Acc
+н о м е р +NOUN +Number=Sing +Case=Nom
+п р о з о +NOUN +Number=Sing +Case=Acc
+в у й м у т +NOUN +Number=Sing +Case=Ill
+т р а п е ц и й +NOUN +Number=Sing +Case=Nom
+о ч е р к +NOUN +Number=Sing +Case=Nom
+с в я з ь +NOUN +Number=Sing +Case=Nom
+ч ы т ы р н а л т м е +NOUN +Number=Sing +Case=Nom
+ч а с т у ш к о +NOUN +Number=Sing +Case=Nom
+с е л а +NOUN +Number=Sing +Case=Nom
+ю ж +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+п ӧ л к а +NOUN +Number=Sing +Case=Gen
+й ӱ к +NOUN +Number=Sing +Case=Nom
+п р о к у р о р +NOUN +Number=Sing +Case=Nom
+о л ы к +NOUN +Number=Sing +Case=Ill
+л и н е й к е +NOUN +Number=Sing +Case=Nom
+х о к к е й +NOUN +Number=Sing +Case=Ill
+с а р з е +NOUN +Number=Sing +Case=Nom
+ш ӱ г а р +NOUN +Number=Sing +Case=Ine
+т у п р а ш +NOUN +Number=Sing +Case=Ine
+т у р г ы ж л а н ы м е +NOUN +Number=Sing +Case=Nom
+н о м и н а ц и й +NOUN +Number=Sing +Case=Ine
+ф р о н т +NOUN +Number=Sing +Case=Ill
+п у р л ы к +NOUN +Number=Sing +Case=Dat
+к у р ы к +NOUN +Number=Sing +Case=Acc
+о б с е р в а т о р и й +NOUN +Number=Sing +Case=Dat
+т а ҥ д ы ш +NOUN +Number=Sing +Case=Nom
+с е л ь с о в е т +NOUN +Number=Sing +Case=Nom
+с к у л ь п т у р +NOUN +Number=Sing +Case=Nom
+д е к о р а ц и й +NOUN +Number=Sing +Case=Nom
+к у л ь т +NOUN +Number=Sing +Case=Gen
+и н с т р у к ц и й +NOUN +Number=Sing +Case=Nom
+м у т е р +NOUN +Number=Sing +Case=Ine
+ш и н ч а г о м д ы ш +NOUN +Number=Sing +Case=Nom
+в у й +NOUN +Number=Sing +Case=Ill
+к у р т к о +NOUN +Number=Sing +Case=Acc
+п р о т о к о л +NOUN +Number=Sing +Case=Nom
+з н а ч е н и й +NOUN +Number=Sing +Case=Dat
+к у з о в +NOUN +Number=Sing +Case=Ine
+о л и м п и а д е +NOUN +Number=Sing +Case=Ill
+п р и к а з ч и к +NOUN +Number=Sing +Case=Nom
+к а л е н д а р ь +NOUN +Number=Sing +Case=Ine
+б о т а н и к е +NOUN +Number=Sing +Case=Nom
+д а т е +NOUN +Number=Sing +Case=Nom
+п а м а ш +NOUN +Number=Sing +Case=Nom
+х и м и к +NOUN +Number=Sing +Case=Nom
+к о ж е р +NOUN +Number=Sing +Case=Ine
+п о с т у л а т +NOUN +Number=Sing +Case=Nom
+л ӱ м ӧ +NOUN +Number=Sing +Case=Ine	л ӱ м +NOUN +Number=Sing +Case=Ine	л ӱ м е +NOUN +Number=Sing +Case=Ine
+л ӱ м ӧ +NOUN +Number=Sing +Case=Ine	л ӱ м +NOUN +Number=Sing +Case=Ine	л ӱ м е +NOUN +Number=Sing +Case=Ine
+л ӱ м ӧ +NOUN +Number=Sing +Case=Ine	л ӱ м +NOUN +Number=Sing +Case=Ine	л ӱ м е +NOUN +Number=Sing +Case=Ine
+а в е н ю +NOUN +Number=Sing +Case=Nom
+п е ч а т ь +NOUN +Number=Sing +Case=Acc
+п е ч к е +NOUN +Number=Sing +Case=Nom
+п о р т р е т +NOUN +Number=Sing +Case=Nom
+т а к м а к +NOUN +Number=Plur +Case=Nom
+г е о м е т р и й +NOUN +Number=Sing +Case=Gen
+о б с е р в а т о р и й +NOUN +Number=Sing +Case=Acc
+в а п т ы ш +NOUN +Number=Sing +Case=Ill
+д о н о с +NOUN +Number=Sing +Case=Nom
+т ӱ в ы р а +NOUN +Number=Sing +Case=Nom
+р у д а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	р у д а +NOUN +Number=Sing +Case=Acc
+р у д а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	р у д а +NOUN +Number=Sing +Case=Acc
+б е с п р и з о р н и к +NOUN +Number=Sing +Case=Nom
+н ӧ р т ы м ӧ +NOUN +Number=Sing +Case=Nom
+к у ш т ы м о +NOUN +Number=Sing +Case=Nom
+л а т +NOUN +Number=Sing +Case=Nom
+р ӱ д е р +NOUN +Number=Sing +Case=Dat
+к и ш л а к +NOUN +Number=Sing +Case=Acc
+м о л о +NOUN +Number=Plur +Case=Nom
+э к с п е д и ц и й +NOUN +Number=Sing +Case=Nom
+ч е м п и о н а т +NOUN +Number=Plur +Case=Nom
+п р и ё м +NOUN +Number=Plur +Case=Acc
+й ӱ д +NOUN +Number=Sing +Case=Acc
+т р о й к о +NOUN +Number=Sing +Case=Ine
+к о р н ы е ҥ +NOUN +Number=Sing +Case=Nom
+ч у к а й +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+г и м н а с т и к е +NOUN +Number=Sing +Case=Nom
+с л е д с т в и й +NOUN +Number=Sing +Case=Nom
+п ӧ р ъ е ҥ +NOUN +Number=Sing +Case=Nom
+к и н о +NOUN +Number=Sing +Case=Dat
+о л м о +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2
+т е к с т +NOUN +Number=Plur +Case=Acc
+у ш а к ы л +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+л ы ш т а ш +NOUN +Number=Sing +Case=Acc
+т о л к ы н +NOUN +Number=Sing +Case=Acc
+п о с л е д о в а т е л ь +NOUN +Number=Sing +Case=Gen
+к л о у н +NOUN +Number=Sing +Case=Acc
+п р а в и л +NOUN +Number=Sing +Case=Acc
+а р а н ж и р о в к о +NOUN +Number=Sing +Case=Acc
+к в а д р а т +NOUN +Number=Sing +Case=Nom
+а к у л +NOUN +Number=Sing +Case=Nom
+м ӱ к ш +NOUN +Number=Plur +Case=Acc
+д и н а м и к е +NOUN +Number=Sing +Case=Nom
+с л у ж б о +NOUN +Number=Sing +Case=Gen
+ӱ с т е л т ӧ р +NOUN +Number=Sing +Case=Ill
+ч е р е м и с +NOUN +Number=Sing +Case=Nom
+о р а ш ы ҥ а +NOUN +Number=Sing +Case=Nom
+и м н е ш к е +NOUN +Number=Plur +Case=Nom
+м о л и т в а +NOUN +Number=Sing +Case=Nom
+э к з е м п л я р +NOUN +Number=Sing +Case=Acc
+а м а л +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+п о с т а н о в л е н и й +NOUN +Number=Sing +Case=Acc
+а л ф а в и т +NOUN +Number=Sing +Case=Acc
+в о д о р о с л ь +NOUN +Number=Plur +Case=Acc
+с а в ы к т ы ш +NOUN +Number=Sing +Case=Dat
+п и ж +NOUN +Number=Sing +Case=Acc
+к а р т а +NOUN +Number=Sing +Case=Nom
+с а л м а м у н о +NOUN +Number=Sing +Case=Acc
+л ы с т а н п ӱ н ч ӧ +NOUN +Number=Sing +Case=Nom
+м о р ф о л о г и й +NOUN +Number=Sing +Case=Nom
+к у т ы р +NOUN +Number=Sing +Case=Nom
+л о г а р +NOUN +Number=Sing +Case=Acc
+с о л а +NOUN +Number=Plur +Case=Nom
+п с и х о л о г и й +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+ф и г у р +NOUN +Number=Sing +Case=Nom
+о м о +NOUN +Number=Sing +Case=Dat
+п а т р о н +NOUN +Number=Sing +Case=Nom
+п о л и ц и й +NOUN +Number=Sing +Case=Nom
+т а н +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+ц и к л +NOUN +Number=Plur +Case=Acc
+к ы ш а +NOUN +Number=Sing +Case=Acc	к ы ш а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к ы ш а +NOUN +Number=Sing +Case=Acc	к ы ш а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+л е к с и к о г р а ф и й +NOUN +Number=Sing +Case=Nom
+с е к у н д +NOUN +Number=Sing +Case=Gen
+б л о к н о т +NOUN +Number=Sing +Case=Ill
+п у ш +NOUN +Number=Sing +Case=Acc
+к о р п у с +NOUN +Number=Sing +Case=Gen
+п о д +NOUN +Number=Sing +Case=Nom
+г р а м п л а с т и н к е +NOUN +Number=Sing +Case=Ill
+а г ы т а н +NOUN +Number=Sing +Case=Nom
+т ӧ р а +NOUN +Number=Sing +Case=Nom
+п а й д а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	п а й д а +NOUN +Number=Sing +Case=Acc
+п а й д а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	п а й д а +NOUN +Number=Sing +Case=Acc
+в и л я +NOUN +Number=Sing +Case=Acc	в и л я +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+в и л я +NOUN +Number=Sing +Case=Acc	в и л я +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к р е с ӱ д ы р +NOUN +Number=Sing +Case=Nom
+в у й +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+ж а н р +NOUN +Number=Plur +Case=Nom
+к ӱ р т н ь ӧ +NOUN +Number=Sing +Case=Acc
+п л а т е +NOUN +Number=Sing +Case=Nom
+т е х н и к е +NOUN +Number=Sing +Case=Acc	т е х н и к +NOUN +Number=Sing +Case=Acc
+т е х н и к е +NOUN +Number=Sing +Case=Acc	т е х н и к +NOUN +Number=Sing +Case=Acc
+э ҥ е р +NOUN +Number=Sing +Case=Acc
+н а д ы р +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2
+б о е ц +NOUN +Number=Sing +Case=Nom
+д у х о в е н с т в е +NOUN +Number=Sing +Case=Gen
+к а л е н д а р ь +NOUN +Number=Sing +Case=Lat
+а з е р б а й д ж а н +NOUN +Number=Sing +Case=Ine
+г л а г о л +NOUN +Number=Sing +Case=Acc
+п а с у +NOUN +Number=Sing +Case=Ill
+р е л ь е ф +NOUN +Number=Sing +Case=Acc
+а р т и с т +NOUN +Number=Sing +Case=Nom
+о н ч ы ш о +NOUN +Number=Plur +Case=Acc
+у р а л +NOUN +Number=Sing +Case=Ine
+в о ш т о н ч ы ш +NOUN +Number=Sing +Case=Ine
+к у р с +NOUN +Number=Sing +Case=Gen
+ф е л ь е т о н +NOUN +Number=Sing +Case=Nom
+ш а н ч ы з е +NOUN +Number=Plur +Case=Gen
+г р и м +NOUN +Number=Sing +Case=Acc
+р е в о л ю ц и й +NOUN +Number=Sing +Case=Gen
+ш и й в у н д о +NOUN +Number=Sing +Case=Acc
+в а ч е +NOUN +Number=Sing +Case=Ill
+п р о ф е с с о р +NOUN +Number=Sing +Case=Nom
+и н т е р н +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2	и н т е р н е т +NOUN +Number=Sing +Case=Nom
+и н т е р н +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2	и н т е р н е т +NOUN +Number=Sing +Case=Nom
+п о п +NOUN +Number=Sing +Case=Nom
+т е р р и т о р и й +NOUN +Number=Sing +Case=Gen
+и г е ч е +NOUN +Number=Sing +Case=Acc
+а л к о г о л ь +NOUN +Number=Sing +Case=Nom
+г р у з ч и к +NOUN +Number=Sing +Case=Dat
+о ф и ц е р +NOUN +Number=Sing +Case=Acc
+к в а л и ф и к а ц и й +NOUN +Number=Sing +Case=Acc
+й ӱ к +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+т и ш т е +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+м о д ы ш +NOUN +Number=Sing +Case=Dat
+м о н и т о р +NOUN +Number=Sing +Case=Dat
+п ӧ р т +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+з о о с а д +NOUN +Number=Sing +Case=Nom
+п е ч а т ь +NOUN +Number=Sing +Case=Nom
+с о д е р ж а н и й +NOUN +Number=Sing +Case=Nom
+п р о з о +NOUN +Number=Sing +Case=Dat
+с е с к е м +NOUN +Number=Sing +Case=Acc
+к и с а +NOUN +Number=Sing +Case=Nom
+в ӱ д о з а +NOUN +Number=Sing +Case=Nom
+п р о п о в е д н и к +NOUN +Number=Sing +Case=Nom
+б а к т е р и й +NOUN +Number=Sing +Case=Nom
+с у л т а н +NOUN +Number=Sing +Case=Nom
+у м л а +NOUN +Number=Sing +Case=Acc	у м л а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+у м л а +NOUN +Number=Sing +Case=Acc	у м л а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+ш т а т +NOUN +Number=Sing +Case=Nom
+к у г ы в е ҥ е +NOUN +Number=Sing +Case=Nom
+п о ч ы л т м о +NOUN +Number=Sing +Case=Nom
+т о р ф +NOUN +Number=Sing +Case=Acc
+а л ю м и н и й +NOUN +Number=Sing +Case=Acc
+ш и н ч а +NOUN +Number=Sing +Case=Ine	ш и н ч а ш +NOUN +Number=Sing +Case=Ine
+ш и н ч а +NOUN +Number=Sing +Case=Ine	ш и н ч а ш +NOUN +Number=Sing +Case=Ine
+и с л а н д +NOUN +Number=Sing +Case=Nom
+ф у н т +NOUN +Number=Sing +Case=Nom
+с е м и н а р и й +NOUN +Number=Sing +Case=Ine
+п л а н +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2	п л а н е т +NOUN +Number=Sing +Case=Nom
+п л а н +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2	п л а н е т +NOUN +Number=Sing +Case=Nom
+э л +NOUN +Number=Plur +Case=Ine
+а р х е о л о г и й +NOUN +Number=Sing +Case=Dat
+д о м е н +NOUN +Number=Sing +Case=Nom
+п а д е ж +NOUN +Number=Sing +Case=Gen
+т ӧ ч ы ш ӧ +NOUN +Number=Sing +Case=Acc
+т а л е ш к е +NOUN +Number=Sing +Case=Acc
+а п о с т о л +NOUN +Number=Plur +Case=Nom
+п е р а +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=3
+о б р а з +NOUN +Number=Sing +Case=Nom
+а в т о р и т е т +NOUN +Number=Plur +Case=Nom
+р е к о н с т р у к ц и й +NOUN +Number=Sing +Case=Acc
+ю м о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	ю м +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+ю м о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	ю м +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+л ы ш т а ш +NOUN +Number=Sing +Case=Nom
+л а б о р а н т +NOUN +Number=Sing +Case=Dat
+с т и л и с т +NOUN +Number=Sing +Case=Nom
+а н с а м б л ь +NOUN +Number=Plur +Case=Nom
+д и в и з и о н +NOUN +Number=Sing +Case=Ill
+к о м п л е к с +NOUN +Number=Plur +Case=Acc
+к о м п а н и й +NOUN +Number=Sing +Case=Ine
+к о л л е к т и в +NOUN +Number=Sing +Case=Gen
+м е х а н и к е +NOUN +Number=Sing +Case=Nom
+о ҥ г о +NOUN +Number=Sing +Case=Gen
+м о м е н т +NOUN +Number=Sing +Case=Acc
+ж а п +NOUN +Number=Sing +Case=Ill
+т у в ы р +NOUN +Number=Sing +Case=Nom
+я л с о в е т +NOUN +Number=Sing +Case=Nom
+ч о ҥ а л т м е +NOUN +Number=Sing +Case=Nom
+м е д с е с т р а +NOUN +Number=Sing +Case=Nom
+а л ь м а н а х +NOUN +Number=Sing +Case=Nom
+в а ш т а л т ы л ш е +NOUN +Number=Plur +Case=Nom
+п р о с в е т и т е л ь с т в е +NOUN +Number=Sing +Case=Gen
+д е л е г а ц и й +NOUN +Number=Sing +Case=Nom
+п а г ы т +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+о с т р о г +NOUN +Number=Sing +Case=Nom
+д а н н ы й +NOUN +Number=Sing +Case=Acc
+с а д +NOUN +Number=Sing +Case=Nom
+м о д е л ь +NOUN +Number=Plur +Case=Acc
+а н а л и з +NOUN +Number=Sing +Case=Nom
+п ӧ р д м ӧ +NOUN +Number=Sing +Case=Nom
+к о н т р а с т +NOUN +Number=Sing +Case=Nom
+о м о +NOUN +Number=Sing +Case=Acc	о м +NOUN +Number=Sing +Case=Acc
+о м о +NOUN +Number=Sing +Case=Acc	о м +NOUN +Number=Sing +Case=Acc
+к о н ф е р е н ц и й +NOUN +Number=Sing +Case=Nom
+п о г о +NOUN +Number=Sing +Case=Nom
+а н с а м б л ь +NOUN +Number=Sing +Case=Acc
+с в я щ е н н и к +NOUN +Number=Sing +Case=Gen
+к о м п а р т и й +NOUN +Number=Sing +Case=Nom
+й ӧ н д а р т ы ш +NOUN +Number=Sing +Case=Nom
+с ӧ й +NOUN +Number=Sing +Case=Acc
+у ч е б н и к +NOUN +Number=Plur +Case=Acc
+ш о р а +NOUN +Number=Sing +Case=Nom
+т о р ф +NOUN +Number=Sing +Case=Nom
+ш о р д о +NOUN +Number=Sing +Case=Acc
+с а н к ц и й +NOUN +Number=Sing +Case=Acc
+и й л а +NOUN +Number=Sing +Case=Gen	и й +NOUN +Number=Sing +Case=Dat
+и й л а +NOUN +Number=Sing +Case=Gen	и й +NOUN +Number=Sing +Case=Dat
+п о э м о +NOUN +Number=Sing +Case=Dat	п о э м е +NOUN +Number=Sing +Case=Dat
+п о э м о +NOUN +Number=Sing +Case=Dat	п о э м е +NOUN +Number=Sing +Case=Dat
+т е р г ы з е +NOUN +Number=Plur +Case=Nom
+л е г е н д е +NOUN +Number=Sing +Case=Acc
+н а л о г +NOUN +Number=Sing +Case=Nom
+ф а з е +NOUN +Number=Sing +Case=Acc
+п р е м и й +NOUN +Number=Sing +Case=Nom
+л ӱ м ӧ +NOUN +Number=Sing +Case=Nom
+м е р я +NOUN +Number=Sing +Case=Gen
+к о н +NOUN +Number=Sing +Case=Nom
+о л ы к +NOUN +Number=Plur +Case=Nom
+ш ӱ г а р +NOUN +Number=Sing +Case=Lat
+п ӧ л е м +NOUN +Number=Sing +Case=Ill
+м и к р о р а й о н +NOUN +Number=Sing +Case=Nom
+о р ё л +NOUN +Number=Sing +Case=Nom
+м а т р о с +NOUN +Number=Plur +Case=Nom
+л и ц е й +NOUN +Number=Sing +Case=Nom
+т о л к ы н +NOUN +Number=Sing +Case=Dat
+п а р т к о м +NOUN +Number=Sing +Case=Nom
+в ӱ р ш е р +NOUN +Number=Sing +Case=Nom
+к а ч ы м а р и й +NOUN +Number=Sing +Case=Nom
+ш ӱ р т ӧ +NOUN +Number=Sing +Case=Nom
+е п а р х и й +NOUN +Number=Sing +Case=Nom
+с о н а р +NOUN +Number=Sing +Case=Ill
+т ӱ в ы р а +NOUN +Number=Sing +Case=Ill
+г е к т а р +NOUN +Number=Sing +Case=Ine
+в ӱ д к о л я +NOUN +Number=Sing +Case=Nom
+м о д ы ш +NOUN +Number=Sing +Case=Acc
+п а й +NOUN +Number=Sing +Case=Nom +Person[psor]=2 +Number[psor]=Plur	п а й д а +NOUN +Number=Sing +Case=Nom
+п а й +NOUN +Number=Sing +Case=Nom +Person[psor]=2 +Number[psor]=Plur	п а й д а +NOUN +Number=Sing +Case=Nom
+ш а ш к е +NOUN +Number=Sing +Case=Acc
+н а л е +NOUN +Number=Sing +Case=Nom
+к а н т о н +NOUN +Number=Sing +Case=Dat
+и д ы м +NOUN +Number=Sing +Case=Ine
+ш к а л а +NOUN +Number=Sing +Case=Gen
+л е в +NOUN +Number=Sing +Case=Nom
+ф е д е р а ц и й +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+п е л й ӱ д +NOUN +Number=Sing +Case=Acc
+с т о л и ц е +NOUN +Number=Sing +Case=Gen
+к а п к а +NOUN +Number=Sing +Case=Ill
+м а ш и н а +NOUN +Number=Sing +Case=Nom
+м и ш е н ь +NOUN +Number=Sing +Case=Nom
+э м у л ь с и й +NOUN +Number=Sing +Case=Gen
+ш о я г о р е м +NOUN +Number=Sing +Case=Acc
+п а р ф ю м е р и й +NOUN +Number=Sing +Case=Nom
+ч а п к ӱ +NOUN +Number=Sing +Case=Gen
+н е л ы т +NOUN +Number=Sing +Case=Gen
+ӱ л ы к +NOUN +Number=Sing +Case=Nom
+п о ч т о +NOUN +Number=Sing +Case=Nom
+к у к у +NOUN +Number=Sing +Case=Nom
+л и г е +NOUN +Number=Sing +Case=Acc
+л у +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+э р г е - ӱ д ы р +NOUN +Number=Plur +Case=Gen
+г а з е т +NOUN +Number=Sing +Case=Ine
+с е к р е т а р ь +NOUN +Number=Sing +Case=Gen
+ш а н ч ы з е +NOUN +Number=Plur +Case=Dat
+в е д о м с т в о +NOUN +Number=Plur +Case=Gen
+а п о с т р о ф +NOUN +Number=Sing +Case=Nom
+с к а ф а н д р +NOUN +Number=Sing +Case=Acc
+ф и н н - у г р о в е д е н и й +NOUN +Number=Sing +Case=Gen
+м и ш е н ь +NOUN +Number=Sing +Case=Ill
+ф а к т +NOUN +Number=Plur +Case=Acc
+т а з а л ы к а р а л т ы ш +NOUN +Number=Sing +Case=Nom
+и з у м р у д +NOUN +Number=Sing +Case=Nom
+п е л й ӱ д +NOUN +Number=Sing +Case=Nom
+ф о л ь к л о р +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+п а р л а м е н т +NOUN +Number=Sing +Case=Nom
+з а л +NOUN +Number=Sing +Case=Ine
+п о л и т и к +NOUN +Number=Plur +Case=Nom
+т у л о т о +NOUN +Number=Plur +Case=Acc
+к о л а т к а +NOUN +Number=Sing +Case=Nom
+й ы л м е +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+о к н а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	о к н а +NOUN +Number=Sing +Case=Acc
+о к н а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	о к н а +NOUN +Number=Sing +Case=Acc
+о б я з а н н о с т ь +NOUN +Number=Sing +Case=Ill
+г а з +NOUN +Number=Sing +Case=Nom
+п р а п о р щ и к +NOUN +Number=Sing +Case=Nom
+м е т р +NOUN +Number=Sing +Case=Acc
+с о в п а р т ш к о л +NOUN +Number=Sing +Case=Ine
+р а д а м +NOUN +Number=Sing +Case=Gen
+р е д а к т о р +NOUN +Number=Sing +Case=Nom
+д и з а й н е р +NOUN +Number=Sing +Case=Nom
+м о н о г р а м м е +NOUN +Number=Sing +Case=Nom
+о л м о +NOUN +Number=Sing +Case=Lat
+ф л и г е л ь +NOUN +Number=Sing +Case=Ine
+т р о м б о н +NOUN +Number=Sing +Case=Acc
+к л у б +NOUN +Number=Sing +Case=Acc
+а р т е л ь +NOUN +Number=Sing +Case=Acc
+т е ҥ г е +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2
+к о к ш а +NOUN +Number=Sing +Case=Nom
+т у л е +NOUN +Number=Sing +Case=Nom
+и з д е р +NOUN +Number=Sing +Case=Ill
+п ӧ р т +NOUN +Number=Sing +Case=Ine	п ӧ р т ы ш +NOUN +Number=Sing +Case=Ine
+п ӧ р т +NOUN +Number=Sing +Case=Ine	п ӧ р т ы ш +NOUN +Number=Sing +Case=Ine
+о ҥ а +NOUN +Number=Sing +Case=Nom
+я н ы к а й +NOUN +Number=Sing +Case=Nom
+о м ы н +NOUN +Number=Sing +Case=Nom	о м +NOUN +Number=Sing +Case=Gen	о м о +NOUN +Number=Sing +Case=Gen
+о м ы н +NOUN +Number=Sing +Case=Nom	о м +NOUN +Number=Sing +Case=Gen	о м о +NOUN +Number=Sing +Case=Gen
+о м ы н +NOUN +Number=Sing +Case=Nom	о м +NOUN +Number=Sing +Case=Gen	о м о +NOUN +Number=Sing +Case=Gen
+й ӱ л а +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=3
+р о м а н т и з м +NOUN +Number=Sing +Case=Gen
+к а п к а +NOUN +Number=Sing +Case=Nom
+ф у т у р и з м +NOUN +Number=Sing +Case=Nom
+у р +NOUN +Number=Sing +Case=Nom +Person[psor]=2 +Number[psor]=Plur
+п р о д у к ц и й +NOUN +Number=Sing +Case=Acc
+к е ш ы р +NOUN +Number=Sing +Case=Nom
+в ӱ т а +NOUN +Number=Sing +Case=Nom
+э в е н +NOUN +Number=Sing +Case=Nom
+р а д и о с т а н ц и й +NOUN +Number=Sing +Case=Gen
+б у р ж у а з и й +NOUN +Number=Sing +Case=Dat
+с а н а т о р и й +NOUN +Number=Plur +Case=Ine
+л и с т +NOUN +Number=Sing +Case=Nom
+ч о н +NOUN +Number=Sing +Case=Ine
+е м ы ж - с а с к а +NOUN +Number=Sing +Case=Acc	е м ы ж - с а с к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+е м ы ж - с а с к а +NOUN +Number=Sing +Case=Acc	е м ы ж - с а с к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+е в р о п е е ц +NOUN +Number=Sing +Case=Nom
+ф и р м е +NOUN +Number=Sing +Case=Nom
+п у б л и к а ц и й +NOUN +Number=Sing +Case=Gen
+к н а г а +NOUN +Number=Sing +Case=Nom
+а й д е м е +NOUN +Number=Plur +Case=Acc
+к о н ф е р е н ц и й +NOUN +Number=Sing +Case=Ine
+т о ш к а л м е +NOUN +Number=Sing +Case=Nom
+у р е м +NOUN +Number=Sing +Case=Gen
+п р и з н а к +NOUN +Number=Sing +Case=Acc
+ф е д е р а ц и й +NOUN +Number=Sing +Case=Acc
+т о ш т е р +NOUN +Number=Sing +Case=Acc
+п р а в о с л а в и й +NOUN +Number=Sing +Case=Nom
+в о з +NOUN +Number=Sing +Case=Gen
+о м +NOUN +Number=Sing +Case=Nom
+с е м и н а р +NOUN +Number=Sing +Case=Nom
+п ы л +NOUN +Number=Plur +Case=Nom
+ч и н +NOUN +Number=Sing +Case=Acc
+т о ш к а л т ы ш +NOUN +Number=Sing +Case=Ill
+с о р т +NOUN +Number=Sing +Case=Nom
+с у б ъ е к т +NOUN +Number=Plur +Case=Gen
+с к л а д +NOUN +Number=Sing +Case=Nom
+д о п р о с +NOUN +Number=Sing +Case=Nom
+б а с н е +NOUN +Number=Sing +Case=Acc
+п ӧ р ъ е ҥ +NOUN +Number=Plur +Case=Gen
+а р н я +NOUN +Number=Sing +Case=Nom
+т о ш т е р +NOUN +Number=Sing +Case=Dat
+б о л ь н и ц е +NOUN +Number=Sing +Case=Ine
+э л +NOUN +Number=Sing +Case=Ine
+а д в о к а т +NOUN +Number=Plur +Case=Nom
+р е к в и з и т +NOUN +Number=Sing +Case=Dat
+п е л е д ы ш +NOUN +Number=Sing +Case=Acc
+р у а ш +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=2
+о р б и т е +NOUN +Number=Sing +Case=Acc
+ӱ д ы р с и й +NOUN +Number=Sing +Case=Nom
+з а р я д +NOUN +Number=Sing +Case=Acc
+к а й ы к +NOUN +Number=Plur +Case=Nom
+о р г а н +NOUN +Number=Sing +Case=Nom
+у р а л +NOUN +Number=Sing +Case=Nom
+м у н и ц и п а л и т е т +NOUN +Number=Sing +Case=Gen
+й о с +NOUN +Number=Plur +Case=Nom
+п о л ю с +NOUN +Number=Plur +Case=Acc
+т ӱ е +NOUN +Number=Plur +Case=Nom
+б а л л +NOUN +Number=Plur +Case=Acc
+г а з е т +NOUN +Number=Sing +Case=Gen
+к у р с +NOUN +Number=Sing +Case=Nom
+и н в е с т и ц и й +NOUN +Number=Plur +Case=Nom
+с п р а в к е +NOUN +Number=Sing +Case=Nom
+ч е р т а +NOUN +Number=Sing +Case=Nom
+л а к е м +NOUN +Number=Sing +Case=Lat
+р у ш т а +NOUN +Number=Sing +Case=Acc	р у ш т а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+р у ш т а +NOUN +Number=Sing +Case=Acc	р у ш т а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к о к ш а в у й +NOUN +Number=Sing +Case=Nom
+а н ы к +NOUN +Number=Sing +Case=Nom
+т ӱ т к ы ш +NOUN +Number=Sing +Case=Acc
+м ы з е +NOUN +Number=Sing +Case=Nom
+й о ҥ е ж +NOUN +Number=Sing +Case=Nom
+в а ж +NOUN +Number=Plur +Case=Nom
+ч а й +NOUN +Number=Sing +Case=Acc
+п р о г р а м м е +NOUN +Number=Sing +Case=Acc
+п ӱ р т ӱ с +NOUN +Number=Sing +Case=Nom
+а с с и с т е н т +NOUN +Number=Sing +Case=Dat
+п р о т о к о л +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+л ӱ м г е ч е +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+м а з у т +NOUN +Number=Sing +Case=Nom
+с е р ы з е +NOUN +Number=Plur +Case=Dat
+э л +NOUN +Number=Plur +Case=Nom
+м у т +NOUN +Number=Sing +Case=Dat	м у т л а н +NOUN +Number=Sing +Case=Nom
+м у т +NOUN +Number=Sing +Case=Dat	м у т л а н +NOUN +Number=Sing +Case=Nom
+э р г е +NOUN +Number=Sing +Case=Gen
+м у р о +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=3
+г о л +NOUN +Number=Sing +Case=Acc
+п о с а к +NOUN +Number=Sing +Case=Nom
+п ы р ы с +NOUN +Number=Sing +Case=Gen
+к о р н о +NOUN +Number=Sing +Case=Nom
+п р о ц е н т +NOUN +Number=Sing +Case=Nom
+й ӱ д в е л - к а с в е л +NOUN +Number=Sing +Case=Nom
+ш ы ҥ а +NOUN +Number=Sing +Case=Nom
+к р а е в е д +NOUN +Number=Sing +Case=Dat
+у г л е в о д +NOUN +Number=Sing +Case=Nom
+м и ф о л о г и й +NOUN +Number=Sing +Case=Acc
+в а ш т а л т ы ш +NOUN +Number=Plur +Case=Nom
+й о ҥ й ӱ к +NOUN +Number=Sing +Case=Dat
+м у н о +NOUN +Number=Sing +Case=Nom
+к и д ш о в ы ч +NOUN +Number=Sing +Case=Nom
+ф о р м у л +NOUN +Number=Sing +Case=Nom
+х а н +NOUN +Number=Sing +Case=Ade
+ӱ д ы р ъ е ҥ +NOUN +Number=Sing +Case=Acc
+п а л д ы р +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+с м о л а +NOUN +Number=Sing +Case=Nom
+а р х а н г е л +NOUN +Number=Sing +Case=Nom
+у ш е м +NOUN +Number=Sing +Case=Ill
+с ы н - к у н +NOUN +Number=Plur +Case=Nom
+п о р т а л +NOUN +Number=Sing +Case=Gen
+м е ҥ г е +NOUN +Number=Sing +Case=Acc
+м у т т ӱ ҥ +NOUN +Number=Sing +Case=Ill
+с а л ь т о +NOUN +Number=Sing +Case=Acc
+м е т е о р о л о г и й +NOUN +Number=Sing +Case=Nom
+п и с ь м е н н о с т ь +NOUN +Number=Sing +Case=Nom
+п р и х о д +NOUN +Number=Sing +Case=Dat
+п ӧ л к а +NOUN +Number=Sing +Case=Ine
+к о р з и н к а +NOUN +Number=Sing +Case=Acc	к о р з и н к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к о р з и н к а +NOUN +Number=Sing +Case=Acc	к о р з и н к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+ф о т о г р а ф +NOUN +Number=Sing +Case=Nom
+а р х е о л о г +NOUN +Number=Plur +Case=Gen
+о т д е л е н и й +NOUN +Number=Sing +Case=Gen
+в о й с к а +NOUN +Number=Sing +Case=Nom
+х о к к е и с т +NOUN +Number=Plur +Case=Dat
+п р о ф е с с и й +NOUN +Number=Sing +Case=Ill
+г а р м о н ь +NOUN +Number=Sing +Case=Nom
+с х е м а т и з м +NOUN +Number=Sing +Case=Nom
+к о н к у р с +NOUN +Number=Sing +Case=Ill
+ш о р ы к +NOUN +Number=Sing +Case=Nom
+к о м и - з ы р я н +NOUN +Number=Plur +Case=Gen
+ф а к у л ь т е т +NOUN +Number=Sing +Case=Nom
+п ӧ р т +NOUN +Number=Sing +Case=Nom
+м у т +NOUN +Number=Sing +Case=Ill
+ч а п м у р о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+у т ы р +NOUN +Number=Sing +Case=Nom
+к а н т о н +NOUN +Number=Sing +Case=Acc
+г е н е р а л +NOUN +Number=Plur +Case=Nom
+к о л +NOUN +Number=Sing +Case=Dat
+п р о ц е с с о р +NOUN +Number=Sing +Case=Nom
+н а р е ч и й +NOUN +Number=Sing +Case=Dat
+к о л х о з +NOUN +Number=Plur +Case=Acc
+в е д р а +NOUN +Number=Sing +Case=Nom
+к о в а +NOUN +Number=Plur +Case=Nom
+с и т у а ц и й +NOUN +Number=Sing +Case=Nom
+у н ы к а +NOUN +Number=Plur +Case=Dat
+г а р м о н и й +NOUN +Number=Sing +Case=Nom
+ш ӱ ш п ы к +NOUN +Number=Sing +Case=Nom
+у ж а ш +NOUN +Number=Plur +Case=Ill
+м у з е й +NOUN +Number=Sing +Case=Ine
+ф о н д +NOUN +Number=Sing +Case=Nom
+с е к ц и й +NOUN +Number=Sing +Case=Ill
+к о р о л е в с т в е +NOUN +Number=Sing +Case=Gen
+т ӱ в ы р а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	т ӱ в ы р а +NOUN +Number=Sing +Case=Acc
+т ӱ в ы р а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	т ӱ в ы р а +NOUN +Number=Sing +Case=Acc
+г и г а б а й т +NOUN +Number=Sing +Case=Nom
+к а л ы п +NOUN +Number=Sing +Case=Ine
+с т а н и ц е +NOUN +Number=Sing +Case=Ine
+д у э л ь +NOUN +Number=Sing +Case=Ill
+п л о щ а д ь +NOUN +Number=Sing +Case=Nom
+в а к ш +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+о н ч е р +NOUN +Number=Sing +Case=Nom
+т а м г а +NOUN +Number=Sing +Case=Nom
+м ӧ р т н ь ӧ +NOUN +Number=Sing +Case=Nom
+а н г и н е +NOUN +Number=Sing +Case=Nom
+м у л ь т ф и л ь м +NOUN +Number=Sing +Case=Dat
+в ӱ р +NOUN +Number=Sing +Case=Ine
+в а л н е +NOUN +Number=Sing +Case=Nom
+ӱ ж ӱ в ӱ р +NOUN +Number=Sing +Case=Nom
+у с л о в и й +NOUN +Number=Sing +Case=Nom
+а г е н т +NOUN +Number=Plur +Case=Nom
+ш о м а к +NOUN +Number=Plur +Case=Acc
+ш ӧ р ш у д о +NOUN +Number=Sing +Case=Nom
+т а р а й +NOUN +Number=Sing +Case=Nom
+ж е л е з о б е т о н +NOUN +Number=Sing +Case=Nom
+т а л е ш к е +NOUN +Number=Plur +Case=Acc
+н а у к о +NOUN +Number=Sing +Case=Ine
+а н а т о м и й +NOUN +Number=Sing +Case=Nom
+с к о р о с т ь +NOUN +Number=Sing +Case=Acc
+о й ы р т е м +NOUN +Number=Sing +Case=Ill	о й ы р т е м ы ш +NOUN +Number=Sing +Case=Nom
+о й ы р т е м +NOUN +Number=Sing +Case=Ill	о й ы р т е м ы ш +NOUN +Number=Sing +Case=Nom
+п и с а т е л ь +NOUN +Number=Sing +Case=Dat
+м у р о +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+т е л а +NOUN +Number=Sing +Case=Nom
+р е в ю +NOUN +Number=Sing +Case=Nom
+й о л +NOUN +Number=Sing +Case=Ine
+с е м а н т и к е +NOUN +Number=Sing +Case=Nom
+я в а л а +NOUN +Number=Sing +Case=Ine
+у р я д н и к +NOUN +Number=Sing +Case=Acc
+ч е м п и о н а т +NOUN +Number=Sing +Case=Dat
+о н ь ы ж а +NOUN +Number=Plur +Case=Gen
+п ӧ л к а +NOUN +Number=Sing +Case=Ine
+к е л ы ш т а р ы м е +NOUN +Number=Sing +Case=Nom
+д р а м а т у р г +NOUN +Number=Sing +Case=Gen
+м е т р +NOUN +Number=Sing +Case=Ill
+у ш е м +NOUN +Number=Sing +Case=Ine
+д и с ц и п л и н +NOUN +Number=Sing +Case=Nom
+к о м п о з и т о р +NOUN +Number=Sing +Case=Nom
+к о л ь м о +NOUN +Number=Sing +Case=Nom
+к у э р +NOUN +Number=Sing +Case=Ill
+с у л ы к +NOUN +Number=Sing +Case=Nom
+п о л ы ш +NOUN +Number=Plur +Case=Nom
+и д е й н о - п о л и т и ч е с к и й +NOUN +Number=Sing +Case=Nom
+р ӱ д е р +NOUN +Number=Sing +Case=Ill
+в ӱ д +NOUN +Number=Sing +Case=Gen
+у д м у р т +NOUN +Number=Plur +Case=Nom
+м у ж о +NOUN +Number=Sing +Case=Lat
+д о б л е с т ь +NOUN +Number=Sing +Case=Nom
+т ӱ е +NOUN +Number=Sing +Case=Nom
+с т р о к а +NOUN +Number=Sing +Case=Acc	с т р о к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+с т р о к а +NOUN +Number=Sing +Case=Acc	с т р о к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+д е л а +NOUN +Number=Sing +Case=Acc	д е л а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+д е л а +NOUN +Number=Sing +Case=Acc	д е л а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+м и н и с т е р с т в е +NOUN +Number=Sing +Case=Gen
+о л и м п и а д е +NOUN +Number=Sing +Case=Dat
+а ч а м л а н д е +NOUN +Number=Sing +Case=Ine
+м о д е л ь +NOUN +Number=Sing +Case=Gen
+с ц е н е +NOUN +Number=Sing +Case=Ill
+м и н д а л ь +NOUN +Number=Sing +Case=Nom
+в е р ш ӧ р +NOUN +Number=Sing +Case=Gen
+т у в ы р +NOUN +Number=Sing +Case=Acc
+ш у й +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+с т а т ь я +NOUN +Number=Sing +Case=Nom
+п о р т +NOUN +Number=Sing +Case=Nom
+п с и х о л о г и ч е с к и й +NOUN +Number=Sing +Case=Nom
+ч и й ы м е +NOUN +Number=Sing +Case=Nom
+и д и ш +NOUN +Number=Sing +Case=Nom
+ш ӧ р в а л +NOUN +Number=Sing +Case=Acc
+с т а т у с +NOUN +Number=Sing +Case=Dat
+з а м е ч а н и й +NOUN +Number=Sing +Case=Nom
+п у +NOUN +Number=Sing +Case=Lat
+л е з в и й +NOUN +Number=Sing +Case=Nom
+о з а +NOUN +Number=Sing +Case=Acc	о з а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+о з а +NOUN +Number=Sing +Case=Acc	о з а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+п е д т е х н и к у м +NOUN +Number=Sing +Case=Acc
+д в о р е ц +NOUN +Number=Sing +Case=Nom
+с л а л о м +NOUN +Number=Sing +Case=Gen
+к о р е й +NOUN +Number=Sing +Case=Acc
+ӱ м ы р +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к ы л ь ч а к +NOUN +Number=Sing +Case=Nom
+с у р т к а й ы к +NOUN +Number=Sing +Case=Nom
+о б ъ ё м +NOUN +Number=Sing +Case=Nom
+р о д о - т у к ы м +NOUN +Number=Sing +Case=Nom
+р е ж и с с ё р +NOUN +Number=Sing +Case=Gen
+п е й з а ж +NOUN +Number=Sing +Case=Ine
+ш а г е +NOUN +Number=Sing +Case=Ine
+к ы ш к а р +NOUN +Number=Sing +Case=Ill
+э н ц и к л о п е д и й +NOUN +Number=Sing +Case=Acc
+э к ш ы к +NOUN +Number=Plur +Case=Acc
+к а п +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+й ы р а ҥ +NOUN +Number=Sing +Case=Ine
+в ы н е м +NOUN +Number=Sing +Case=Nom
+ю м о ҥ а +NOUN +Number=Sing +Case=Nom
+а н с а м б л ь +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+э м +NOUN +Number=Sing +Case=Nom	э +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	э +NOUN +Number=Sing +Case=Acc
+э м +NOUN +Number=Sing +Case=Nom	э +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	э +NOUN +Number=Sing +Case=Acc
+э м +NOUN +Number=Sing +Case=Nom	э +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	э +NOUN +Number=Sing +Case=Acc
+с т у д е н т +NOUN +Number=Sing +Case=Nom
+в а ш т а л т ы л ш е +NOUN +Number=Sing +Case=Acc
+в з в о д +NOUN +Number=Sing +Case=Gen
+у п р а в л е н и й +NOUN +Number=Sing +Case=Gen
+ю м о +NOUN +Number=Plur +Case=Nom
+к р у г +NOUN +Number=Sing +Case=Acc
+т у н ы к т ы ш о +NOUN +Number=Plur +Case=Nom
+п а ш а +NOUN +Number=Sing +Case=Ine
+м и н у т +NOUN +Number=Sing +Case=Acc
+в е ч е +NOUN +Number=Sing +Case=Gen
+т о ш т е р +NOUN +Number=Sing +Case=Gen
+к о р о л е в е +NOUN +Number=Sing +Case=Gen
+и н ф о м е р с о т о +NOUN +Number=Sing +Case=Nom
+в ӱ т а +NOUN +Number=Sing +Case=Ill	в ӱ т а +NOUN +Number=Sing +Case=Lat
+в ӱ т а +NOUN +Number=Sing +Case=Ill	в ӱ т а +NOUN +Number=Sing +Case=Lat
+и н в е с т и ц и й +NOUN +Number=Sing +Case=Nom
+т ӱ в ы р а +NOUN +Number=Sing +Case=Ine
+п и к а п +NOUN +Number=Sing +Case=Acc
+т ӱ ш к а +NOUN +Number=Sing +Case=Acc	т ӱ ш к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+т ӱ ш к а +NOUN +Number=Sing +Case=Acc	т ӱ ш к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+в о н д о +NOUN +Number=Sing +Case=Gen
+к ӱ ш т ы к +NOUN +Number=Sing +Case=Acc
+с т у д и й +NOUN +Number=Sing +Case=Ine
+р а у н д +NOUN +Number=Sing +Case=Ine
+о п р е д е л е н и й +NOUN +Number=Sing +Case=Nom
+в у й +NOUN +Number=Sing +Case=Nom
+п у д е ш т а р ы м е +NOUN +Number=Sing +Case=Nom
+х р о н и к е +NOUN +Number=Sing +Case=Nom
+ш а н ч е +NOUN +Number=Sing +Case=Ine
+р е в о л ю ц и о н е р +NOUN +Number=Plur +Case=Nom
+т а н ы к к а г а з +NOUN +Number=Sing +Case=Ine
+о р г к о м и т е т +NOUN +Number=Sing +Case=Gen
+с ӱ р е т ч е +NOUN +Number=Plur +Case=Gen
+к ӧ г ӧ н +NOUN +Number=Sing +Case=Nom
+а р а м л о г а р +NOUN +Number=Sing +Case=Acc
+д о к у м е н т +NOUN +Number=Sing +Case=Gen
+ж е р т в е +NOUN +Number=Plur +Case=Acc
+г о л +NOUN +Number=Plur +Case=Nom
+к ӱ к ш ы т +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+к ӱ с л е +NOUN +Number=Sing +Case=Acc	к ӱ с л е +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к ӱ с л е +NOUN +Number=Sing +Case=Acc	к ӱ с л е +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+б а л а +NOUN +Number=Sing +Case=Nom
+п а к ч а +NOUN +Number=Sing +Case=Ill	п а к ч а +NOUN +Number=Sing +Case=Lat
+п а к ч а +NOUN +Number=Sing +Case=Ill	п а к ч а +NOUN +Number=Sing +Case=Lat
+л ӱ м +NOUN +Number=Sing +Case=Ill	л ӱ м е +NOUN +Number=Sing +Case=Ill	л ӱ м ӧ +NOUN +Number=Sing +Case=Ill
+л ӱ м +NOUN +Number=Sing +Case=Ill	л ӱ м е +NOUN +Number=Sing +Case=Ill	л ӱ м ӧ +NOUN +Number=Sing +Case=Ill
+л ӱ м +NOUN +Number=Sing +Case=Ill	л ӱ м е +NOUN +Number=Sing +Case=Ill	л ӱ м ӧ +NOUN +Number=Sing +Case=Ill
+п о э т +NOUN +Number=Plur +Case=Nom
+к о ч ы в ӱ д +NOUN +Number=Sing +Case=Acc
+к л а с с +NOUN +Number=Sing +Case=Gen
+и н ф о р м а ц и й +NOUN +Number=Sing +Case=Acc
+ф о н т а н +NOUN +Number=Sing +Case=Nom
+п о с а д +NOUN +Number=Sing +Case=Acc
+м у з ы к о +NOUN +Number=Sing +Case=Dat
+ч а п к ӱ +NOUN +Number=Sing +Case=Nom
+о з а в а т е +NOUN +Number=Sing +Case=Acc
+к о м п о з и ц и й +NOUN +Number=Plur +Case=Acc
+у ш м е н +NOUN +Number=Sing +Case=Nom
+ф о н о л о г и й +NOUN +Number=Sing +Case=Acc
+к о о п е р а т и в +NOUN +Number=Sing +Case=Ine
+с е л ь с о в е т +NOUN +Number=Sing +Case=Gen
+а у д и т о р и й +NOUN +Number=Sing +Case=Nom
+о н ч ы ш о +NOUN +Number=Plur +Case=Gen
+а р т и л л е р и с т +NOUN +Number=Sing +Case=Nom
+а р г у м е н т +NOUN +Number=Sing +Case=Nom
+с а й т +NOUN +Number=Plur +Case=Acc
+м а л а й +NOUN +Number=Sing +Case=Nom
+в а ш т а л т ы л ш е +NOUN +Number=Plur +Case=Gen
+с р а в о ч +NOUN +Number=Sing +Case=Acc
+п ӧ р ъ е ҥ +NOUN +Number=Sing +Case=Nom
+к о н т р р е в о л ю ц и й +NOUN +Number=Sing +Case=Nom
+х а н +NOUN +Number=Plur +Case=Nom
+т а л а н т +NOUN +Number=Sing +Case=Nom
+м у ч а ш +NOUN +Number=Sing +Case=Ill
+а р +NOUN +Number=Sing +Case=Nom
+б о м б а р д и р о в к о +NOUN +Number=Sing +Case=Nom
+а п ш а т к у д о +NOUN +Number=Sing +Case=Nom
+ӱ м ы р +NOUN +Number=Sing +Case=Lat
+я в а л а +NOUN +Number=Plur +Case=Acc
+к о т и к +NOUN +Number=Sing +Case=Nom
+к о м а н м е л н а +NOUN +Number=Sing +Case=Acc	к о м а н м е л н а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к о м а н м е л н а +NOUN +Number=Sing +Case=Acc	к о м а н м е л н а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+ӱ м ы р +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+п л о щ а д к е +NOUN +Number=Plur +Case=Nom
+ш о л о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	ш о л +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+ш о л о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	ш о л +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+у ж а ш +NOUN +Number=Sing +Case=Dat
+а к т ё р +NOUN +Number=Sing +Case=Gen
+г е н е р а л +NOUN +Number=Sing +Case=Dat
+о й ӧ р ӧ +NOUN +Number=Plur +Case=Acc
+к е л г ы т +NOUN +Number=Sing +Case=Acc
+р а д и о с т а н ц и й +NOUN +Number=Sing +Case=Nom
+к о д +NOUN +Number=Plur +Case=Ine
+м о д е р н и з м +NOUN +Number=Sing +Case=Nom
+э к о л о г и й +NOUN +Number=Sing +Case=Nom
+с т и п е н д и й +NOUN +Number=Sing +Case=Nom
+с т р о ф а +NOUN +Number=Sing +Case=Nom
+ш к о л +NOUN +Number=Plur +Case=Gen
+ч а р н а л т ы ш +NOUN +Number=Sing +Case=Nom
+к е ч е +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+д и с с е р т а ц и й +NOUN +Number=Sing +Case=Acc
+к о н в е й е р +NOUN +Number=Sing +Case=Ill
+л и с т о в к о +NOUN +Number=Sing +Case=Acc
+к е ч е +NOUN +Number=Sing +Case=Lat
+г о р о д о к +NOUN +Number=Plur +Case=Nom
+р и м +NOUN +Number=Sing +Case=Ill
+н а п и т к е +NOUN +Number=Sing +Case=Nom
+о р ъ е ҥ +NOUN +Number=Sing +Case=Acc
+с ӱ р е м +NOUN +Number=Sing +Case=Ill
+к и д п а ш а +NOUN +Number=Sing +Case=Nom
+х р и с т и а н +NOUN +Number=Plur +Case=Dat
+п о э м о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	п о э м е +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+п о э м о +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur	п о э м е +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+д в и г а т е л ь +NOUN +Number=Plur +Case=Acc
+к л а с с и ц и з м +NOUN +Number=Sing +Case=Gen
+к ӱ т ӱ ч ӧ +NOUN +Number=Sing +Case=Nom
+э т н о л о г +NOUN +Number=Sing +Case=Nom
+к а з а м а т +NOUN +Number=Sing +Case=Ill
+н а п р а в и т е л ь н ы й +NOUN +Number=Sing +Case=Nom
+п ӧ р ъ е ҥ +NOUN +Number=Plur +Case=Nom
+л е г е н д е +NOUN +Number=Sing +Case=Nom
+к о м с о м о л +NOUN +Number=Sing +Case=Ill
+м у з ы к а н т +NOUN +Number=Sing +Case=Gen
+ч а р +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+м о л и т в а +NOUN +Number=Plur +Case=Acc
+п и т а н и й +NOUN +Number=Sing +Case=Nom
+с е р +NOUN +Number=Sing +Case=Acc
+т ӧ р з а +NOUN +Number=Sing +Case=Nom
+п р е м и й +NOUN +Number=Plur +Case=Acc
+з а д а ч е +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=3
+в а т е +NOUN +Number=Sing +Case=Nom
+в у з +NOUN +Number=Sing +Case=Dat
+п ӱ к ш +NOUN +Number=Sing +Case=Acc
+ж а н р +NOUN +Number=Plur +Case=Ine
+р е к о р д +NOUN +Number=Sing +Case=Nom
+з е м л я к +NOUN +Number=Sing +Case=Nom
+м л а н д е +NOUN +Number=Sing +Case=Nom
+п ӧ л е м +NOUN +Number=Sing +Case=Ine
+п о л а т +NOUN +Number=Plur +Case=Nom
+б е н з и н +NOUN +Number=Sing +Case=Nom
+ю м ы з о +NOUN +Number=Sing +Case=Dat
+ч а р а й о л +NOUN +Number=Sing +Case=Gen
+ф о т о с ӱ р е т +NOUN +Number=Sing +Case=Acc
+ӧ ш л ӧ к +NOUN +Number=Sing +Case=Nom
+э +NOUN +Number=Sing +Case=Ill	э ш +NOUN +Number=Sing +Case=Ill
+э +NOUN +Number=Sing +Case=Ill	э ш +NOUN +Number=Sing +Case=Ill
+м ӧ ҥ г ӧ +NOUN +Number=Sing +Case=Ill
+г о р к о м +NOUN +Number=Sing +Case=Nom
+к и д п а л е +NOUN +Number=Sing +Case=Nom
+ф и л ь м +NOUN +Number=Sing +Case=Dat
+к а в ы ч к е +NOUN +Number=Sing +Case=Lat
+г р у п п о +NOUN +Number=Plur +Case=Nom
+л а т ы н ь +NOUN +Number=Sing +Case=Nom
+м и ш е н ь +NOUN +Number=Sing +Case=Dat
+к ӧ р г а р в е р +NOUN +Number=Sing +Case=Gen
+к о р к а +NOUN +Number=Sing +Case=Acc	к о р к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к о р к а +NOUN +Number=Sing +Case=Acc	к о р к а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+м а т е р и к +NOUN +Number=Sing +Case=Nom
+к а н а л +NOUN +Number=Sing +Case=Acc
+с а в ы р +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+п е х о т о +NOUN +Number=Sing +Case=Gen
+с и с т е м е +NOUN +Number=Plur +Case=Gen
+к о н с т р у к ц и й +NOUN +Number=Sing +Case=Nom
+п а м п а л ч е +NOUN +Number=Sing +Case=Nom
+м а к а р л я +NOUN +Number=Sing +Case=Nom
+к о н ц л а г е р ь +NOUN +Number=Sing +Case=Nom
+з д а н и й +NOUN +Number=Sing +Case=Nom
+п и а л +NOUN +Number=Sing +Case=Nom
+э к о н о м и с т +NOUN +Number=Sing +Case=Nom
+п о э м е +NOUN +Number=Sing +Case=Ine	п о э м о +NOUN +Number=Sing +Case=Ine
+п о э м е +NOUN +Number=Sing +Case=Ine	п о э м о +NOUN +Number=Sing +Case=Ine
+г е н и й +NOUN +Number=Sing +Case=Gen
+т р и о +NOUN +Number=Sing +Case=Nom
+а н ь ы к +NOUN +Number=Sing +Case=Nom
+к у г а р н я +NOUN +Number=Sing +Case=Acc	к у г а р н я +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+к у г а р н я +NOUN +Number=Sing +Case=Acc	к у г а р н я +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+о ч е р к +NOUN +Number=Sing +Case=Acc
+д и п л о м а т +NOUN +Number=Plur +Case=Dat
+р о л ь +NOUN +Number=Sing +Case=Nom
+д и с к о т е к е +NOUN +Number=Sing +Case=Dat
+м и ш е н ь +NOUN +Number=Sing +Case=Acc
+м у т е р +NOUN +Number=Sing +Case=Ill
+х о р +NOUN +Number=Sing +Case=Ine
+м у т л о н ч о +NOUN +Number=Sing +Case=Ill	м у т л о н ч ы ш +NOUN +Number=Sing +Case=Nom
+м у т л о н ч о +NOUN +Number=Sing +Case=Ill	м у т л о н ч ы ш +NOUN +Number=Sing +Case=Nom
+к у р ы к +NOUN +Number=Sing +Case=Nom
+к и д +NOUN +Number=Sing +Case=Nom
+о р к е с т р +NOUN +Number=Sing +Case=Ine
+а г а в а й р е м +NOUN +Number=Sing +Case=Dat
+п о л т о +NOUN +Number=Sing +Case=Ill
+т о л к ы н +NOUN +Number=Plur +Case=Gen
+р а д а м +NOUN +Number=Sing +Case=Acc
+к р а с +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+б а ч ы ш к а +NOUN +Number=Sing +Case=Nom
+с л о в а р ь +NOUN +Number=Sing +Case=Nom
+и м н е +NOUN +Number=Sing +Case=Dat
+э р а +NOUN +Number=Sing +Case=Nom
+г р а в и т а ц и й +NOUN +Number=Sing +Case=Dat
+д и с к +NOUN +Number=Sing +Case=Nom
+м а т е м а т и к +NOUN +Number=Plur +Case=Nom
+и с т е ц +NOUN +Number=Sing +Case=Nom
+с у р т - о р а л т е +NOUN +Number=Sing +Case=Nom
+и м н е +NOUN +Number=Sing +Case=Ill
+к у л а к +NOUN +Number=Sing +Case=Acc
+в а п ш +NOUN +Number=Sing +Case=Acc
+к о ч а +NOUN +Number=Sing +Case=Dat
+к у м л у к +NOUN +Number=Sing +Case=Nom
+ш р и ф т +NOUN +Number=Sing +Case=Nom
+д е я т е л ь +NOUN +Number=Sing +Case=Gen
+с ӱ р е т +NOUN +Number=Sing +Case=Gen
+ш ӱ г а р +NOUN +Number=Sing +Case=Acc
+м е р и д и а н +NOUN +Number=Sing +Case=Nom
+д о л ж н о с т ь +NOUN +Number=Sing +Case=Acc
+а к в а р е л ь +NOUN +Number=Sing +Case=Nom
+п е д а г о г +NOUN +Number=Plur +Case=Nom
+а ч а - а в а +NOUN +Number=Sing +Case=Nom +Number[psor]=Sing +Person[psor]=3
+я к ы н +NOUN +Number=Sing +Case=Dat
+п о л и ф о н и й +NOUN +Number=Sing +Case=Nom
+к а в а л е р и й +NOUN +Number=Sing +Case=Ine
+ш е д е в р +NOUN +Number=Sing +Case=Dat
+п р е д с е д а т е л ь +NOUN +Number=Sing +Case=Gen
+о м с а +NOUN +Number=Sing +Case=Nom
+м а р ш а л +NOUN +Number=Sing +Case=Nom
+ф о н +NOUN +Number=Sing +Case=Ade
+с х е м е +NOUN +Number=Sing +Case=Nom
+ш ы м л ы з е +NOUN +Number=Sing +Case=Ill
+ш а с с и +NOUN +Number=Sing +Case=Nom
+т ӱ с м о д е л ь +NOUN +Number=Sing +Case=Nom
+ф а б р и к е +NOUN +Number=Sing +Case=Acc	ф а б р и к +NOUN +Number=Sing +Case=Acc
+ф а б р и к е +NOUN +Number=Sing +Case=Acc	ф а б р и к +NOUN +Number=Sing +Case=Acc
+у р о к +NOUN +Number=Sing +Case=Nom
+ш о р ы к й о л +NOUN +Number=Sing +Case=Nom
+м о д о +NOUN +Number=Sing +Case=Acc
+п л а с т и н к е +NOUN +Number=Plur +Case=Acc
+д а н н ы й +NOUN +Number=Plur +Case=Nom
+п а р т и й +NOUN +Number=Sing +Case=Acc
+д о л ж н о с т ь +NOUN +Number=Sing +Case=Ill
+п а ш а е ҥ +NOUN +Number=Sing +Case=Nom +Person[psor]=3 +Number[psor]=Plur
+т о п +NOUN +Number=Sing +Case=Gen
+ч у м ы р г ы м о +NOUN +Number=Sing +Case=Nom
+к у э м +NOUN +Number=Sing +Case=Acc
+с н а р я д +NOUN +Number=Sing +Case=Gen
+п р а в и л +NOUN +Number=Sing +Case=Nom
+п у ж л ы м о +NOUN +Number=Sing +Case=Nom
+с о л а +NOUN +Number=Sing +Case=Ine
+п с е в д о н и м +NOUN +Number=Plur +Case=Nom
+в и й - к у а т +NOUN +Number=Sing +Case=Acc
+п а н +NOUN +Number=Sing +Case=Nom
+д и р е к т о р +NOUN +Number=Sing +Case=Gen
+й ӱ д в е л - э р в е л +NOUN +Number=Sing +Case=Ine
+п о ч е л а м у т +NOUN +Number=Sing +Case=Ine
+о й - к а ҥ а ш +NOUN +Number=Sing +Case=Acc
+п л а с т и н к е +NOUN +Number=Sing +Case=Ill
+а л ь м а н а х +NOUN +Number=Sing +Case=Acc
+г о р н я к +NOUN +Number=Sing +Case=Nom
+ш а г е +NOUN +Number=Sing +Case=Nom
+п и с к е +NOUN +Number=Sing +Case=Nom
+б и а т л о н +NOUN +Number=Sing +Case=Acc
+ш о р ы к й о л +NOUN +Number=Sing +Case=Acc
+з а в е щ а н и й +NOUN +Number=Sing +Case=Gen
+з н а к +NOUN +Number=Sing +Case=Acc
+п у л а м ы р +NOUN +Number=Plur +Case=Nom
+т р е н и р о в к о +NOUN +Number=Sing +Case=Acc
+к л а п а н +NOUN +Number=Sing +Case=Nom
+р а д и о п е р е д а ч е +NOUN +Number=Sing +Case=Acc
+т е к с т +NOUN +Number=Sing +Case=Acc
+ш и н ч а л +NOUN +Number=Sing +Case=Nom
+о п ы т +NOUN +Number=Sing +Case=Acc
+т р а н с к р и п ц и й +NOUN +Number=Sing +Case=Ine
+м а т е р и а л +NOUN +Number=Sing +Case=Dat
+д е л а +NOUN +Number=Sing +Case=Ill
+э р г е +NOUN +Number=Sing +Case=Acc	э р г е +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+э р г е +NOUN +Number=Sing +Case=Acc	э р г е +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing
+г и д р а в л и к е +NOUN +Number=Sing +Case=Nom
+у ш к а л +NOUN +Number=Sing +Case=Nom
+п о г ы н +NOUN +Number=Sing +Case=Ine
+и й г о т +NOUN +Number=Sing +Case=Ill
+о т е л ь +NOUN +Number=Sing +Case=Ine
+с т а т ь я +NOUN +Number=Plur +Case=Nom
+к ӱ с о т о +NOUN +Number=Sing +Case=Ine
+с ӧ й +NOUN +Number=Sing +Case=Ill
+ч ы к м а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	ч ы к м а +NOUN +Number=Sing +Case=Acc
+ч ы к м а +NOUN +Number=Sing +Case=Nom +Person[psor]=1 +Number[psor]=Sing	ч ы к м а +NOUN +Number=Sing +Case=Acc

@@ -1,0 +1,11 @@
+Analysis Recall: 88.30
+Analysis Precision: 87.90
+Analysis F-Score: 88.10
+
+Tag Recall: 91.69
+Tag Precision: 94.91
+Tag F-Score: 93.27
+
+Lemma Recall: 94.21
+Lemma Precision: 88.26
+Lemma F-Score: 91.14
